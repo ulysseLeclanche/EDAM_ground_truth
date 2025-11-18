@@ -2,7 +2,6 @@
   "tools#1": {
     "name": "Anvi’o",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -57,7 +56,6 @@
   "tools#2": {
     "name": "Anvi’o",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -102,7 +100,6 @@
   "tools#3": {
     "name": "Anvi’o",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -146,7 +143,6 @@
   "tools#4": {
     "name": "MEGAHIT",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "sequence assembly",
@@ -178,7 +174,6 @@
   "tools#5": {
     "name": "MEGAHIT",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "sequence assembly",
@@ -208,7 +203,6 @@
   "tools#6": {
     "name": "MEGAHIT",
     "discipline": "Metagenomics",
-    "provenance": "proposition expert",
     "source": "proposition expert",
     "topic": [
       "sequence assembly",
@@ -233,7 +227,6 @@
   "tools#7": {
     "name": "MEGAHIT",
     "discipline": "Metagenomics",
-    "provenance": "proposition expert 2",
     "source": "proposition expert 2",
     "topic": [
       "dna-seq",
@@ -265,7 +258,6 @@
   "tools#8": {
     "name": "MEGAHIT",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -295,7 +287,6 @@
   "tools#9": {
     "name": "CONCOCT",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -325,7 +316,6 @@
   "tools#10": {
     "name": "CONCOCT",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -355,7 +345,6 @@
   "tools#11": {
     "name": "CONCOCT",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -390,7 +379,6 @@
   "tools#12": {
     "name": "GTDB-Tk",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "taxonomy",
@@ -423,7 +411,6 @@
   "tools#13": {
     "name": "GTDB-Tk",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "taxonomy",
@@ -455,7 +442,6 @@
   "tools#14": {
     "name": "GTDB-Tk",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "taxonomy",
@@ -489,7 +475,6 @@
   "tools#15": {
     "name": "MetaBAT2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -525,7 +510,6 @@
   "tools#16": {
     "name": "MetaBAT2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -558,7 +542,6 @@
   "tools#17": {
     "name": "MetaBAT2",
     "discipline": "Metagenomics",
-    "provenance": "proposition expert",
     "source": "proposition expert",
     "topic": [
       "metagenomics",
@@ -589,7 +572,6 @@
   "tools#18": {
     "name": "MetaBAT2",
     "discipline": "Metagenomics",
-    "provenance": "proposition expert 2",
     "source": "proposition expert 2",
     "topic": [
       "dna-seq",
@@ -624,7 +606,6 @@
   "tools#19": {
     "name": "MetaBAT2",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -657,7 +638,6 @@
   "tools#20": {
     "name": "Kraken2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -688,7 +668,6 @@
   "tools#21": {
     "name": "Kraken2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -724,7 +703,6 @@
   "tools#22": {
     "name": "Kraken2",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -763,7 +741,6 @@
   "tools#23": {
     "name": "mOTUs",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -797,7 +774,6 @@
   "tools#24": {
     "name": "mOTUs",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -834,7 +810,6 @@
   "tools#25": {
     "name": "mOTUs",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -870,7 +845,6 @@
   "tools#26": {
     "name": "checkM2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert LLM",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -902,7 +876,6 @@
   "tools#27": {
     "name": "checkM2",
     "discipline": "Metagenomics",
-    "provenance": "Consensus expert",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -937,7 +910,6 @@
   "tools#28": {
     "name": "checkM2",
     "discipline": "Metagenomics",
-    "provenance": "proposition DeepSeek-V3.1",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
