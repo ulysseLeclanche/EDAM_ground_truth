@@ -1,0 +1,66 @@
+,0
+0,annotation of genes and proteins using multiple functional databases
+1,app-based extensibility
+2,automated model reconstruction
+3,automation via scripting
+4,bayesian inference
+5,cluster detection
+6,clustering
+7,confidence scoring
+8,consensus network building
+9,constraint-based simulations such as fba
+10,construction of networks
+11,construction or modification of metabolic models
+12,creation
+13,customizable layout creation
+14,data integration
+15,data retrieval
+16,domain prediction
+17,draft model generation
+18,edition of networks
+19,enrichment analysis
+20,exploration of interaction networks
+21,feature weights inspection
+22,flux balance analysis (fba)
+23,flux diagram rendering
+24,flux variability analysis
+25,functional enrichment analysis
+26,fused sample network creation
+27,gap-filling
+28,gap-filling of metabolic models
+29,gene deletion analysis
+30,gene set enrichment analysis
+31,gene set scoring
+32,graph metrics
+33,graph topology
+34,heterogeneous networks
+35,hierarchical annotation
+36,interactive visualization
+37,joint matrix factorisation
+38,kernel-based integration
+39,large-scale sequence analysis
+40,matrix factorization
+41,metabolic model simulation
+42,metabolic model visualisation
+43,metabolic network simulation
+44,model parsing and manipulation
+45,multi-omics integration
+46,network construction
+47,network exploration
+48,network propagation
+49,network visualization
+50,networks fusion
+51,optimization
+52,orthology mapping
+53,pathway mapping
+54,prioritization algorithm
+55,random walk with restart
+56,rank-based enrichment
+57,reconstruction of metabolic networks
+58,reduction dimension
+59,similarity matrices creation
+60,similarity networks creation
+61,single-sample variant
+62,statistical permutation
+63,variance decomposition
+64,visualization

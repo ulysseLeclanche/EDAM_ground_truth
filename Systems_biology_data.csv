@@ -1,0 +1,84 @@
+,0
+0,a metabolic model
+1,analysis repport
+2,annotated flux maps
+3,annotation p values
+4,biochemical pathway diagrams
+5,biological networks (e.g.ppi)
+6,clinical data
+7,confidence scores
+8,constraints (e.g.reaction bounds)
+9,convergence scores
+10,edge attribute
+11,edge weights
+12,enrichment results
+13,enrichment scores
+14,factors and latent spaces
+15,false discovery rates (fdr)
+16,feature loadings
+17,flux distributions
+18,functional annotations
+19,fused networks
+20,fused similarity matrix
+21,gene expression matrix
+22,gene name
+23,gene sequences
+24,gene sets
+25,genes)
+26,genome annotations
+27,genome-scale metabolic models (gems)
+28,graph
+29,heterogeneous networks
+30,images
+31,interaction networks
+32,list of nodes and edges
+33,metabolic model
+34,metabolic models (reactions
+35,metabolic network
+36,metabolic network/model or nothing if created from scratch
+37,metabolic networks
+38,metabolites
+39,metagenomic contigs
+40,methylation
+41,metrics
+42,mirna)
+43,multi-layer network graphs
+44,multi-omics profiles (e.g.mrna
+45,network
+46,network and seed
+47,network ranking
+48,network result
+49,networks
+50,node attribute
+51,node lists
+52,normalized enrichment plots
+53,nucleotide sequences
+54,objective functions (e.g.biomass production)
+55,omics
+56,omics matrices
+57,optimization results
+58,organism-specific queries
+59,orthologous groups
+60,paired omics data
+61,patient clusters
+62,pictures
+63,propagation profiles
+64,protein identifiers
+65,protein name
+66,protein sequences
+67,ranked gene lists
+68,ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)
+69,ranked node lists
+70,restart probability
+71,results of simulations
+72,scores
+73,seed
+74,seed nodes
+75,seed nodes (e.g.disease genes)
+76,sequences
+77,similarity matrices
+78,subnetwork modules
+79,table containing multiple annotations for each gene or protein
+80,taxonomic assignments
+81,taxonomic information
+82,visualizations

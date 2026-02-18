@@ -1,0 +1,12 @@
+,0
+0,bundle format (mtx)
+1,csv
+2,h5ad
+3,hdf5
+4,jpeg
+5,pdf
+6,png
+7,rds
+8,svg
+9,tiff
+10,tsv

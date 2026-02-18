@@ -1,0 +1,20 @@
+,0
+0,alignment of dna sequencing to reference sequence (or genome)
+1,alignment of long reads to reference sequence (or genome)
+2,alignment of rna sequencing to reference sequence (or genome)
+3,biological theme comparison
+4,contig assembly
+5,counting reads in features
+6,data visualization
+7,detection of structural variants from long reads
+8,gene set enrichment analysis
+9,genomic interval annotation
+10,id conversion
+11,indexing alignment file
+12,normalization of expression matrix
+13,over-representation analysis
+14,read correction
+15,read mapping
+16,read trimming
+17,semantic similarity analysis
+18,statistical differential gene expression detection

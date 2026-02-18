@@ -1,0 +1,53 @@
+,0
+0,adjacency matrix (tsv/csv)
+1,api queries
+2,biopax
+3,cls (phenotypes)
+4,csv
+5,csv (protein lists)
+6,csv (tabular)
+7,cys
+8,cytoscape-compatible formats
+9,edge list
+10,edge lists (text file)
+11,excel files
+12,fasta
+13,fi
+14,gct (expression data)
+15,gml
+16,gmt
+17,gmx
+18,graph files
+19,graphml
+20,gst
+21,gzip
+22,hdf5
+23,html
+24,html reports
+25,jpeg
+26,json
+27,matlab
+28,matrices
+29,matrix
+30,mofa object
+31,network files (gml/sif)
+32,pdf
+33,pdf plots
+34,png
+35,png jpeg
+36,ranked tsv/csv
+37,sbml
+38,seed (text file)
+39,sif
+40,svg
+41,tsv
+42,txt
+43,txt (tabular)
+44,txt/tsv (results)
+45,vectors (r)
+46,visualization files
+47,xgmml
+48,xls
+49,xml
+50,yaml
+51,yml
