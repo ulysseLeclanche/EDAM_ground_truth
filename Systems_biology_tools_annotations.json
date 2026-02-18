@@ -1,0 +1,1492 @@
+{
+  "tools#1": {
+    "name": "CarveMe",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "metabolic networks",
+      "systems biology",
+      "genome-scale metabolic modeling",
+      "metabolic reconstruction",
+      "microbiology",
+      "community modeling"
+    ],
+    "operation": [
+      "reconstruction of metabolic networks",
+      "gap-filling of metabolic models",
+      "automated model reconstruction",
+      "draft model generation",
+      "gap-filling"
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences",
+      "genome annotations",
+      "taxonomic information"
+    ],
+    "output data": [
+      "metabolic model",
+      "genome-scale metabolic models (gems)",
+      "metabolic networks"
+    ],
+    "input format": [
+      "fasta",
+      "sbml"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ]
+  },
+  "tools#2": {
+    "name": "CarveMe",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "metabolic modelling",
+      "metabolic networks",
+      "systems biology",
+      "metabolic modeling"
+    ],
+    "operation": [
+      "reconstruction of metabolic networks",
+      "gap-filling of metabolic models."
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences"
+    ],
+    "output data": [
+      "metabolic model"
+    ],
+    "input format": [
+      "fasta",
+      "sbml"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ]
+  },
+  "tools#3": {
+    "name": "CarveMe",
+    "discipline": "Metagenomic",
+    "source": "proposition expert",
+    "topic": [
+      "metabolic modelling",
+      "metabolic networks",
+      "systems biology",
+      "metabolic modeling"
+    ],
+    "operation": [
+      "reconstruction of metabolic networks",
+      "gap-filling of metabolic models."
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences"
+    ],
+    "output data": [
+      "metabolic model"
+    ],
+    "input format": [
+      "fasta",
+      "sbml"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ]
+  },
+  "tools#4": {
+    "name": "CarveMe",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "genome-scale metabolic modeling",
+      "metabolic reconstruction",
+      "bioinformatics",
+      "microbiology",
+      "community modeling"
+    ],
+    "operation": [
+      "automated model reconstruction",
+      "draft model generation",
+      "gap-filling",
+      "curation of reaction networks",
+      "integration of annotation data"
+    ],
+    "input data": [
+      "genome annotations",
+      "protein sequences",
+      "taxonomic information",
+      "reaction databases"
+    ],
+    "output data": [
+      "genome-scale metabolic models (gems)",
+      "reaction lists",
+      "metabolic networks"
+    ],
+    "input format": [
+      "fasta",
+      "json",
+      "xml"
+    ],
+    "output format": [
+      "sbml",
+      "json"
+    ]
+  },
+  "tools#5": {
+    "name": "COBRApy",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "metabolic modelling",
+      "metabolic networks",
+      "systems biology",
+      "constraint-based modeling",
+      "metabolic reconstruction",
+      "flux balance analysis"
+    ],
+    "operation": [
+      "construction or modification of metabolic models",
+      "constraint-based simulations such as fba",
+      "metabolic network simulation",
+      "optimization",
+      "gene deletion analysis",
+      "flux variability analysis",
+      "model parsing and manipulation"
+    ],
+    "input data": [
+      "metabolic network/model or nothing if created from scratch",
+      "metabolic models (reactions",
+      "metabolites",
+      "genes)",
+      "constraints (e.g.reaction bounds)",
+      "objective functions (e.g.biomass production)"
+    ],
+    "output data": [
+      "metabolic network",
+      "metabolic model",
+      "results of simulations",
+      "flux distributions",
+      "optimization results"
+    ],
+    "input format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ]
+  },
+  "tools#6": {
+    "name": "COBRApy",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "metabolic modelling",
+      "metabolic networks",
+      "systems biology"
+    ],
+    "operation": [
+      "construction or modification of metabolic models",
+      "constraint-based simulations such as fba."
+    ],
+    "input data": [
+      "metabolic network/model or nothing if created from scratch"
+    ],
+    "output data": [
+      "metabolic network/model",
+      "results of simulations"
+    ],
+    "input format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab",
+      "text-based reports",
+      "python objects"
+    ]
+  },
+  "tools#7": {
+    "name": "COBRApy",
+    "discipline": "Metagenomic",
+    "source": "proposition expert",
+    "topic": [
+      "metabolic modelling",
+      "metabolic networks",
+      "systems biology",
+      "metabolic modeling"
+    ],
+    "operation": [
+      "construction or modification of metabolic models",
+      "constraint-based simulations such as fba."
+    ],
+    "input data": [
+      "metabolic network/model or nothing if created from scratch"
+    ],
+    "output data": [
+      "metabolic network/model",
+      "results of simulations"
+    ],
+    "input format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ],
+    "output format": [
+      "sbml",
+      "json",
+      "yaml",
+      "matlab"
+    ]
+  },
+  "tools#8": {
+    "name": "COBRApy",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "constraint-based modeling",
+      "metabolic reconstruction",
+      "flux balance analysis",
+      "systems biology",
+      "metabolic engineering"
+    ],
+    "operation": [
+      "metabolic network simulation",
+      "optimization (e.g.linear programming)",
+      "gene deletion analysis",
+      "flux variability analysis",
+      "model parsing and manipulation"
+    ],
+    "input data": [
+      "metabolic models (reactions",
+      "metabolites",
+      "genes)",
+      "constraints (e.g.reaction bounds)",
+      "objective functions (e.g.biomass production)"
+    ],
+    "output data": [
+      "flux distributions",
+      "optimization results (e.g.growth rates)",
+      "model annotations"
+    ],
+    "input format": [
+      "sbml",
+      "json",
+      "matlab"
+    ],
+    "output format": [
+      "text-based reports (egcsv tsv)",
+      "python objects",
+      "sbml"
+    ]
+  },
+  "tools#9": {
+    "name": "Cytoscape",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "network biology",
+      "systems biology",
+      "visualization",
+      "molecular interaction networks",
+      "protein-protein interactions",
+      "metabolic pathways",
+      "co-occurrence networks",
+      "network visualisation",
+      "network handling",
+      "data integration",
+      "network exploration",
+      "graph theory"
+    ],
+    "operation": [
+      "construction of networks",
+      "edition of networks",
+      "network visualization",
+      "network exploration",
+      "graph metrics",
+      "graph topology",
+      "app-based extensibility",
+      "automation via scripting",
+      "data integration",
+      "cluster detection"
+    ],
+    "input data": [
+      "network",
+      "node attribute",
+      "edge attribute",
+      "list of nodes and edges"
+    ],
+    "output data": [
+      "network",
+      "images",
+      "metrics",
+      "analysis repport"
+    ],
+    "input format": [
+      "sif",
+      "gml",
+      "sbml",
+      "biopax",
+      "graphml",
+      "xls",
+      "tsv",
+      "csv",
+      "xgmml"
+    ],
+    "output format": [
+      "sif",
+      "html",
+      "cys",
+      "sif",
+      "pdf",
+      "png",
+      "svg",
+      "jpeg"
+    ]
+  },
+  "tools#10": {
+    "name": "Cytoscape",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "network visualisation",
+      "network handling",
+      "data integration",
+      "network exploration",
+      "graph theory"
+    ],
+    "operation": [
+      "construction of networks",
+      "edition of networks",
+      "network visualization",
+      "network exploration",
+      "graph metrics",
+      "graph topology"
+    ],
+    "input data": [
+      "network",
+      "node metadata",
+      "edge metadata",
+      "list of nodes and edges"
+    ],
+    "output data": [
+      "network",
+      "pictures",
+      "metrics",
+      "analysis repport"
+    ],
+    "input format": [
+      "sif",
+      "gml",
+      "sbml",
+      "biopax",
+      "graphml",
+      "xls",
+      "tsv",
+      "txt"
+    ],
+    "output format": [
+      "sif",
+      "html",
+      "cys",
+      "text",
+      "sif",
+      "txt",
+      "pdf",
+      "png",
+      "svg",
+      "jpeg"
+    ]
+  },
+  "tools#11": {
+    "name": "Cytoscape",
+    "discipline": "Metagenomic",
+    "source": "proposition expert",
+    "topic": [
+      "network visualisation",
+      "network handling",
+      "data integration",
+      "network exploration",
+      "graph theory"
+    ],
+    "operation": [
+      "construction of networks",
+      "edition of networks",
+      "visualization of networks",
+      "exploration",
+      "graph metrics",
+      "graph topology"
+    ],
+    "input data": [
+      "network",
+      "node metadata",
+      "edge metadata",
+      "list of nodes and edges"
+    ],
+    "output data": [
+      "network",
+      "pictures",
+      "metrics",
+      "analysis repport"
+    ],
+    "input format": [
+      "sif",
+      "gml",
+      "sbml",
+      "biopax",
+      "graphml",
+      "xls",
+      "tsv",
+      "txt"
+    ],
+    "output format": [
+      "sif",
+      "html",
+      "cys",
+      "text",
+      "sif",
+      "txt",
+      "pdf",
+      "png",
+      "svg",
+      "jpeg"
+    ]
+  },
+  "tools#12": {
+    "name": "Cytoscape",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "network biology",
+      "systems biology",
+      "bioinformatics",
+      "visualization",
+      "molecular interaction networks",
+      "protein-protein interactions",
+      "metabolic pathways",
+      "co-occurrence networks"
+    ],
+    "operation": [
+      "network visualization",
+      "data integration",
+      "graph analysis",
+      "cluster detection",
+      "pathway mapping",
+      "attribute-based mapping",
+      "app-based extensibility",
+      "automation via scripting"
+    ],
+    "input data": [
+      "node and edge tables",
+      "attribute data",
+      "network topology",
+      "annotated genomes",
+      "phenotypic traits"
+    ],
+    "output data": [
+      "visualized networks",
+      "annotated graphs",
+      "statistical results",
+      "interaction predictions"
+    ],
+    "input format": [
+      "sif",
+      "gml",
+      "xgmml",
+      "csv/tsv",
+      "graphml"
+    ],
+    "output format": [
+      "png",
+      "pdf",
+      "svg",
+      "cytoscape session files (cys)",
+      "html"
+    ]
+  },
+  "tools#13": {
+    "name": "eggNOG-mapper",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "functional annotation of proteins",
+      "functional genomics",
+      "orthology assignment",
+      "metagenomic annotation",
+      "protein function prediction"
+    ],
+    "operation": [
+      "annotation of genes and proteins using multiple functional databases",
+      "orthology mapping",
+      "domain prediction",
+      "hierarchical annotation",
+      "large-scale sequence analysis"
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences",
+      "nucleotide sequences",
+      "metagenomic contigs"
+    ],
+    "output data": [
+      "table containing multiple annotations for each gene or protein",
+      "functional annotations",
+      "orthologous groups",
+      "taxonomic assignments"
+    ],
+    "input format": [
+      "fasta",
+      "gzip"
+    ],
+    "output format": [
+      "tsv",
+      "json"
+    ]
+  },
+  "tools#14": {
+    "name": "eggNOG-mapper",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "functional annotation of proteins"
+    ],
+    "operation": [
+      "annotation of genes and proteins using multiple functional databases"
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences"
+    ],
+    "output data": [
+      "table containing multiple annotations for each gene or protein"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "tsv"
+    ]
+  },
+  "tools#15": {
+    "name": "eggNOG-mapper",
+    "discipline": "Metagenomic",
+    "source": "proposition expert",
+    "topic": [
+      "functional annotation of proteins"
+    ],
+    "operation": [
+      "annotation of genes and proteins using multiple functional databases"
+    ],
+    "input data": [
+      "protein sequences",
+      "gene sequences"
+    ],
+    "output data": [
+      "table containing multiple annotations for each gene or protein"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "tsv"
+    ]
+  },
+  "tools#16": {
+    "name": "eggNOG-mapper",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "functional genomics",
+      "orthology assignment",
+      "metagenomic annotation",
+      "phylogenetics",
+      "protein function prediction"
+    ],
+    "operation": [
+      "orthology mapping",
+      "functional transfer",
+      "domain prediction",
+      "hierarchical annotation",
+      "large-scale sequence analysis"
+    ],
+    "input data": [
+      "protein sequences",
+      "nucleotide sequences",
+      "metagenomic contigs"
+    ],
+    "output data": [
+      "functional annotations (e.g.go terms)",
+      "orthologous groups",
+      "taxonomic assignments"
+    ],
+    "input format": [
+      "fasta",
+      "gzip"
+    ],
+    "output format": [
+      "tsv",
+      "json",
+      "html"
+    ]
+  },
+  "tools#17": {
+    "name": "Fluxer",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "systems biology",
+      "metabolic modeling",
+      "metabolic flux analysis",
+      "pathway visualization",
+      "biochemistry education"
+    ],
+    "operation": [
+      "metabolic model visualisation",
+      "metabolic model simulation",
+      "flux balance analysis (fba)",
+      "pathway mapping",
+      "flux diagram rendering",
+      "customizable layout creation",
+      "interactive visualization"
+    ],
+    "input data": [
+      "a metabolic model"
+    ],
+    "output data": [
+      "pictures",
+      "networks",
+      "metabolic model",
+      "biochemical pathway diagrams",
+      "annotated flux maps",
+      "visualizations"
+    ],
+    "input format": [
+      "sbml"
+    ],
+    "output format": [
+      "png",
+      "svg",
+      "graphml",
+      "sbml",
+      "pdf"
+    ]
+  },
+  "tools#18": {
+    "name": "Fluxer",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "systems biology",
+      "metabolic modeling"
+    ],
+    "operation": [
+      "metabolic model visualisation",
+      "metabolic model simulation",
+      "flux balance analysis (fba)"
+    ],
+    "input data": [
+      "a metabolic model"
+    ],
+    "output data": [
+      "pictures",
+      "networks",
+      "metabolic model"
+    ],
+    "input format": [
+      "sbml"
+    ],
+    "output format": [
+      "png",
+      "svg",
+      "graphml",
+      "sbml"
+    ]
+  },
+  "tools#19": {
+    "name": "Fluxer",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "metabolic flux analysis",
+      "pathway visualization",
+      "biochemistry education",
+      "reaction networks",
+      "enzyme kinetics"
+    ],
+    "operation": [
+      "pathway mapping",
+      "flux diagram rendering",
+      "customizable layout creation",
+      "interactive visualization",
+      "metabolic context overlay"
+    ],
+    "input data": [
+      "reaction lists",
+      "flux values",
+      "metabolic pathways"
+    ],
+    "output data": [
+      "biochemical pathway diagrams",
+      "annotated flux maps",
+      "visualizations"
+    ],
+    "input format": [
+      "sbml",
+      "csv/tsv (flux data)"
+    ],
+    "output format": [
+      "svg",
+      "pdf",
+      "png"
+    ]
+  },
+  "tools#20": {
+    "name": "GSEA",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "functional annotation",
+      "functional genomics",
+      "enrichment analysis",
+      "pathway analysis",
+      "systems biology",
+      "molecular signatures"
+    ],
+    "operation": [
+      "gene set enrichment analysis",
+      "functional enrichment analysis",
+      "rank-based enrichment",
+      "statistical permutation",
+      "gene set scoring",
+      "visualization",
+      "single-sample variant",
+      "multi-omics integration"
+    ],
+    "input data": [
+      "ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)",
+      "gene expression matrix",
+      "gene sets"
+    ],
+    "output data": [
+      "annotation p values",
+      "graph",
+      "pictures",
+      "enrichment scores",
+      "false discovery rates (fdr)",
+      "normalized enrichment plots",
+      "ranked gene lists"
+    ],
+    "input format": [
+      "txt (tabular)",
+      "gmt",
+      "gst",
+      "gct (expression data)",
+      "cls (phenotypes)",
+      "gmx"
+    ],
+    "output format": [
+      "csv (tabular)",
+      "fi",
+      "svg",
+      "png jpeg",
+      "html reports",
+      "txt/tsv (results)",
+      "pdf plots",
+      "excel files"
+    ]
+  },
+  "tools#21": {
+    "name": "GSEA",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "functional annotation"
+    ],
+    "operation": [
+      "gene set enrichment analysis",
+      "functional enrichment analysis"
+    ],
+    "input data": [
+      "ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)"
+    ],
+    "output data": [
+      "annotation p values",
+      "graph",
+      "pictures"
+    ],
+    "input format": [
+      "txt (tabular)",
+      "gmt",
+      "gst"
+    ],
+    "output format": [
+      "csv (tabular)",
+      "fi",
+      "svg",
+      "png jpeg"
+    ]
+  },
+  "tools#22": {
+    "name": "GSEA",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "transcriptomics",
+      "functional genomics",
+      "enrichment analysis",
+      "pathway analysis",
+      "systems biology",
+      "phenotype association",
+      "molecular signatures"
+    ],
+    "operation": [
+      "rank-based enrichment",
+      "statistical permutation",
+      "normalization",
+      "gene set scoring",
+      "visualization (e.g.enrichment plots)",
+      "single-sample variant (ssgsea)",
+      "multi-omics integration"
+    ],
+    "input data": [
+      "gene expression matrix",
+      "phenotype labels",
+      "gene sets (e.g.pathways",
+      "go terms)"
+    ],
+    "output data": [
+      "enrichment scores",
+      "false discovery rates (fdr)",
+      "normalized enrichment plots",
+      "ranked gene lists"
+    ],
+    "input format": [
+      "gct (expression data)",
+      "cls (phenotypes)",
+      "gmx/gmt (gene sets)"
+    ],
+    "output format": [
+      "html reports",
+      "txt/tsv (results)",
+      "pdf plots",
+      "excel files"
+    ]
+  },
+  "tools#23": {
+    "name": "MOFA2",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "multi-omics data integration",
+      "joint dimension reduction",
+      "dimensionality reduction",
+      "factor analysis"
+    ],
+    "operation": [
+      "bayesian inference",
+      "joint matrix factorisation",
+      "variance decomposition",
+      "matrix factorization",
+      "reduction dimension",
+      "feature weights inspection"
+    ],
+    "input data": [
+      "omics matrices",
+      "paired omics data"
+    ],
+    "output data": [
+      "factors and latent spaces",
+      "feature loadings"
+    ],
+    "input format": [
+      "matrices",
+      "vectors (r)"
+    ],
+    "output format": [
+      "mofa object",
+      "hdf5",
+      "matrices"
+    ]
+  },
+  "tools#24": {
+    "name": "MOFA2",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "multi-omics data integration",
+      "joint dimension reduction"
+    ],
+    "operation": [
+      "bayesian inference",
+      "joint matrix factorisation",
+      "variance decomposition",
+      "matrix factorization",
+      "reduction dimension",
+      "feature weights inspection"
+    ],
+    "input data": [
+      "omics matrices",
+      "paired omics data"
+    ],
+    "output data": [
+      "factors and latent spaces"
+    ],
+    "input format": [
+      "matrices",
+      "vectors (r)"
+    ],
+    "output format": [
+      "mofa object",
+      "hdf5",
+      "matrices"
+    ]
+  },
+  "tools#25": {
+    "name": "MOFA2",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "multi-omics integration",
+      "dimensionality reduction",
+      "factor analysis",
+      "personalized medicine",
+      "single-cell omics"
+    ],
+    "operation": [
+      "factor analysis",
+      "variational inference",
+      "latent variable modeling",
+      "sparse learning",
+      "missing data handling",
+      "dimensionality reduction"
+    ],
+    "input data": [
+      "multi-omics data (e.g.mutations",
+      "rna expression",
+      "dna methylation",
+      "drug responses)"
+    ],
+    "output data": [
+      "latent factors",
+      "feature loadings",
+      "imputed data",
+      "outlier detection"
+    ],
+    "input format": [
+      "csv",
+      "tsv",
+      "hdf5",
+      "anndata"
+    ],
+    "output format": [
+      "hdf5",
+      "csv",
+      "tsv",
+      "plots (html/pdf)"
+    ]
+  },
+  "tools#26": {
+    "name": "MULTIXRANK",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "network exploration",
+      "network analysis",
+      "network biology",
+      "multi-layer networks",
+      "node prioritization"
+    ],
+    "operation": [
+      "random walk with restart",
+      "heterogeneous networks",
+      "network propagation",
+      "prioritization algorithm"
+    ],
+    "input data": [
+      "network and seed",
+      "heterogeneous networks",
+      "multi-layer network graphs",
+      "edge weights",
+      "seed nodes"
+    ],
+    "output data": [
+      "network result",
+      "network ranking",
+      "ranked node lists",
+      "scores"
+    ],
+    "input format": [
+      "yml",
+      "txt",
+      "tsv",
+      "csv",
+      "sif",
+      "json",
+      "gmt"
+    ],
+    "output format": [
+      "sif",
+      "tsv",
+      "csv"
+    ]
+  },
+  "tools#27": {
+    "name": "MULTIXRANK",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "network exploration",
+      "network analysis"
+    ],
+    "operation": [
+      "random walk with restart",
+      "heterogeneous networks"
+    ],
+    "input data": [
+      "network and seed",
+      "heterogeneous networks"
+    ],
+    "output data": [
+      "network result",
+      "network ranking"
+    ],
+    "input format": [
+      "yml",
+      "tsv",
+      "txt"
+    ],
+    "output format": [
+      "sif",
+      "tsv"
+    ]
+  },
+  "tools#28": {
+    "name": "MULTIXRANK",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "network biology",
+      "multi-layer networks",
+      "node prioritization",
+      "systems medicine",
+      "pathway analysis"
+    ],
+    "operation": [
+      "random walk with restart",
+      "network propagation",
+      "weighted aggregation",
+      "cross-layer scoring",
+      "prioritization algorithm"
+    ],
+    "input data": [
+      "multi-layer network graphs",
+      "node features",
+      "edge weights",
+      "seed nodes"
+    ],
+    "output data": [
+      "ranked node lists",
+      "scores"
+    ],
+    "input format": [
+      "tsv",
+      "csv",
+      "sif",
+      "json",
+      "gmt"
+    ],
+    "output format": [
+      "tsv",
+      "csv"
+    ]
+  },
+  "tools#29": {
+    "name": "RWR",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "network exploration",
+      "network analysis",
+      "network propagation",
+      "prioritization analysis",
+      "disease gene prediction",
+      "functional module detection"
+    ],
+    "operation": [
+      "random walk with restart"
+    ],
+    "input data": [
+      "network",
+      "seed",
+      "biological networks (e.g.ppi)",
+      "seed nodes (e.g.disease genes)",
+      "edge weights",
+      "restart probability"
+    ],
+    "output data": [
+      "network and seed",
+      "node lists",
+      "ranked node lists",
+      "convergence scores",
+      "subnetwork modules",
+      "propagation profiles"
+    ],
+    "input format": [
+      "seed (text file)",
+      "adjacency matrix (tsv/csv)",
+      "edge list",
+      "graphml"
+    ],
+    "output format": [
+      "edge lists (text file)",
+      "seed (text file)",
+      "ranked tsv/csv",
+      "network files (gml/sif)",
+      "visualization files"
+    ]
+  },
+  "tools#30": {
+    "name": "RWR",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "network exploration",
+      "network analysis"
+    ],
+    "operation": [
+      "random walk with restart"
+    ],
+    "input data": [
+      "network and seed"
+    ],
+    "output data": [
+      "network and seed",
+      "node lists"
+    ],
+    "input format": [
+      "edge list",
+      "seed (text file)"
+    ],
+    "output format": [
+      "edge lists (text file)",
+      "seed (text file)"
+    ]
+  },
+  "tools#31": {
+    "name": "RWR",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "network propagation",
+      "prioritization analysis",
+      "disease gene prediction",
+      "functional module detection",
+      "systems medicine",
+      "omics integration"
+    ],
+    "operation": [
+      "graph traversal",
+      "probability diffusion",
+      "seed-based prioritization",
+      "convergence calculation",
+      "topological analysis",
+      "custom restart parameter tuning"
+    ],
+    "input data": [
+      "biological networks (e.g. ppi)",
+      "seed nodes (e.g",
+      "disease genes)",
+      "edge weights",
+      "restart probability"
+    ],
+    "output data": [
+      "ranked node lists",
+      "convergence scores",
+      "subnetwork modules",
+      "propagation profiles"
+    ],
+    "input format": [
+      "adjacency matrix (tsv/csv)",
+      "edge list",
+      "graphml"
+    ],
+    "output format": [
+      "ranked tsv/csv",
+      "network files (gml/sif)",
+      "visualization files"
+    ]
+  },
+  "tools#32": {
+    "name": "SNF",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "network analysis",
+      "network integration",
+      "multiomics data integration",
+      "patient stratification",
+      "disease subtyping",
+      "clustering"
+    ],
+    "operation": [
+      "similarity matrices creation",
+      "similarity networks creation",
+      "networks fusion",
+      "fused sample network creation",
+      "clustering",
+      "kernel-based integration",
+      "consensus network building"
+    ],
+    "input data": [
+      "omics",
+      "clinical data",
+      "multi-omics profiles (e.g.mrna",
+      "methylation",
+      "mirna)"
+    ],
+    "output data": [
+      "fused similarity matrix",
+      "patient clusters",
+      "fused networks",
+      "similarity matrices"
+    ],
+    "input format": [
+      "matrix",
+      "tsv",
+      "csv"
+    ],
+    "output format": [
+      "matrix",
+      "tsv",
+      "csv",
+      "graph files"
+    ]
+  },
+  "tools#33": {
+    "name": "SNF",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "network analysis",
+      "network integration",
+      "multiomics data integration"
+    ],
+    "operation": [
+      "sample similarity matrices creation",
+      "sample similarity networks creation",
+      "networks fusion",
+      "fused sample network creation",
+      "clustering"
+    ],
+    "input data": [
+      "prepared data",
+      "omics",
+      "clinical data"
+    ],
+    "output data": [
+      "fused similarity matrix"
+    ],
+    "input format": [
+      "matrix"
+    ],
+    "output format": [
+      "matrix"
+    ]
+  },
+  "tools#34": {
+    "name": "SNF",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "multi-omics integration",
+      "patient stratification",
+      "disease subtyping",
+      "clustering",
+      "precision medicine"
+    ],
+    "operation": [
+      "similarity network fusion",
+      "kernel-based integration",
+      "spectral clustering",
+      "affinity matrix construction",
+      "consensus network building"
+    ],
+    "input data": [
+      "multi-omics profiles (e.g.mrna",
+      "methylation",
+      "mirna)"
+    ],
+    "output data": [
+      "patient clusters",
+      "fused networks",
+      "similarity matrices"
+    ],
+    "input format": [
+      "tsv",
+      "csv",
+      "matrix"
+    ],
+    "output format": [
+      "tsv",
+      "csv",
+      "graph files"
+    ]
+  },
+  "tools#35": {
+    "name": "String.db",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "protein-protein interaction networks",
+      "systems biology",
+      "functional enrichment",
+      "systems biology"
+    ],
+    "operation": [
+      "creation",
+      "visualization",
+      "exploration of interaction networks",
+      "enrichment analysis",
+      "clustering",
+      "data retrieval",
+      "confidence scoring",
+      "network construction"
+    ],
+    "input data": [
+      "gene name",
+      "protein name",
+      "sequences",
+      "protein identifiers",
+      "organism-specific queries",
+      "protein sequences"
+    ],
+    "output data": [
+      "networks",
+      "interaction networks",
+      "confidence scores",
+      "functional annotations",
+      "enrichment results"
+    ],
+    "input format": [
+      "txt",
+      "fasta",
+      "csv (protein lists)",
+      "api queries"
+    ],
+    "output format": [
+      "cys",
+      "png",
+      "svg",
+      "tsv",
+      "xml",
+      "json",
+      "cytoscape-compatible formats"
+    ]
+  },
+  "tools#36": {
+    "name": "String.db",
+    "discipline": "Metagenomic",
+    "source": "Consensus expert",
+    "topic": [
+      "protein-protein interaction networks",
+      "systems biology"
+    ],
+    "operation": [
+      "creation",
+      "visualization",
+      "exploration of interaction networks",
+      "enrichment analysis",
+      "clustering"
+    ],
+    "input data": [
+      "gene name",
+      "protein name",
+      "sequences"
+    ],
+    "output data": [
+      "networks"
+    ],
+    "input format": [
+      "txt"
+    ],
+    "output format": [
+      "cys",
+      "png",
+      "svg",
+      "tsv"
+    ]
+  },
+  "tools#37": {
+    "name": "String.db",
+    "discipline": "Metagenomic",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "protein-protein interactions",
+      "functional enrichment",
+      "genomics",
+      "proteomics",
+      "systems biology",
+      "comparative genomics",
+      "text mining",
+      "evolutionary inference"
+    ],
+    "operation": [
+      "data retrieval",
+      "confidence scoring",
+      "network construction",
+      "orthology transfer",
+      "text mining",
+      "genomic context prediction",
+      "functional enrichment analysis",
+      "cross-species propagation"
+    ],
+    "input data": [
+      "protein identifiers",
+      "gene name",
+      "organism-specific queries",
+      "protein sequences"
+    ],
+    "output data": [
+      "interaction networks",
+      "confidence scores",
+      "functional annotations",
+      "enrichment results"
+    ],
+    "input format": [
+      "fasta",
+      "txt",
+      "csv (protein lists)",
+      "api queries"
+    ],
+    "output format": [
+      "tsv",
+      "xml",
+      "json",
+      "png",
+      "svg",
+      "cytoscape-compatible formats"
+    ]
+  }
+}

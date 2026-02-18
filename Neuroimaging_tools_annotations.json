@@ -1,0 +1,568 @@
+{
+  "tools#1": {
+    "name": "SPM",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing",
+      "eeg analysis",
+      "meg analysis"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "pet",
+      "spect",
+      "eeg",
+      "meg"
+    ],
+    "output data": [
+      "statistical parametric maps",
+      "preprocessed data",
+      "results reports"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "nifti",
+      "mat",
+      "pdf",
+      "jpeg",
+      "ps"
+    ]
+  },
+  "tools#2": {
+    "name": "SPM",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "pet",
+      "spect",
+      "eeg",
+      "meg"
+    ],
+    "output data": [
+      "statistical parametric maps",
+      "preprocessed data",
+      "results reports"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "nifti",
+      "mat",
+      "pdf",
+      "jpeg",
+      "ps"
+    ]
+  },
+  "tools#3": {
+    "name": "SPM",
+    "discipline": "Genetic_variant",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "functional neuroimaging",
+      "structural neuroimaging",
+      "fmri analysis",
+      "pet analysis",
+      "eeg analysis",
+      "meg analysis",
+      "voxel-based morphometry"
+    ],
+    "operation": [
+      "statistical parametric mapping",
+      "general linear model application",
+      "hypothesis testing",
+      "multiple comparisons correction",
+      "spatial normalization",
+      "image segmentation",
+      "motion correction",
+      "data smoothing"
+    ],
+    "input data": [
+      "brain imaging sequences",
+      "time-series data",
+      "multi-subject cohort"
+    ],
+    "output data": [
+      "statistical parametric maps",
+      "contrast maps",
+      "segmented tissue maps"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "nifti"
+    ]
+  },
+  "tools#4": {
+    "name": "FSL",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization",
+      "tractography",
+      "functional connectivity analysis"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri"
+    ],
+    "output data": [
+      "statistical maps",
+      "preprocessed data",
+      "reports"
+    ],
+    "input format": [
+      "nifti",
+      "nifti.gz"
+    ],
+    "output format": [
+      "nifti",
+      "nifti.gz",
+      "html"
+    ]
+  },
+  "tools#5": {
+    "name": "FSL",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri"
+    ],
+    "output data": [
+      "statistical maps",
+      "preprocessed data",
+      "reports"
+    ],
+    "input format": [
+      "nifti",
+      "nifti.gz"
+    ],
+    "output format": [
+      "nifti",
+      "nifti.gz",
+      "html"
+    ]
+  },
+  "tools#6": {
+    "name": "FSL",
+    "discipline": "Genetic_variant",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "magnetic resonance imaging",
+      "structural mri",
+      "functional mri",
+      "diffusion mri",
+      "brain image analysis."
+    ],
+    "operation": [
+      "image registration",
+      "brain extraction",
+      "tissue segmentation",
+      "statistical analysis",
+      "tractography",
+      "functional connectivity analysis."
+    ],
+    "input data": [
+      "structural volumes",
+      "functional timeseries",
+      "diffusion-weighted images"
+    ],
+    "output data": [
+      "registered images",
+      "segmentation maps",
+      "statistical maps",
+      "fiber tracts."
+    ],
+    "input format": [
+      "nifti"
+    ],
+    "output format": [
+      "nifti"
+    ]
+  },
+  "tools#7": {
+    "name": "AFNI",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization",
+      "voxel-wise regression analysis"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri"
+    ],
+    "output data": [
+      "parametric modulation maps"
+    ],
+    "input format": [
+      "nifti",
+      "brik/head"
+    ],
+    "output format": [
+      "nifti",
+      "brik/head"
+    ]
+  },
+  "tools#8": {
+    "name": "AFNI",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "anatomical mri processing"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri"
+    ],
+    "output data": [
+      "parametric modulation maps"
+    ],
+    "input format": [
+      "nifti",
+      "brik/head"
+    ],
+    "output format": [
+      "nifti",
+      "brik/head"
+    ]
+  },
+  "tools#9": {
+    "name": "AFNI",
+    "discipline": "Genetic_variant",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "functional neuroimaging",
+      "fmri data analysis",
+      "brain mapping",
+      "neuroimaging visualization."
+    ],
+    "operation": [
+      "image preprocessing",
+      "voxel-wise regression analysis",
+      "statistical thresholding",
+      "group-level analysis",
+      "surface-based analysis",
+      "3d visualization"
+    ],
+    "input data": [
+      "functional mri timeseries",
+      "anatomical references."
+    ],
+    "output data": [
+      "statistical result volumes",
+      "region of interest masks"
+    ],
+    "input format": [
+      "nifti",
+      "brik/head"
+    ],
+    "output format": [
+      "brik/head",
+      "nifti"
+    ]
+  },
+  "tools#10": {
+    "name": "Freesurfer",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri surface analysis",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "surface modelling",
+      "morphometry analysis",
+      "tractography",
+      "whole-brain analysis"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri",
+      "pet"
+    ],
+    "output data": [
+      "surface maps",
+      "cortical parcellations",
+      "volumetric segmentation"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "mgh",
+      "mgz",
+      "gca",
+      "bshort",
+      "bfloat",
+      "cor",
+      "surface",
+      "curv",
+      "w",
+      "annot",
+      "patch",
+      "gcs",
+      "dat",
+      "xfm",
+      "m3d"
+    ]
+  },
+  "tools#11": {
+    "name": "Freesurfer",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri surface analysis",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "surface modelling",
+      "morphometry analysis",
+      "tractography",
+      "whole-brain analysis"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri",
+      "pet"
+    ],
+    "output data": [
+      "surface maps",
+      "cortical parcellations",
+      "volumetric segmentation"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "mgh",
+      "mgz",
+      "gca",
+      "bshort",
+      "bfloat",
+      "cor",
+      "surface",
+      "curv",
+      "w",
+      "annot",
+      "patch",
+      "gcs",
+      "dat",
+      "xfm",
+      "m3d"
+    ]
+  },
+  "tools#12": {
+    "name": "Freesurfer",
+    "discipline": "Genetic_variant",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "cortical reconstruction",
+      "brain segmentation",
+      "surface-based analysis",
+      "neuroanatomy",
+      "morphometry."
+    ],
+    "operation": [
+      "automated cortical surface reconstruction",
+      "subcortical segmentation",
+      "surface inflation",
+      "spherical registration",
+      "cortical thickness measurement"
+    ],
+    "input data": [
+      "high-resolution structural mri"
+    ],
+    "output data": [
+      "surface meshes",
+      "anatomical labels",
+      "thickness maps",
+      "volumetric segmentation"
+    ],
+    "input format": [
+      "mgz",
+      "nifti"
+    ],
+    "output format": [
+      "mgz",
+      "gifti",
+      "annotation files"
+    ]
+  },
+  "tools#13": {
+    "name": "FMRIprep",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri preprocessing",
+      "bids apps"
+    ],
+    "operation": [
+      "preprocessing",
+      "visualization"
+    ],
+    "input data": [
+      "fmri"
+    ],
+    "output data": [
+      "preprocessed fmri",
+      "reports"
+    ],
+    "input format": [
+      "nifti",
+      "bids"
+    ],
+    "output format": [
+      "nifti",
+      "tsv",
+      "html"
+    ]
+  },
+  "tools#14": {
+    "name": "FMRIprep",
+    "discipline": "Genetic_variant",
+    "source": "Consensus expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri preprocessing"
+    ],
+    "operation": [
+      "preprocessing",
+      "visualization"
+    ],
+    "input data": [
+      "fmri"
+    ],
+    "output data": [
+      "preprocessed fmri"
+    ],
+    "input format": [
+      "nifti",
+      "bids"
+    ],
+    "output format": [
+      "nifti"
+    ]
+  },
+  "tools#15": {
+    "name": "FMRIprep",
+    "discipline": "Genetic_variant",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "functional mri preprocessing",
+      "data standardization",
+      "reproducible analysis",
+      "bids applications"
+    ],
+    "operation": [
+      "anatomical data preprocessing",
+      "functional data preprocessing",
+      "brain extraction",
+      "spatial normalization",
+      "confound estimation"
+    ],
+    "input data": [
+      "raw anatomical mri",
+      "raw functional mri timeseries"
+    ],
+    "output data": [
+      "preprocessed functional data",
+      "normalized anatomical data",
+      "quality control reports"
+    ],
+    "input format": [
+      "bids-structured datasets"
+    ],
+    "output format": [
+      "nifti",
+      "tsv",
+      "html"
+    ]
+  }
+}

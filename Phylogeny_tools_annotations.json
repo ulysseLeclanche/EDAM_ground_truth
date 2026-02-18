@@ -1,0 +1,363 @@
+{
+  "tools#1": {
+    "name": "MAFFT",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "multiple-sequence alignment (msa)",
+      "phylogenetics",
+      "molecular evolution",
+      "sequence annotation",
+      "sequence analysis",
+      "comparative genomics"
+    ],
+    "operation": [
+      "global multiple sequence alignment",
+      "progressive alignment",
+      "fft"
+    ],
+    "input data": [
+      "multiple-sequence file"
+    ],
+    "output data": [
+      "multiple-sequence alignment file"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "fasta",
+      "clustal",
+      ".tree"
+    ]
+  },
+  "tools#2": {
+    "name": "MAFFT",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert",
+    "topic": [
+      "multiple-sequence alignment (msa)",
+      "phylogenetics",
+      "molecular evolution",
+      "sequence annotation"
+    ],
+    "operation": [
+      "global multiple sequence alignment"
+    ],
+    "input data": [
+      "multiple-sequence file"
+    ],
+    "output data": [
+      "multiple-sequence alignment file"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "fasta"
+    ]
+  },
+  "tools#3": {
+    "name": "MAFFT",
+    "discipline": "Phylogeny",
+    "source": "proposition expert",
+    "topic": [
+      "multiple-sequence alignment (msa)",
+      "phylogenetics",
+      "molecular evolution",
+      "sequence annotation"
+    ],
+    "operation": [
+      "global multiple sequence alignment"
+    ],
+    "input data": [
+      "multiple-sequence file"
+    ],
+    "output data": [
+      "multiple-sequence alignment file"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "fasta"
+    ]
+  },
+  "tools#4": {
+    "name": "MAFFT",
+    "discipline": "Phylogeny",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "multiple sequence alignment",
+      "bioinformatics",
+      "sequence analysis",
+      "comparative genomics"
+    ],
+    "operation": [
+      "progressive alignment",
+      "iterative refinement",
+      "fast fourier transform",
+      "consistency scoring",
+      "structural alignment"
+    ],
+    "input data": [
+      "unaligned nucleotide or protein sequences"
+    ],
+    "output data": [
+      "multiple sequence alignment",
+      "alignment accuracy scores"
+    ],
+    "input format": [
+      "fasta"
+    ],
+    "output format": [
+      "fasta",
+      "clustal",
+      "phylip",
+      "nexus"
+    ]
+  },
+  "tools#5": {
+    "name": "PhyML",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "phylogenetics",
+      "likelihood-based phylogenetics",
+      "molecular evolution"
+    ],
+    "operation": [
+      "tree inference",
+      "maximum-likelihood tree inference"
+    ],
+    "input data": [
+      "multiple sequence alignment",
+      "sequence evolution model"
+    ],
+    "output data": [
+      "phylogeny trees with support values"
+    ],
+    "input format": [
+      "phylip"
+    ],
+    "output format": [
+      "newick"
+    ]
+  },
+  "tools#6": {
+    "name": "PhyML",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert",
+    "topic": [
+      "phylogenetics",
+      "likelihood-based phylogenetics"
+    ],
+    "operation": [
+      "tree inference",
+      "maximum-likelihood tree reconstruction"
+    ],
+    "input data": [
+      "multiple sequence alignment",
+      "sequence evolution model"
+    ],
+    "output data": [
+      "phylogeny trees with support values"
+    ],
+    "input format": [
+      "phylip"
+    ],
+    "output format": [
+      "newick"
+    ]
+  },
+  "tools#7": {
+    "name": "PhyML",
+    "discipline": "Phylogeny",
+    "source": "proposition expert",
+    "topic": [
+      "phylogenetics",
+      "likelihood-based phylogenetics"
+    ],
+    "operation": [
+      "tree inference",
+      "maximum-likelihood tree reconstruction"
+    ],
+    "input data": [
+      "multiple sequence alignment",
+      "sequence evolution model"
+    ],
+    "output data": [
+      "phylogeny trees with support values"
+    ],
+    "input format": [
+      "phylip"
+    ],
+    "output format": [
+      "newick"
+    ]
+  },
+  "tools#8": {
+    "name": "PhyML",
+    "discipline": "Phylogeny",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "phylogenetics",
+      "molecular evolution",
+      "maximum likelihood",
+      "tree inference"
+    ],
+    "operation": [
+      "maximum likelihood estimation",
+      "tree search",
+      "model selection",
+      "statistical calculation",
+      "branch length optimization"
+    ],
+    "input data": [
+      "multiple sequence alignment",
+      "genetic sequences"
+    ],
+    "output data": [
+      "phylogenetic tree",
+      "statistical support values",
+      "log file"
+    ],
+    "input format": [
+      "phylip",
+      "fasta"
+    ],
+    "output format": [
+      "newick",
+      "pdf (via companion scripts)"
+    ]
+  },
+  "tools#9": {
+    "name": "FastME",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "phylogenetics",
+      "distanced-based phylogenetics"
+    ],
+    "operation": [
+      "tree inference",
+      "minimum evolution (me)",
+      "topological optimization",
+      "distance matrix computation"
+    ],
+    "input data": [
+      "multiple sequences alignment msa",
+      "distance matrix",
+      "substitution model"
+    ],
+    "output data": [
+      "phylogenetic trees with support values",
+      "distance matrix"
+    ],
+    "input format": [
+      "phylip",
+      "newick"
+    ],
+    "output format": [
+      "phylip",
+      "newick"
+    ]
+  },
+  "tools#10": {
+    "name": "FastME",
+    "discipline": "Phylogeny",
+    "source": "Consensus expert",
+    "topic": [
+      "phylogenetics",
+      "distanced-based phylogenetics"
+    ],
+    "operation": [
+      "tree inference",
+      "topological optimization",
+      "distance matrix computation"
+    ],
+    "input data": [
+      "multiple sequences alignment msa",
+      "distance matrix",
+      "substitution model"
+    ],
+    "output data": [
+      "phylogenetic trees with support values",
+      "distance matrix"
+    ],
+    "input format": [
+      "phylip",
+      "newick"
+    ],
+    "output format": [
+      "phylip",
+      "newick"
+    ]
+  },
+  "tools#11": {
+    "name": "FastME",
+    "discipline": "Phylogeny",
+    "source": "proposition expert",
+    "topic": [
+      "phylogenetics",
+      "distanced-based phylogenetics"
+    ],
+    "operation": [
+      "tree inference",
+      "topological optimization",
+      "distance matrix computation"
+    ],
+    "input data": [
+      "multiple sequences alignment msa",
+      "distance matrix",
+      "substitution model"
+    ],
+    "output data": [
+      "phylogenetic trees with support values",
+      "distance matrix"
+    ],
+    "input format": [
+      "phylip",
+      "newick"
+    ],
+    "output format": [
+      "phylip",
+      "newick"
+    ]
+  },
+  "tools#12": {
+    "name": "FastME",
+    "discipline": "Phylogeny",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "phylogeny inference",
+      "distance-based tree reconstruction",
+      "balanced minimum evolution",
+      "whole-genome phylogeny"
+    ],
+    "operation": [
+      "distance matrix calculation",
+      "topological moves (nearest neighbor interchange",
+      "subtree pruning and regrafting)",
+      "bootstrapping",
+      "parallel computations"
+    ],
+    "input data": [
+      "molecular sequences (dna",
+      "proteins)",
+      "distance matrices"
+    ],
+    "output data": [
+      "phylogenetic trees",
+      "bootstrap support values"
+    ],
+    "input format": [
+      "sequence alignments (e.g.",
+      "fasta)",
+      "distance matrices"
+    ],
+    "output format": [
+      "newick"
+    ]
+  }
+}

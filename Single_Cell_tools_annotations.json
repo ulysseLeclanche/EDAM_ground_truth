@@ -1,0 +1,419 @@
+{
+  "tools#1": {
+    "name": "Seurat",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "single-cell genomic",
+      "spatial transcriptomics"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "differential expression testing",
+      "visualization"
+    ],
+    "input data": [
+      "spatial transcriptomic",
+      "atacseq data",
+      "scrna-seq data",
+      "cite-seq",
+      "images",
+      "raw count matrix",
+      "cell metadata",
+      "feature metadata"
+    ],
+    "output data": [
+      "expression matrix",
+      "plots",
+      "table results",
+      "cell embeddings",
+      "cluster labels"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff",
+      "hdf5"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv",
+      "pdf"
+    ]
+  },
+  "tools#2": {
+    "name": "Seurat",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert",
+    "topic": [
+      "single-cell genomic"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "deg (differential expression gene)",
+      "visualization"
+    ],
+    "input data": [
+      "spatial transcriptomic",
+      "atacseq data",
+      "scrna-seq data",
+      "cite-seq",
+      "images",
+      "metadata tables",
+      "raw count matrix"
+    ],
+    "output data": [
+      "expression matrix",
+      "seurat object",
+      "plots",
+      "table results"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv"
+    ]
+  },
+  "tools#3": {
+    "name": "Seurat",
+    "discipline": "Single_Cell",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "single-cell rna-seq",
+      "multimodal integration",
+      "spatial transcriptomics",
+      "dimensionality reduction",
+      "clustering",
+      "differential expression"
+    ],
+    "operation": [
+      "data normalization",
+      "dimensionality reduction",
+      "cell clustering",
+      "differential expression testing",
+      "data integration",
+      "visualization"
+    ],
+    "input data": [
+      "gene expression matrix",
+      "cell metadata",
+      "feature metadata"
+    ],
+    "output data": [
+      "integrated embeddings",
+      "cluster labels",
+      "differential expression markers",
+      "visualizations"
+    ],
+    "input format": [
+      "10x genomics (mtx",
+      "tsv)",
+      "hdf5",
+      "csv",
+      "rds (seurat object)"
+    ],
+    "output format": [
+      "rds (seurat object)",
+      "csv",
+      "pdf/png (plots)"
+    ]
+  },
+  "tools#4": {
+    "name": "Scanpy",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "single-cell genomic",
+      "trajectory inference"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "differential expression testing",
+      "visualization",
+      "cell trajectory inference",
+      "pseudotime analysis"
+    ],
+    "input data": [
+      "spatial transcriptomic",
+      "atacseq data",
+      "scrna-seq data",
+      "cite-seq",
+      "images",
+      "cell metadata",
+      "feature metadata",
+      "raw count matrix"
+    ],
+    "output data": [
+      "processed expression matrix",
+      "cluster labels",
+      "pseudotime values",
+      "trajectory tree",
+      "trajectory graph",
+      "differential expression results",
+      "plots",
+      "table results"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff",
+      "hdf5",
+      "h5ad"
+    ],
+    "output format": [
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv",
+      "hdf5",
+      "h5ad",
+      "pdf"
+    ]
+  },
+  "tools#5": {
+    "name": "Scanpy",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert",
+    "topic": [
+      "single-cell genomic"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "deg (differential expression gene)",
+      "visualization",
+      "cell trajectory inference"
+    ],
+    "input data": [
+      "spatial transcriptomic",
+      "atacseq data",
+      "scrna-seq data",
+      "cite-seq",
+      "images",
+      "metadata tables",
+      "raw count matrix"
+    ],
+    "output data": [
+      "expression matrix",
+      "anndata object",
+      "plots",
+      "table results"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff",
+      "hdf5"
+    ],
+    "output format": [
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv",
+      "hdf5"
+    ]
+  },
+  "tools#6": {
+    "name": "Scanpy",
+    "discipline": "Single_Cell",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "single-cell rna-seq",
+      "preprocessing",
+      "visualization",
+      "clustering",
+      "trajectory inference",
+      "differential expression"
+    ],
+    "operation": [
+      "data filtering",
+      "normalization",
+      "dimensionality reduction",
+      "clustering",
+      "pseudotime analysis",
+      "differential expression testing"
+    ],
+    "input data": [
+      "gene expression matrix",
+      "cell annotations"
+    ],
+    "output data": [
+      "processed expression matrix",
+      "cluster labels",
+      "trajectory model",
+      "differential expression results"
+    ],
+    "input format": [
+      "10x genomics (mtx",
+      "h5)",
+      "h5ad (anndata)",
+      "csv",
+      "tsv"
+    ],
+    "output format": [
+      "h5ad (anndata)",
+      "csv",
+      "pdf/png (plots)"
+    ]
+  },
+  "tools#7": {
+    "name": "Monocle3",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "single-cell genomic",
+      "cell trajectories inference"
+    ],
+    "operation": [
+      "cell trajectories inference",
+      "quality control",
+      "normalization",
+      "reduction dimensions",
+      "clustering",
+      "visualisations",
+      "differential expression over cell trajectory"
+    ],
+    "input data": [
+      "expression matrices",
+      "cell metadata"
+    ],
+    "output data": [
+      "plots",
+      "pseudotime values",
+      "trajectory tree",
+      "trajectory graph",
+      "branch labels",
+      "differential expression results"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv",
+      "pdf"
+    ]
+  },
+  "tools#8": {
+    "name": "Monocle3",
+    "discipline": "Single_Cell",
+    "source": "Consensus expert",
+    "topic": [
+      "single-cell genomic",
+      "cell trajectories inference"
+    ],
+    "operation": [
+      "cell trajectories inference",
+      "quality control",
+      "normalization",
+      "reduction dimensions",
+      "clustering",
+      "visualisations",
+      "differential expression over cell trajectory"
+    ],
+    "input data": [
+      "expression matrices",
+      "tables",
+      "seurat object",
+      "single cell experiment"
+    ],
+    "output data": [
+      "plots",
+      "pseudotime values for the cells",
+      "trajectory tree"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv"
+    ]
+  },
+  "tools#9": {
+    "name": "Monocle3",
+    "discipline": "Single_Cell",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "single-cell rna-seq",
+      "trajectory inference",
+      "pseudotime analysis",
+      "cell fate decisions",
+      "differential expression"
+    ],
+    "operation": [
+      "dimensionality reduction",
+      "graph learning",
+      "cell ordering",
+      "branch analysis",
+      "differential expression testing"
+    ],
+    "input data": [
+      "gene expression matrix",
+      "cell metadata",
+      "starting state information"
+    ],
+    "output data": [
+      "trajectory graph",
+      "pseudotime values",
+      "branch labels",
+      "differential expression results"
+    ],
+    "input format": [
+      "10x genomics (mtx)",
+      "csv",
+      "rds (celldataset)"
+    ],
+    "output format": [
+      "rds",
+      "csv",
+      "pdf",
+      "png"
+    ]
+  }
+}
