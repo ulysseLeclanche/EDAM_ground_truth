@@ -1,0 +1,2 @@
+mean_precision	std_precision	mean_recall	std_recall	mean_f1	std_f1
+0.874	0.256	0.901	0.245	0.876	0.241
