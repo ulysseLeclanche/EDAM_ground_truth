@@ -1,0 +1,4 @@
+annotation,tools,tool_count
+fasta,MAFFT,1
+newick,FastME,1
+phylip,"FastME, PhyML",2

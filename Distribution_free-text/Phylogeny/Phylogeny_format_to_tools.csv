@@ -1,0 +1,9 @@
+io_type,annotation,tools,tool_count
+Input,fasta,MAFFT,1
+Input,newick,FastME,1
+Input,phylip,"FastME, PhyML",2
+Output,.tree,MAFFT,1
+Output,clustal,MAFFT,1
+Output,fasta,MAFFT,1
+Output,newick,"FastME, PhyML",2
+Output,phylip,FastME,1

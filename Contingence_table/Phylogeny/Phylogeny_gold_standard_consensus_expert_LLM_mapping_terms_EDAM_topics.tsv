@@ -1,0 +1,9 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	EDAM term URI 	Comment
+MAFFT	comparative genomics	Comparative genomics	Yes		ok		Yes	No	No	http://edamontology.org/topic_0797	
+FastME	distanced-based phylogenetics	Phylogenetics	Yes		ok		No	Yes	No	http://edamontology.org/topic_3293	
+PhyML	likelihood-based phylogenetics	Phylogenetics	Yes		ok		No	Yes	No	http://edamontology.org/topic_0084	
+MAFFT, PhyML	molecular evolution	Molecular evolution	Yes	Pas sûr de comprendre pourquoi ici on a 2 outils?	ok		Yes	No	No	http://edamontology.org/topic_3945	
+MAFFT	multiple-sequence alignment (msa)	Sequence Analysis	Yes		ok		No	Yes	No	http://edamontology.org/topic_0080	
+FastME, PhyML	phylogenetics	Phylogenetics	Yes	"Pourquoi 3 outils? Pas sûr que MAFFT soit vraiment ""Phylogenetics"""	"ok pour moi pour FastME et PhyML. Pour MAFFT il n'y a effectivement pas de carractère ""study of evolutionary relationships amongst organisms "".   "		Yes	No	No	http://edamontology.org/topic_3293	
+MAFFT	sequence analysis	Sequence analysis	Yes		ok		Yes	No	No	http://edamontology.org/topic_0080	
+MAFFT	sequence annotation	Sequence annotation	No	Pas vraiment annotation de séquence?	d'accord avec frederic		Yes	No	No	http://edamontology.org/operation_0361	operation not a topic

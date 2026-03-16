@@ -1,0 +1,6 @@
+annotation,tools,tool_count
+bam,"Anvi’o, MetaBAT2",2
+fasta,"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2",6
+fastq,"Anvi’o, Kraken2, MEGAHIT, mOTUs",4
+json,Anvi’o,1
+tsv,"Anvi’o, CONCOCT, MetaBAT2",3

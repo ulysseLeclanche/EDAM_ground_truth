@@ -1,0 +1,7 @@
+annotation,tools,tool_count
+bundle format (mtx),"Monocle3, Scanpy, Seurat",3
+csv,"Monocle3, Scanpy, Seurat",3
+h5ad,Scanpy,1
+hdf5,"Scanpy, Seurat",2
+tiff,"Scanpy, Seurat",2
+tsv,"Monocle3, Scanpy, Seurat",3

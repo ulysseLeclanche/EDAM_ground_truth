@@ -1,0 +1,11 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+AFNI, FSL, SPM	functional & anatomical MRI preprocesing	MRI	Yes	MRI preprocessing	MRI		No	Yes	No	http://edamontology.org/topic_3444	
+FMRIprep	bids apps	Medical imaging	Yes	fMRI preprocessing	MRI		No	Yes	No	http://edamontology.org/topic_3384	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	brain imaging	Medical imaging	Yes		Medical Imaging		No	Yes	No	http://edamontology.org/topic_3384	
+FSL, Freesurfer	diffusion mri tractography	MRI	No	diffusion ternsor imaging, fiber tractography	MRI		No	Yes	No	http://edamontology.org/topic_3444	
+SPM	eeg analysis	Medical Imaging	Yes	Medical Imaging, EEG signal processing	Physiology		No	Yes	No	http://edamontology.org/topic_3384	
+AFNI, FSL, SPM	fmri analysis	MRI	No	fMRI analysis	MRI		No	Yes	No	http://edamontology.org/topic_3444	
+FMRIprep	fmri preprocessing	MRI	No	fMRI preprocessing	MRI		No	Yes	No	http://edamontology.org/topic_3444	
+Freesurfer	fmri surface analysis	MRI	Yes		Medical Imaging		No	Yes	No	http://edamontology.org/topic_3444	
+SPM	meg analysis	MRI	No	MEG analysis	Medical Imaging ? 		No	Yes	No	http://edamontology.org/topic_3444	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	neuroimaging	Medical imaging	Yes		Medical Imaging		No	Yes	No	http://edamontology.org/topic_3384	

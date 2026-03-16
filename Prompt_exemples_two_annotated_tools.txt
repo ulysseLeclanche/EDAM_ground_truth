@@ -1,0 +1,22 @@
+Here are two examples of tool annotations according to these instructions: 
+
+Example 1 : 
+Tools : FastQC
+    Topic : DNA-seq, RNA-seq, Sequencing, Sequence analysis, Data quality management,.
+    Operation : Quality control, Statistical calculation, Sequence composition calculation, Diagrams and visualisations.
+    Data : 
+        Input => Read sequencing, Raw sequence, Alignments sequence.  
+        Output => Report sequence.
+    Format : 
+        Input => FASTQ/FASTA (text), SAM, BAM. 
+        Output => HTML.
+
+Example 2 : 
+Tool: admet-ai
+Topic: Toxicology, drug discovery, chemoinformatics, Pharmacokinetics, pharmacology
+Operation:  machine learning, graph neural networks, prediction, Data visualization, Model training
+Data:  
+Input => tabular, molecule identifiers
+Output => tabular, molecule identifiers
+Format: Input => SDF, MOL2, XLS/XLSX 
+Output => SDF, MOL2, XLS/XLSX 

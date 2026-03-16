@@ -1,0 +1,53 @@
+tools,annotation
+RWR,adjacency matrix (tsv/csv)
+String.db,api queries
+Cytoscape,biopax
+GSEA,cls (phenotypes)
+"Cytoscape, MULTIXRANK, SNF",csv
+String.db,csv (protein lists)
+GSEA,csv (tabular)
+"Cytoscape, String.db",cys
+String.db,cytoscape-compatible formats
+RWR,edge list
+RWR,edge lists (text file)
+GSEA,excel files
+"CarveMe, String.db, eggNOG-mapper",fasta
+GSEA,fi
+GSEA,gct (expression data)
+Cytoscape,gml
+"GSEA, MULTIXRANK",gmt
+GSEA,gmx
+SNF,graph files
+"Cytoscape, Fluxer, RWR",graphml
+GSEA,gst
+eggNOG-mapper,gzip
+MOFA2,hdf5
+Cytoscape,html
+GSEA,html reports
+Cytoscape,jpeg
+"COBRApy, CarveMe, MULTIXRANK, String.db, eggNOG-mapper",json
+"COBRApy, CarveMe",matlab
+MOFA2,matrices
+SNF,matrix
+MOFA2,mofa object
+RWR,network files (gml/sif)
+"Cytoscape, Fluxer",pdf
+GSEA,pdf plots
+"Cytoscape, Fluxer, String.db",png
+GSEA,png jpeg
+RWR,ranked tsv/csv
+"COBRApy, CarveMe, Cytoscape, Fluxer",sbml
+RWR,seed (text file)
+"Cytoscape, MULTIXRANK",sif
+"Cytoscape, Fluxer, GSEA, String.db",svg
+"Cytoscape, MULTIXRANK, SNF, String.db, eggNOG-mapper",tsv
+"MULTIXRANK, String.db",txt
+GSEA,txt (tabular)
+GSEA,txt/tsv (results)
+MOFA2,vectors (r)
+RWR,visualization files
+Cytoscape,xgmml
+Cytoscape,xls
+String.db,xml
+"COBRApy, CarveMe",yaml
+MULTIXRANK,yml

@@ -1,0 +1,9 @@
+annotation,tools,tool_count
+distance matrix computation,FastME,1
+fft,MAFFT,1
+global multiple sequence alignment,MAFFT,1
+maximum-likelihood tree inference,PhyML,1
+minimum evolution (me),FastME,1
+progressive alignment,MAFFT,1
+topological optimization,FastME,1
+tree inference,"FastME, PhyML",2

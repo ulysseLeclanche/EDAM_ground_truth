@@ -1,0 +1,50 @@
+tools	annotation	 candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+CarveMe	community modeling	Metabolic network modelling	Yes				No	No	Yes	http://edamontology.org/operation_3660	Operation not a topic
+CarveMe	genome-scale metabolic modeling	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	operation not a topic
+CarveMe	microbiology	Microbiology	Yes				Yes	No	No	http://edamontology.org/topic_3301	
+COBRApy	constraint-based modeling	Modelling and simulation	Yes				No	Yes	No	http://edamontology.org/operation_2426	Operation not a topic
+COBRApy	flux balance analysis	Fluxomics	No	For me these are two different concepts			No	Yes	No	http://edamontology.org/topic_3955	
+COBRApy, CarveMe	metabolic networks	Biological networks	Yes				No	Yes	No	http://edamontology.org/topic_0602	
+COBRApy, CarveMe	metabolic reconstruction	Metabolic network reconstruction	Yes				Yes	No	No	http://edamontology.org/operation_3660	operation not a topic
+COBRApy, CarveMe, Cytoscape, Fluxer, GSEA, String.db	systems biology	Systems biology	Yes				Yes	No	No	http://edamontology.org/topic_2259	
+COBRApy, Fluxer	metabolic modelling	Metabolic network modelling	Yes				Yes	No	No	http://edamontology.org/operation_3660	operation not a topic
+Cytoscape	co-occurrence networks	Molecular interactions, pathways and networks	Yes				No	Yes	No	http://edamontology.org/topic_0602	
+Cytoscape	data integration	Data integration and warehousing	No	I think in EDAM "data integration" is different from what we think about data integration, it's more related to requesting different data sources and databases		I'm agree withe the expert 1	Yes	No	No	http://edamontology.org/topic_3366	
+Cytoscape	graph theory	Molecular interactions, pathways and networks	Yes				No	Yes	No	http://edamontology.org/topic_0602	
+Cytoscape	metabolic pathways	Metabolic pathway prediction	No	Not really prediction.	+1	Idem	No	Yes	No	http://edamontology.org/operation_3929	operation not a topic
+Cytoscape	molecular interaction networks	Molecular interactions, pathways and networks	Yes				Yes	No	No	http://edamontology.org/topic_0602	
+Cytoscape	network handling	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	operation not a topic
+Cytoscape	network visualisation	Network visualisation	Yes				Yes	No	No	http://edamontology.org/operation_3925	operation not a topic
+Cytoscape	protein-protein interactions	Protein interactions	Yes				No	Yes	No	http://edamontology.org/topic_0128	
+Cytoscape	visualization	Visualisation	Yes				Yes	No	No	http://edamontology.org/operation_0337	
+Cytoscape, MULTIXRANK	network biology	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	operation not a topic
+Cytoscape, MULTIXRANK, RWR	network exploration	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	operation not a topic
+eggNOG-mapper	functional annotation of proteins	Sequence annotation	Yes				No	Yes	No	http://edamontology.org/operation_0361	operation
+eggNOG-mapper	metagenomic annotation	Metagenomics	Yes				No	Yes	No	http://edamontology.org/topic_3174	
+eggNOG-mapper	orthology assignment	Gene and protein families	Yes				No	Yes	No	http://edamontology.org/topic_0623	
+eggNOG-mapper	protein function prediction	Protein function prediction	Yes				Yes	No	No	http://edamontology.org/operation_1777	operation not a topic 
+Fluxer	biochemistry education	Biochemistry	Yes				No	Yes	No	http://edamontology.org/topic_3292	
+Fluxer	metabolic flux analysis	Fluxomics	No	For me these are two different concepts			No	Yes	No	http://edamontology.org/topic_3955	
+Fluxer	pathway visualization	Pathway visualisation	Yes				Yes	No	No	http://edamontology.org/operation_3926	operation not a topic 
+GSEA	enrichment analysis	Enrichment analysis	Yes				Yes	No	No	http://edamontology.org/operation_3501	operation not a topic
+GSEA	functional annotation	Gene functional annotation	Yes				No	Yes	No	http://edamontology.org/operation_3672	operation not a topic
+GSEA	molecular signatures	Molecular interactions, pathways and networks	No	A signature is not necessarily a network		I'm not sure about "networks"	No	Yes	No	http://edamontology.org/topic_0602	
+GSEA	pathway analysis	Pathway analysis	Yes				Yes	No	No	http://edamontology.org/operation_3928	operation not a topic
+GSEA, eggNOG-mapper	functional genomics	Functional genomics	Yes				Yes	No	No	http://edamontology.org/topic_0085	
+MOFA2	dimensionality reduction	Dimensionality reduction	Yes				Yes	No	No	http://edamontology.org/operation_3935	operation not a topic
+MOFA2	factor analysis	Dimensionality reduction	Yes	I'm not sure here, FA is more precise than dimensionality reduction so it cannot be consider as synonym but it's not wrong as FA is a type of dim red			No	Yes	No	http://edamontology.org/operation_3935	operation not a topic
+MOFA2	joint dimension reduction	Dimension reduction	Yes				No	Yes	No	http://edamontology.org/operation_3935	operation not a topic
+MOFA2, SNF 	multi-omics data integration	Multiomics 	Yes	I don't find Multiomics in the EDAM browser and the annotation is more related to a process (integration) than to data (multiomics)		I think this one is ok. The definition of Multiomics in EDAM is multiomics integration	No	Yes	No	http://edamontology.org/topic_4021	
+MULTIXRANK	multi-layer networks	Molecular interactions, pathways and networks	Yes				No	Yes	No	http://edamontology.org/topic_0602	
+MULTIXRANK	node prioritization	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM			No	Yes	No	http://edamontology.org/operation_2425	operation not a topic
+MULTIXRANK, RWR, SNF	network analysis	Network analysis	Yes				Yes	No	No	http://edamontology.org/operation_3927	operation not a topic
+RWR	disease gene prediction	Gene prediction	Yes	More precise but could be considered ok			No	Yes	No	http://edamontology.org/operation_2454	operation not a topic
+RWR	functional module detection	Function analysis	No	part of the annotation could be considered as function analysis but it's more a network method that can then be use for different purposes including function analysis		The definition in EDAM doesn't match - RWR is not doing functional prediction/analysis	No	Yes	No	http://edamontology.org/topic_1775	
+RWR	network propagation	Network analysis	Yes	network propagation is one of the many algorithms of network analysis			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic
+RWR	prioritization analysis	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM			No	Yes	No	http://edamontology.org/operation_2425	operation not a topic
+SNF	clustering	Clustering	Yes				Yes	No	No	http://edamontology.org/operation_3432	Operation not a topic
+SNF	disease subtyping	Rare diseases	No				No	Yes	No	http://edamontology.org/topic_3325	
+SNF	network integration	Network analysis	Yes	network integration is one of the many algorithms of network analysis			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic
+SNF	patient stratification	Personalised medicine	Yes				No	Yes	No	http://edamontology.org/topic_3577	
+String.db	functional enrichment	Function analysis	Yes				No	Yes	No	http://edamontology.org/topic_1775	
+String.db	protein-protein interaction networks	Protein interaction network analysis	Yes	Here also, the annotation refers to data whereas the term refers to a process			Yes	No	No	http://edamontology.org/operation_0276	operation not a topic 

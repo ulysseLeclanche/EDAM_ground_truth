@@ -1,0 +1,560 @@
+{
+  "tools#1": {
+    "name": "CellPose",
+    "discipline": "Microscopy",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "optical microscopy",
+      "cell segmentation"
+    ],
+    "operation": [
+      "segmentation 2d",
+      "segmentation 3d",
+      "model training",
+      "annotation"
+    ],
+    "input data": [
+      "microscopy images 2d",
+      "microscopy images 3d",
+      "annotation"
+    ],
+    "output data": [
+      "structured dataset",
+      "label masks",
+      "region of interest",
+      "model weight"
+    ],
+    "input format": [
+      "tiff",
+      "jpegs",
+      "png",
+      "npy"
+    ],
+    "output format": [
+      "png",
+      "npy",
+      "imagej rois",
+      "model cellpose"
+    ]
+  },
+  "tools#2": {
+    "name": "CellPose",
+    "discipline": "Microscopy",
+    "source": "Consensus expert",
+    "topic": [
+      "optical microscopy",
+      "cell segmentation"
+    ],
+    "operation": [
+      "segmentation 2d",
+      "segmentation 3d"
+    ],
+    "input data": [
+      "microscopy images 2d",
+      "microscopy images 3d",
+      "annotation"
+    ],
+    "output data": [
+      "structured dataset",
+      "label masks",
+      "region of interest"
+    ],
+    "input format": [
+      "tiff",
+      "jpegs"
+    ],
+    "output format": [
+      "png",
+      "npy",
+      "imagej rois"
+    ]
+  },
+  "tools#3": {
+    "name": "CellPose",
+    "discipline": "Microscopy",
+    "source": "proposition expert",
+    "topic": [
+      "optical microscopy",
+      "cell segmentation"
+    ],
+    "operation": [
+      "deep learning based cell segmentation",
+      "2d or 3d"
+    ],
+    "input data": [
+      "microscopy images"
+    ],
+    "output data": [
+      "structured dataset",
+      "label masks"
+    ],
+    "input format": [
+      "tiff",
+      "jpegs"
+    ],
+    "output format": [
+      "npy",
+      "png",
+      "imagej rois"
+    ]
+  },
+  "tools#4": {
+    "name": "CellPose",
+    "discipline": "Microscopy",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "cellular imaging",
+      "fluorescence microscopy",
+      "phase-contrast microscopy",
+      "histology",
+      "cell biology",
+      "neuroscience"
+    ],
+    "operation": [
+      "image segmentation",
+      "cell detection",
+      "instance segmentation",
+      "model training",
+      "model fine-tuning",
+      "human-in-the-loop annotation",
+      "style vector analysis",
+      "clustering"
+    ],
+    "input data": [
+      "microscopy image",
+      "fluorescence image",
+      "phase-contrast image"
+    ],
+    "output data": [
+      "segmentation mask",
+      "region of interest"
+    ],
+    "input format": [
+      "tiff",
+      "png"
+    ],
+    "output format": [
+      "tiff",
+      "png"
+    ]
+  },
+  "tools#5": {
+    "name": "EcClem",
+    "discipline": "Microscopy",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "correlative microscopy",
+      "image registration"
+    ],
+    "operation": [
+      "fiducial list based registration",
+      "error estimation"
+    ],
+    "input data": [
+      "microscopy images 2d",
+      "microscopy images 3d",
+      "list of paired points"
+    ],
+    "output data": [
+      "error map in memory",
+      "transformed source image",
+      "overlay image",
+      "transformation matrix"
+    ],
+    "input format": [
+      "microscopy image format",
+      "xml"
+    ],
+    "output format": [
+      "image format",
+      "csv",
+      "xml"
+    ]
+  },
+  "tools#6": {
+    "name": "EcClem",
+    "discipline": "Microscopy",
+    "source": "Consensus expert",
+    "topic": [
+      "correlative microscopy"
+    ],
+    "operation": [
+      "fiducial list based registration"
+    ],
+    "input data": [
+      "microscopy images 2d",
+      "microscopy images 3d",
+      "list of paired points"
+    ],
+    "output data": [
+      "error map in memory",
+      "transformed source image",
+      "overlay image",
+      "transformation matrix"
+    ],
+    "input format": [
+      "microscopy image format",
+      "xml"
+    ],
+    "output format": [
+      "tif",
+      "csv",
+      "xml"
+    ]
+  },
+  "tools#7": {
+    "name": "EcClem",
+    "discipline": "Microscopy",
+    "source": "proposition expert",
+    "topic": [
+      "correlative microscopy"
+    ],
+    "operation": [
+      "fiducial list based registration(rigid",
+      "affine",
+      "similarity or spline based non rigid)"
+    ],
+    "input data": [
+      "microscopy images and list of paired points"
+    ],
+    "output data": [
+      "error map in memory",
+      "transformed source dataset",
+      "overlay",
+      "transformation matrix"
+    ],
+    "input format": [
+      "image format"
+    ],
+    "output format": [
+      "tif",
+      "csv",
+      "xml"
+    ]
+  },
+  "tools#8": {
+    "name": "EcClem",
+    "discipline": "Microscopy",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "correlative light and electron microscopy",
+      "image registration",
+      "multidimensional imaging",
+      "bioimaging"
+    ],
+    "operation": [
+      "image alignment",
+      "rigid registration",
+      "non-rigid registration",
+      "2d to 3d registration",
+      "3d to 3d registration",
+      "error mapping",
+      "transformation application"
+    ],
+    "input data": [
+      "multidimensional image",
+      "light microscopy image",
+      "electron microscopy image",
+      "region of interest"
+    ],
+    "output data": [
+      "registered image",
+      "transformation matrix"
+    ],
+    "input format": [
+      "xml",
+      "tiff"
+    ],
+    "output format": [
+      "xml",
+      "tiff"
+    ]
+  },
+  "tools#9": {
+    "name": "Big-FISH",
+    "discipline": "Microscopy",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "fluorescence in situ hybriditation microscopy",
+      "spatial transcriptomics"
+    ],
+    "operation": [
+      "preprocessing",
+      "cell segmentation",
+      "nucleus segmentation",
+      "spot detection",
+      "cluster detection",
+      "colocalisation"
+    ],
+    "input data": [
+      "fluorescence in situ hybriditation (fish) microscopy image"
+    ],
+    "output data": [
+      "label mask as np array",
+      "list of detection with additional features"
+    ],
+    "input format": [
+      "png",
+      "jpg",
+      "jpeg",
+      "tif",
+      "tiff"
+    ],
+    "output format": [
+      "image format",
+      "txt"
+    ]
+  },
+  "tools#10": {
+    "name": "Big-FISH",
+    "discipline": "Microscopy",
+    "source": "Consensus expert",
+    "topic": [
+      "in situ hybriditation microscopy",
+      "spatial transcriptomics"
+    ],
+    "operation": [
+      "preprocessing",
+      "cell segmentation",
+      "nucleus segmentation",
+      "spot detection",
+      "cluster detection",
+      "colocalisation"
+    ],
+    "input data": [
+      "microscopy images prepared by fish technique"
+    ],
+    "output data": [
+      "label mask as np array",
+      "list of detection with additional features"
+    ],
+    "input format": [
+      "png",
+      "jpg",
+      "jpeg",
+      "tif",
+      "tiff"
+    ],
+    "output format": [
+      "image format",
+      "txt"
+    ]
+  },
+  "tools#11": {
+    "name": "Big-FISH",
+    "discipline": "Microscopy",
+    "source": "proposition expert",
+    "topic": [
+      "in situ hybriditation microscopy",
+      "spatial transcriptomics",
+      "smfish",
+      "mrna",
+      "rnafish"
+    ],
+    "operation": [
+      "preprocessing",
+      "cell and nuclei segmentation",
+      "spot detection",
+      "cluster detection",
+      "colocalisation"
+    ],
+    "input data": [
+      "microscopy images prepared by fish technique"
+    ],
+    "output data": [
+      "label mask as np array",
+      "list of detection with additional features such as colocalisation or clusters"
+    ],
+    "input format": [
+      "png",
+      "jpg",
+      "jpeg",
+      "tif",
+      "tiff"
+    ],
+    "output format": []
+  },
+  "tools#12": {
+    "name": "Big-FISH",
+    "discipline": "Microscopy",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "single-molecule fluorescence in situ hybridization",
+      "rna imaging",
+      "gene expression",
+      "cell biology",
+      "spatial genomics"
+    ],
+    "operation": [
+      "spot detection",
+      "cell segmentation",
+      "nucleus segmentation",
+      "image preprocessing",
+      "coordinate extraction",
+      "statistical analysis",
+      "pattern classification"
+    ],
+    "input data": [
+      "smfish image",
+      "3d microscopy image",
+      "fluorescence image"
+    ],
+    "output data": [
+      "detection coordinates",
+      "cell mask",
+      "nucleus mask",
+      "statistical data"
+    ],
+    "input format": [
+      "tiff",
+      "mrc"
+    ],
+    "output format": [
+      "csv"
+    ]
+  },
+  "tools#13": {
+    "name": "deconvolutionLab2",
+    "discipline": "Microscopy",
+    "source": "Consensus expert LLM",
+    "topic": [
+      "wide field",
+      "confocal microscopy",
+      "image restoration"
+    ],
+    "operation": [
+      "preprocessing",
+      "deconvolution",
+      "point-spread function generation"
+    ],
+    "input data": [
+      "microscopy images 3d",
+      "point spread function"
+    ],
+    "output data": [
+      "deconvolved image 3d",
+      "point spread function"
+    ],
+    "input format": [
+      "microscopy image format"
+    ],
+    "output format": [
+      "image format"
+    ]
+  },
+  "tools#14": {
+    "name": "deconvolutionLab2",
+    "discipline": "Microscopy",
+    "source": "Consensus expert",
+    "topic": [
+      "wide field",
+      "confocal microscopy"
+    ],
+    "operation": [
+      "preprocessing",
+      "deconvolution",
+      "point-spread function generation",
+      "egularized inverse filter",
+      "tikhonov inverse filter",
+      "naive inverse filter",
+      "richardson-lucy",
+      "richardson-lucy total variation",
+      "landweber (linear least squares)",
+      "non-negative least squares",
+      "bounded-variable least squares",
+      "van cittert",
+      "tikhonov-miller",
+      "iterative constraint tikhonov-miller",
+      "fista",
+      "ista."
+    ],
+    "input data": [
+      "microscopy images 3d",
+      "point spread function"
+    ],
+    "output data": [
+      "image stack",
+      "point spread function"
+    ],
+    "input format": [
+      "microscopy image format"
+    ],
+    "output format": [
+      "image format"
+    ]
+  },
+  "tools#15": {
+    "name": "deconvolutionLab2",
+    "discipline": "Microscopy",
+    "source": "proposition expert",
+    "topic": [
+      "wide field",
+      "confocal microscospy"
+    ],
+    "operation": [
+      "preprocessing",
+      "deconvolution",
+      "point-spread function generation",
+      "egularized inverse filter",
+      "tikhonov inverse filter",
+      "naive inverse filter",
+      "richardson-lucy",
+      "richardson-lucy total variation",
+      "landweber (linear least squares)",
+      "non-negative least squares",
+      "bounded-variable least squares",
+      "van cittert",
+      "tikhonov-miller",
+      "iterative constraint tikhonov-miller",
+      "fista",
+      "ista."
+    ],
+    "input data": [
+      "microscopy images 3d stacks",
+      "possibly psf as a 3d stack (a bead 3d stack)"
+    ],
+    "output data": [
+      "image stack",
+      "optionnaly psf if blind deconvolution as an image"
+    ],
+    "input format": [
+      "bioformat supported image"
+    ],
+    "output format": []
+  },
+  "tools#16": {
+    "name": "deconvolutionLab2",
+    "discipline": "Microscopy",
+    "source": "proposition DeepSeek-V3.1",
+    "topic": [
+      "fluorescence microscopy",
+      "deconvolution microscopy",
+      "3d imaging",
+      "bioimaging",
+      "signal processing"
+    ],
+    "operation": [
+      "image deconvolution",
+      "richardson-lucy deconvolution",
+      "tikhonov regularization",
+      "landweber algorithm",
+      "inverse filtering",
+      "fast iterative shrinkage-thresholding"
+    ],
+    "input data": [
+      "blurred image",
+      "microscopy images 3d",
+      "point spread function"
+    ],
+    "output data": [
+      "deconvolved image",
+      "restored image"
+    ],
+    "input format": [
+      "tiff"
+    ],
+    "output format": [
+      "tiff"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+io_type,annotation,tools,tool_count
+Input,distance matrix,FastME,1
+Input,multiple sequence alignment,PhyML,1
+Input,multiple sequences alignment msa,FastME,1
+Input,multiple-sequence file,MAFFT,1
+Input,sequence evolution model,PhyML,1
+Input,substitution model,FastME,1
+Output,distance matrix,FastME,1
+Output,multiple-sequence alignment file,MAFFT,1
+Output,phylogenetic trees with support values,FastME,1
+Output,phylogeny trees with support values,PhyML,1

@@ -1,0 +1,73 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+bwa	alignment of dna sequencing to reference sequence (or genome)	Sequence alignment	Yes	bwa, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292	
+Minimap2	alignment of long reads to reference sequence (or genome)	Sequence alignment	Yes	minimap2, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292	
+STAR	alignment of rna sequencing to reference sequence (or genome)	Sequence alignment	Yes	STAR, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292	
+bwa, Minimap2, STAR	indexing	Indexing	Yes			Yes	No	No	http://edamontology.org/operation_0227	
+ClusterProfiler	biological theme comparison	Gene-set enrichment analysis	No	EDAM annotation too narrow. My annotation too broad, maybe a topic.		No	No	Yes	http://edamontology.org/operation_2436	
+Canu	contig assembly	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/operation_0310	
+htseq-count	counting reads in features	RNA-seq read count analysis	Yes			No	No	Yes	http://edamontology.org/operation_3563	
+ClusterProfiler	data visualization	Data visualisation	Yes			Yes	No	No	http://edamontology.org/topic_0092	topic not an operation
+Sniffles2	detection of structural variants from long reads	Structural variation detection	Yes			No	Yes	No	http://edamontology.org/operation_3228	
+ClusterProfiler	gene set enrichment analysis	Gene-set enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_2436	
+Bedtools_annotate	genomic interval annotation	Genome annotation	Yes		bedtools annotate performs 'Genome annotation' with an aim of 'Genome feature comparison' http://edamontology.org/operation_3194	No	Yes	No	http://edamontology.org/operation_0362	
+ClusterProfiler	id conversion	ID mapping	Yes			No	Yes	No	http://edamontology.org/operation_3282	
+Samtools_index	indexing alignment file	Indexing	Yes			No	Yes	No	http://edamontology.org/operation_0227	
+deseq2	normalization of expression matrix	Standardisation and normalisation	Yes			No	Yes	No	http://edamontology.org/operation_3435	
+ClusterProfiler	over-representation analysis	Gene-set enrichment analysis	Yes	Under 'Erichment analysis' there should also be a term called 'Over-representation analysis' alongside 'Gene-set enrichment analysis'		No	Yes	No	http://edamontology.org/operation_2436	
+Canu	read correction	Sequence merging	Yes		Read correction in the context of long-read should fall under Sequence editing --> Sequence merging http://edamontology.org/operation_0232	No	Yes	No	http://edamontology.org/operation_0232	
+STAR	read mapping	Read mapping	Yes			Yes	No	No	http://edamontology.org/operation_3198	
+Canu	read trimming	Sequence trimming	Yes		Sequence trimming and Sequence merging fall under Sequence editing	No	Yes	No	http://edamontology.org/operation_3192	
+ClusterProfiler	semantic similarity analysis	Sequence functional annotation	Yes	We suggest: http://edamontology.org/operation_3672		No	No	Yes	http://edamontology.org/operation_3672	
+deseq2	statistical differential gene expression detection	Differential gene expression profiling	Yes			No	Yes	No	http://edamontology.org/operation_3223	
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		

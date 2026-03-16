@@ -1,0 +1,12 @@
+annotation,tools,tool_count
+bam,"Samtools_index, Sniffles2, htseq-count",3
+bed,"Bedtools_annotate, Sniffles2",2
+cram,Samtools_index,1
+dsv,"ClusterProfiler, deseq2",2
+fasta,"Canu, Minimap2, STAR, Sniffles2, bwa",5
+fastq,"Canu, Minimap2, STAR, bwa",4
+gff,"Bedtools_annotate, htseq-count",2
+gtf,"STAR, htseq-count",2
+mmi,Minimap2,1
+sam,"Samtools_index, htseq-count",2
+vcf,Bedtools_annotate,1

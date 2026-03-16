@@ -1,0 +1,36 @@
+annotation,tools,tool_count
+biological networks,RWR,1
+clinical data,SNF,1
+constraints,COBRApy,1
+edge attribute,Cytoscape,1
+edge weights,"MULTIXRANK, RWR",2
+gene expression matrix,GSEA,1
+gene name,String.db,1
+gene sequences,"CarveMe, eggNOG-mapper",2
+gene sets,GSEA,1
+genome annotations,CarveMe,1
+heterogeneous networks,MULTIXRANK,1
+list of nodes and edges,Cytoscape,1
+metabolic model,"COBRApy, Fluxer",2
+metabolic network/model or nothing if created from scratch,COBRApy,1
+metagenomic contigs,eggNOG-mapper,1
+multi-layer network graphs,MULTIXRANK,1
+multi-omics profiles,SNF,1
+network,"Cytoscape, RWR",2
+network and seed,MULTIXRANK,1
+node attribute,Cytoscape,1
+nucleotide sequences,eggNOG-mapper,1
+objective functions,COBRApy,1
+omics,SNF,1
+omics matrices,MOFA2,1
+organism-specific queries,String.db,1
+paired omics data,MOFA2,1
+protein identifiers,String.db,1
+protein name,String.db,1
+protein sequences,"CarveMe, String.db, eggNOG-mapper",3
+ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes),GSEA,1
+restart probability,RWR,1
+seed,RWR,1
+seed nodes,"MULTIXRANK, RWR",2
+sequences,String.db,1
+taxonomic information,CarveMe,1

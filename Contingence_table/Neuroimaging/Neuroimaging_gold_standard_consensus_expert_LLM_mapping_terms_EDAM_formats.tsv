@@ -1,0 +1,69 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Freesurfer	annot	Image format	Yes				No	No	No	http://edamontology.org/format_3547	
+Freesurfer	bfloat	Binary format	Yes				No	Yes	No	http://edamontology.org/format_2333	
+FMRIprep	bids	no_matching_term		BIDS, Folder organisation			No	No	No		no matching format
+AFNI	brik/head	no_matching_term		BRIK/HEAD			No	No	No		no matching format
+Freesurfer	bshort	Image format	Yes				No	No	No	http://edamontology.org/format_3547	
+Freesurfer	cor	Image format	Yes				No	No	No	http://edamontology.org/format_3548	
+Freesurfer	curv	Image format	Yes				No	No	No	http://edamontology.org/format_3549	
+Freesurfer	dat	dat	Yes				Yes	No	No	http://edamontology.org/format_1637	
+Freesurfer, SPM	dicom	DICOM format	Yes				Yes	No	No	http://edamontology.org/format_3548	
+Freesurfer	gca	Image format	Yes				No	No	No	http://edamontology.org/format_3547	
+Freesurfer	gcs	Image format	Yes				No	No	No	http://edamontology.org/format_3548	
+FMRIprep, FSL	html	HTML	Yes				Yes	Yes	No	http://edamontology.org/format_2331	
+SPM	jpeg	jpeg	Yes				Yes	No	No	http://edamontology.org/format_3579	
+Freesurfer	m3d	Image format	Yes				No	No	No	http://edamontology.org/format_3547	
+SPM	mat	MAT	Yes				Yes	No	No	http://edamontology.org/format_3626	
+Freesurfer	mgh	Image format	Yes				No	No	No	http://edamontology.org/format_3547	
+Freesurfer	mgz	Image format	Yes				No	No	No	http://edamontology.org/format_3548	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	nifti	Image format	Yes				No	No	No	http://edamontology.org/format_3549	
+FSL	nifti.gz	Image format	Yes				No	No	No	http://edamontology.org/format_3550	
+Freesurfer	patch	Image format	Yes				No	No	No	http://edamontology.org/format_3551	
+SPM	pdf	PDF	Yes				Yes	No	No	http://edamontology.org/format_3508	
+SPM	ps	PS	Yes				Yes	Yes	No	http://edamontology.org/format_3696	
+Freesurfer	surface	no_matching_term		surface			No	No	No		no matching format
+FMRIprep	tsv	TSV	Yes				Yes	No	No	http://edamontology.org/format_3475	
+Freesurfer	xfm	xbm	Yes				No	No	No	http://edamontology.org/format_3598	not sure
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		

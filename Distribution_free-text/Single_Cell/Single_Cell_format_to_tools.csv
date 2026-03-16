@@ -1,0 +1,16 @@
+io_type,annotation,tools,tool_count
+Input,bundle format (mtx),"Monocle3, Scanpy, Seurat",3
+Input,csv,"Monocle3, Scanpy, Seurat",3
+Input,h5ad,Scanpy,1
+Input,hdf5,"Scanpy, Seurat",2
+Input,tiff,"Scanpy, Seurat",2
+Input,tsv,"Monocle3, Scanpy, Seurat",3
+Output,csv,"Monocle3, Scanpy, Seurat",3
+Output,h5ad,Scanpy,1
+Output,hdf5,Scanpy,1
+Output,jpeg,"Monocle3, Scanpy, Seurat",3
+Output,pdf,"Monocle3, Scanpy, Seurat",3
+Output,png,"Monocle3, Scanpy, Seurat",3
+Output,rds,"Monocle3, Seurat",2
+Output,svg,"Monocle3, Scanpy, Seurat",3
+Output,tsv,"Monocle3, Scanpy, Seurat",3

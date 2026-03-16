@@ -1,0 +1,6 @@
+tools,annotation
+MAFFT,.tree
+MAFFT,clustal
+MAFFT,fasta
+"FastME, PhyML",newick
+"FastME, PhyML",phylip

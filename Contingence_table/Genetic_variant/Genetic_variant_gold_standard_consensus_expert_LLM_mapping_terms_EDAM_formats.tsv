@@ -1,0 +1,20 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Samtools_index	bai	BAI	Yes			Yes	No	No	http://edamontology.org/format_3327	
+STAR, Samtools_index, Sniffles2, htseq-count	bam	BAM	Yes			Yes	No	No	http://edamontology.org/format_2572	
+Bedtools_annotate, Sniffles2	bed	BED	Yes			No	No	No	http://edamontology.org/format_3003	
+Samtools_index	crai	Data index format	Yes	Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai		No	Yes	No	http://edamontology.org/format_3326	
+Samtools_index	cram	CRAM	Yes			Yes	No	No	http://edamontology.org/format_3462	
+Samtools_index	csi	Data index format	Yes	Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai		No	Yes	No	http://edamontology.org/format_3326	
+ClusterProfiler, deseq2	dsv	DSV	Yes			Yes	No	No	http://edamontology.org/format_3751	
+Canu, Minimap2, STAR, Sniffles2, bwa	fasta	FASTA	Yes			Yes	No	No	http://edamontology.org/format_1929	
+Canu, Minimap2, STAR, bwa	fastq	FASTQ	Yes			Yes	No	No	http://edamontology.org/format_1930	
+Canu	gfa	GFA 2	Yes			No	No	Yes	http://edamontology.org/format_3976	
+Bedtools_annotate, htseq-count	gff	GFF	Yes			Yes	No	No	http://edamontology.org/format_2305	
+STAR, htseq-count	gtf	GTF	Yes			Yes	No	No	http://edamontology.org/format_2306	
+ClusterProfiler	image format	Image format	Yes			Yes	No	No	http://edamontology.org/format_3547	
+Minimap2	mmi	Data index format	Yes		Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai	No	Yes	No	http://edamontology.org/format_3326	
+Minimap2	paf		No		Should be specific format uder DSV and at the same level as SAM.	No	No	No	no matching format	
+Minimap2, STAR, Samtools_index, bwa, htseq-count	sam	SAM	Yes			Yes	No	No	http://edamontology.org/format_2573	
+Sniffles2	snf		No		Should be specific format uder DSV and at the same level as SAM.	No	No	No	no matching format	
+htseq-count	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475	
+Bedtools_annotate, Sniffles2	vcf	VCF	Yes			Yes	No	No	http://edamontology.org/format_3016	

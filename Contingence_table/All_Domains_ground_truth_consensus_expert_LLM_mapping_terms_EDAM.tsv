@@ -1,0 +1,1119 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	EDAM term URI	Comment	domain	edam_category	Commentaire expert 3
+MetaBAT2	abundance profiling	Biodiversity data	Yes	Oui mais le terme Biodiversity data est bien plus général.. 		No	Yes	No	http://edamontology.org/data_3707		Metagenomic	data	
+Kraken2, mOTUs	abundance table	Biodiversity data	Yes			No	Yes	No	http://edamontology.org/data_3707		Metagenomic	data	
+Anvi’o	annotated contigs	Sequence Assembly	No			No	Yes	No	http://edamontology.org/data_0925		Metagenomic	data	
+Anvi’o, CONCOCT, MetaBAT2	bins	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850		Metagenomic	data	
+MetaBAT2	co-abundance	Biodiversity data	No			No	Yes	No	http://edamontology.org/data_3707		Metagenomic	data	
+Anvi’o, CONCOCT, MEGAHIT, MetaBAT2, checkM2	contigs	Sequence Assembly	Yes			No	Yes	No	http://edamontology.org/data_0925		Metagenomic	data	
+CONCOCT, MetaBAT2	coverage profiles	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850		Metagenomic	data	
+Anvi’o	functional annotations	Gene functional annotation	Yes			No	No	Yes	http://edamontology.org/operation_3672	operation not a data	Metagenomic	data	
+GTDB-Tk	genome	Genome report	No			No	Yes	No	http://edamontology.org/data_2711		Metagenomic	data	
+Anvi’o	image	Image	Yes			Yes	No	No	http://edamontology.org/data_2968		Metagenomic	data	
+Anvi’o	metabolic profiles	Mass spectrometry data	Yes			No	Yes	No	http://edamontology.org/data_2536		Metagenomic	data	
+GTDB-Tk	metagenome	Metagenomic sequencing	Yes			No	Yes	No	http://edamontology.org/topic_3837	topic not a data	Metagenomic	data	
+CONCOCT, MetaBAT2	metagenome assembled genomes mags	Metagenomic sequencing	No			No	Yes	No	http://edamontology.org/topic_3837	topic not a data	Metagenomic	data	
+Anvi’o, GTDB-Tk	phylogenetic tree	Phylogenetic tree	Yes			Yes	No	No	http://edamontology.org/data_0872		Metagenomic	data	
+checkM2	quality annotation	Gene features report	No			No	Yes	No	http://edamontology.org/data_0916		Metagenomic	data	
+Anvi’o	raw sequence	Sequence trace	No			No	Yes	No	http://edamontology.org/data_0924		Metagenomic	data	
+Anvi’o	sequence abundance profile	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850		Metagenomic	data	
+Kraken2, MEGAHIT, mOTUs	sequencing reads	Sequence trace	No			No	Yes	No	http://edamontology.org/data_0924		Metagenomic	data	
+Kraken2, checkM2, mOTUs	taxonomic annotation	Taxonomic name	Yes			No	No	No	http://edamontology.org/data_1872		Metagenomic	data	
+GTDB-Tk	taxonomic labels	Taxonomic name	Yes			No	No	No	http://edamontology.org/data_1872		Metagenomic	data	
+Anvi’o	taxonomic profiles	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/data_1872		Metagenomic	data	
+MetaBAT2	tetranucleotide frequencies	Base frequencies table	Yes			Yes	No	No	http://edamontology.org/data_1265		Metagenomic	data	
+Anvi’o	tree	Phylogenetic tree	Yes			No	Yes	No	http://edamontology.org/data_0872		Metagenomic	data	
+Anvi’o	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	operation not a data	Metagenomic	data	
+Anvi’o, MetaBAT2, mOTUs	bam	BAM	Yes			Yes	No	No	http://edamontology.org/format_2572		Metagenomic	formats	
+Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2	fasta	FASTA	Yes			Yes	No	No	http://edamontology.org/format_1929		Metagenomic	formats	
+Anvi’o, Kraken2, MEGAHIT, mOTUs	fastq	FASTQ	Yes			Yes	No	No	http://edamontology.org/format_1930		Metagenomic	formats	
+Anvi’o, Kraken2	html	HTML	Yes			Yes	No	No	http://edamontology.org/format_2331		Metagenomic	formats	
+Anvi’o	jpeg	JPEG	Yes			Yes	No	No	http://edamontology.org/format_3579		Metagenomic	formats	
+Anvi’o, GTDB-Tk	json	JSON	Yes			Yes	No	No	http://edamontology.org/format_3464		Metagenomic	formats	
+Anvi’o, GTDB-Tk	newick	newick	Yes			Yes	No	No	http://edamontology.org/format_1910		Metagenomic	formats	
+Anvi’o	png	PNG	Yes			Yes	No	No	http://edamontology.org/format_3603		Metagenomic	formats	
+Anvi’o	svg	SVG	Yes			Yes	No	No	http://edamontology.org/format_3604		Metagenomic	formats	
+Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MetaBAT2, checkM2, mOTUs	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475		Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+											Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+						No	No	No			Metagenomic	formats	
+MetaBAT2	abundance and composition integration	Enrichment analysis	No			No	Yes	No	http://edamontology.org/operation_3501		Metagenomic	operations	
+Kraken2, mOTUs	abundance profiling	Gene expression profiling	No			No	Yes	No	http://edamontology.org/operation_0314		Metagenomic	operations	
+mOTUs	activity profiling	Gene expression profiling	Yes			No	Yes	No	http://edamontology.org/operation_0314		Metagenomic	operations	
+Anvi’o	annotation edition	Genome annotation	Yes			No	No	Yes	http://edamontology.org/operation_0362		Metagenomic	operations	
+Anvi’o	assembly	Sequence assembly	Yes			Yes	No	No	http://edamontology.org/operation_0310		Metagenomic	operations	
+CONCOCT, MetaBAT2	binning	Read binning	No			Yes	No	No	http://edamontology.org/operation_3798		Metagenomic	operations	
+Anvi’o	binning refinement	Read binning	No			No	Yes	No	http://edamontology.org/operation_3798		Metagenomic	operations	
+MEGAHIT	bruijn graph	De Bruijn graph 	Yes			Yes	No	No	http://edamontology.org/operation_0524		Metagenomic	operations	
+Anvi’o	functional annotation	Gene functional annotation	Yes			No	No	Yes	http://edamontology.org/operation_3672		Metagenomic	operations	
+checkM2	genome annotation	Genome annotation	Yes			Yes	No	No	http://edamontology.org/operation_0362		Metagenomic	operations	
+MEGAHIT	genome assemby	Genome assembly	Yes			Yes	No	No	http://edamontology.org/operation_0525		Metagenomic	operations	
+checkM2	genome completness	Sequence assembly	No			No	Yes	No	http://edamontology.org/operation_0310		Metagenomic	operations	
+checkM2	genome contamination	Sequence contamination filtering	No			No	No	Yes	http://edamontology.org/operation_3187		Metagenomic	operations	
+checkM2	genome quality	Sequencing quality control	Yes			No	Yes	No	http://edamontology.org/operation_3218		Metagenomic	operations	
+Anvi’o	genomic refining	Sequence assembly	No			No	Yes	No	http://edamontology.org/operation_0310		Metagenomic	operations	
+Anvi’o	interactive edition	Editing	Yes			No	Yes	No	http://edamontology.org/operation_3096		Metagenomic	operations	
+Anvi’o	interactive visualization	Visualisation	Yes			No	Yes	No	http://edamontology.org/operation_0337		Metagenomic	operations	
+MEGAHIT	metagenomic assembly	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/operation_0310		Metagenomic	operations	
+GTDB-Tk	phylogenetic inference	Phylogenetic inference	Yes			Yes	No	No	http://edamontology.org/operation_0323		Metagenomic	operations	
+Kraken2	sequence classification	Sequence analysis	Yes			No	Yes	No	http://edamontology.org/operation_2403		Metagenomic	operations	
+Kraken2, checkM2, mOTUs	taxonomic annotation	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460		Metagenomic	operations	
+GTDB-Tk	taxonomic classification	Taxonomic classification	Yes			Yes	Yes	No	http://edamontology.org/operation_3460		Metagenomic	operations	
+Anvi’o	taxonomic profiling	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460		Metagenomic	operations	
+mOTUs	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Metagenomic	operations	
+Anvi’o, mOTUs	workflow	Workflows	Yes			Yes	No	No	http://edamontology.org/topic_0769	topic not a operation	Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+											Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+						No	No	No			Metagenomic	operations	
+CONCOCT	binning	Read binning	No	"Le terme ""read"" me pose problème car concoct ne fonctionne qu'avec des contigs d'une taille minimum de 1000pb donc pas sur des reads  "	Oui le binning se fait généralement au niveau des contigs, et on parle souvent de genome binning	Yes	No	No	http://edamontology.org/operation_3798	Operation not a topic	Metagenomic	topics	
+Anvi’o, GTDB-Tk	comparative genomics	Comparative genomics	Yes			Yes	No	No	http://edamontology.org/topic_0797		Metagenomic	topics	
+MEGAHIT	de novo assembly	De-novo assembly	Yes			Yes	No	No	http://edamontology.org/operation_0524	Operation not a topic	Metagenomic	topics	
+Anvi’o	functional genomics	Functional genomics	Yes			Yes	No	No	http://edamontology.org/topic_0085		Metagenomic	topics	
+CONCOCT, MetaBAT2	genome reconstruction	Whole genome sequencing	No	Ces deux outils ne fonctionnent pas sur du whole genome sequencing maus bien sur des metagénomes	Agreed 	No	Yes	No	http://edamontology.org/topic_3673		Metagenomic	topics	
+Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	metagenomics	Metagenomics	Yes			Yes	No	No	http://edamontology.org/topic_3174		Metagenomic	topics	
+GTDB-Tk	phylogenomics	Phylogenomics	Yes			Yes	No	No	http://edamontology.org/topic_0194		Metagenomic	topics	
+mOTUs	phylogeny	Phylogeny	Yes			Yes	No	No	http://edamontology.org/topic_0084		Metagenomic	topics	
+Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	sequence analysis	Sequence analysis	Yes			Yes	No	No	http://edamontology.org/topic_0080		Metagenomic	topics	
+MEGAHIT	sequence assembly	Sequence assembly	Yes			Yes	No	No	http://edamontology.org/topic_0196		Metagenomic	topics	
+Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	sequencing	Sequencing	Yes			Yes	No	No	http://edamontology.org/topic_3168		Metagenomic	topics	
+MEGAHIT	short reads	DNA-Seq	Yes			No	Yes	No	http://edamontology.org/topic_3168		Metagenomic	topics	
+checkM2	taxonomic annotation	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460		Metagenomic	topics	
+Kraken2, mOTUs	taxonomic profiling	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460		Metagenomic	topics	
+GTDB-Tk	taxonomy	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460		Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+											Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+						No	No	No			Metagenomic	topics	
+AFNI, FSL, Freesurfer, SPM	anatomical mri	MRI image	Yes			No	Yes	No	http://edamontology.org/data_3442		Neuroimaging	data	
+Freesurfer	cortical parcellations	MRI image	No	Cortical Parcellation, Segmentation, 		No	Yes	No	http://edamontology.org/data_3442		Neuroimaging	data	
+FSL, Freesurfer	diffusion mri	MRI image	No	Diffusion Tensor Imaging, DTI		No	Yes	No	http://edamontology.org/data_3442		Neuroimaging	data	
+SPM	eeg	no_matching_term		EEG, Electroencephalography,  Medical Imaging		No	Yes	No		no matching data	Neuroimaging	data	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	fmri	MRI image	Yes	functional MRI, Functional magnetic resonance imaging		No	Yes	No	http://edamontology.org/data_3442		Neuroimaging	data	
+SPM	meg	no_matching_term		MEG, MagnetoEncephaloGraphy 		No	Yes	No		no matching data	Neuroimaging	data	
+AFNI	parametric modulation maps	Statistical estimate score	Yes	Statistical estimations		No	Yes	No	http://edamontology.org/data_0951		Neuroimaging	data	
+Freesurfer, SPM	pet	no_matching_term		PET, Positron emission tomography		No	No	No		no matching data	Neuroimaging	data	
+FSL, SPM	preprocessed data	Data	Yes			No	Yes	No	http://edamontology.org/data_0006		Neuroimaging	data	
+FMRIprep	preprocessed fmri	Data	Yes			No	Yes	No	http://edamontology.org/data_0006		Neuroimaging	data	
+FMRIprep, FSL	reports	Report	Yes			Yes	No	No	http://edamontology.org/data_2048		Neuroimaging	data	
+SPM	results reports	Report	Yes			No	Yes	No	http://edamontology.org/data_2048		Neuroimaging	data	
+SPM	spect	no_matching_term	No	SPECT, Single-photon Emission Computed Tomography		No	No	No		no matching data	Neuroimaging	data	
+FSL	statistical maps	Statistical estimate score	Yes	Statistical estimation		No	Yes	No	http://edamontology.org/data_0951		Neuroimaging	data	
+SPM	statistical parametric maps	Statistical estimate score	Yes	Statistical estimation		No	Yes	No	http://edamontology.org/data_0951		Neuroimaging	data	
+Freesurfer	surface maps	Statistical estimate score	Yes	Segmentation		No	Yes	No	http://edamontology.org/data_0951		Neuroimaging	data	
+Freesurfer	volumetric segmentation	Volume map	Yes			No	Yes	No	http://edamontology.org/data_0940		Neuroimaging	data	
+Freesurfer	annot	Image format	Yes			No	No	No	http://edamontology.org/format_3547		Neuroimaging	formats	
+Freesurfer	bfloat	Binary format	Yes			No	Yes	No	http://edamontology.org/format_2333		Neuroimaging	formats	
+FMRIprep	bids	no_matching_term		BIDS, Folder organisation		No	No	No		no matching format	Neuroimaging	formats	
+AFNI	brik/head	no_matching_term		BRIK/HEAD		No	No	No		no matching format	Neuroimaging	formats	
+Freesurfer	bshort	Image format	Yes			No	No	No	http://edamontology.org/format_3547		Neuroimaging	formats	
+Freesurfer	cor	Image format	Yes			No	No	No	http://edamontology.org/format_3548		Neuroimaging	formats	
+Freesurfer	curv	Image format	Yes			No	No	No	http://edamontology.org/format_3549		Neuroimaging	formats	
+Freesurfer	dat	dat	Yes			Yes	No	No	http://edamontology.org/format_1637		Neuroimaging	formats	
+Freesurfer, SPM	dicom	DICOM format	Yes			Yes	No	No	http://edamontology.org/format_3548		Neuroimaging	formats	
+Freesurfer	gca	Image format	Yes			No	No	No	http://edamontology.org/format_3547		Neuroimaging	formats	
+Freesurfer	gcs	Image format	Yes			No	No	No	http://edamontology.org/format_3548		Neuroimaging	formats	
+FMRIprep, FSL	html	HTML	Yes			Yes	Yes	No	http://edamontology.org/format_2331		Neuroimaging	formats	
+SPM	jpeg	jpeg	Yes			Yes	No	No	http://edamontology.org/format_3579		Neuroimaging	formats	
+Freesurfer	m3d	Image format	Yes			No	No	No	http://edamontology.org/format_3547		Neuroimaging	formats	
+SPM	mat	MAT	Yes			Yes	No	No	http://edamontology.org/format_3626		Neuroimaging	formats	
+Freesurfer	mgh	Image format	Yes			No	No	No	http://edamontology.org/format_3547		Neuroimaging	formats	
+Freesurfer	mgz	Image format	Yes			No	No	No	http://edamontology.org/format_3548		Neuroimaging	formats	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	nifti	Image format	Yes			No	No	No	http://edamontology.org/format_3549		Neuroimaging	formats	
+FSL	nifti.gz	Image format	Yes			No	No	No	http://edamontology.org/format_3550		Neuroimaging	formats	
+Freesurfer	patch	Image format	Yes			No	No	No	http://edamontology.org/format_3551		Neuroimaging	formats	
+SPM	pdf	PDF	Yes			Yes	No	No	http://edamontology.org/format_3508		Neuroimaging	formats	
+SPM	ps	PS	Yes			Yes	Yes	No	http://edamontology.org/format_3696		Neuroimaging	formats	
+Freesurfer	surface	no_matching_term		surface		No	No	No		no matching format	Neuroimaging	formats	
+FMRIprep	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475		Neuroimaging	formats	
+Freesurfer	xfm	xbm	Yes			No	No	No	http://edamontology.org/format_3598	not sure	Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+											Neuroimaging	formats	
+						No	No	No			Neuroimaging	formats	
+						No	No	No			Neuroimaging	formats	
+						No	No	No			Neuroimaging	formats	
+						No	No	No			Neuroimaging	formats	
+						No	No	No			Neuroimaging	formats	
+FSL	functional connectivity analysis	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Neuroimaging	operations	
+AFNI, FSL, SPM	group statistical analysis	Statistical calculation	Yes			No	No	No	http://edamontology.org/operation_2238		Neuroimaging	operations	
+Freesurfer	morphometry analysis	Image analysis	Yes			No	Yes	No	http://edamontology.org/operation_3443		Neuroimaging	operations	
+AFNI, FMRIprep, FSL, SPM	preprocessing	Standardisation and normalisation	No	Preprocessing		No	Yes	No	http://edamontology.org/operation_3435		Neuroimaging	operations	
+AFNI, FSL, SPM	subject statistical analysis	Statistical calculation	Yes			No	Yes	No	http://edamontology.org/operation_2238		Neuroimaging	operations	
+Freesurfer	surface modelling	Structure visualisation	No	Surface reconstruction		No	Yes	No	http://edamontology.org/operation_0570		Neuroimaging	operations	
+FSL, Freesurfer	tractography	Medical imaging	Yes			No	Yes	No	http://edamontology.org/topic_3384	topic not an operation	Neuroimaging	operations	
+AFNI, FMRIprep, FSL, SPM	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Neuroimaging	operations	
+AFNI	voxel-wise regression analysis	Regression analysis	Yes			No	Yes	No	http://edamontology.org/operation_3659		Neuroimaging	operations	
+Freesurfer	whole-brain analysis	Neurobiology	Yes	Whole brain segmentation		No	Yes	No	http://edamontology.org/topic_3304	topic not an operation	Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+											Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+						No	No	No			Neuroimaging	operations	
+AFNI, FSL, SPM	functional & anatomical MRI preprocesing	MRI	Yes	MRI preprocessing	MRI	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+FMRIprep	bids apps	Medical imaging	Yes	fMRI preprocessing	MRI	No	Yes	No	http://edamontology.org/topic_3384		Neuroimaging	topics	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	brain imaging	Medical imaging	Yes		Medical Imaging	No	Yes	No	http://edamontology.org/topic_3384		Neuroimaging	topics	
+FSL, Freesurfer	diffusion mri tractography	MRI	No	diffusion ternsor imaging, fiber tractography	MRI	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+SPM	eeg analysis	Medical Imaging	Yes	Medical Imaging, EEG signal processing	Physiology	No	Yes	No	http://edamontology.org/topic_3384		Neuroimaging	topics	
+AFNI, FSL, SPM	fmri analysis	MRI	No	fMRI analysis	MRI	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+FMRIprep	fmri preprocessing	MRI	No	fMRI preprocessing	MRI	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+Freesurfer	fmri surface analysis	MRI	Yes		Medical Imaging	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+SPM	meg analysis	MRI	No	MEG analysis	Medical Imaging ? 	No	Yes	No	http://edamontology.org/topic_3444		Neuroimaging	topics	
+AFNI, FMRIprep, FSL, Freesurfer, SPM	neuroimaging	Medical imaging	Yes		Medical Imaging	No	Yes	No	http://edamontology.org/topic_3384		Neuroimaging	topics	
+FastME	distance matrix	Distance matrix	Yes	Output	Output	Yes	No	No	http://edamontology.org/data_2855		Phylogeny	data	
+PhyML	multiple sequence alignment	Sequence alignment	Yes	Input? Output?	input (masis pas output à ma connaissance)	No	Yes	No	http://edamontology.org/data_0863		Phylogeny	data	
+FastME	multiple sequences alignment msa	Sequence alignment	Yes	Input	Input	No	Yes	No	http://edamontology.org/data_0863		Phylogeny	data	
+MAFFT	multiple-sequence alignment file	Sequence alignment	Yes	Output	Output	No	Yes	No	http://edamontology.org/data_0863		Phylogeny	data	
+MAFFT	multiple-sequence file	Nucleic acid sequence alignment	Yes	Je ne suis pas convaincu... Il y a une histoire de metadata dans le term EDAM, alors que pas besoin pour MAFFT	peut etre plus : http://edamontology.org/data_1383 Nucleic acid sequence alignment et du coup aussi : http://edamontology.org/data_1384  Protein sequence alignment	No	Yes	No	http://edamontology.org/data_1383		Phylogeny	data	
+MAFFT	multiple-sequence file	Protein sequence alignment	Yes	Je ne suis pas convaincu... Il y a une histoire de metadata dans le term EDAM, alors que pas besoin pour MAFFT	peut etre plus : http://edamontology.org/data_1383 Nucleic acid sequence alignment et du coup aussi : http://edamontology.org/data_1384  Protein sequence alignment	No	Yes	No	http://edamontology.org/data_1384		Phylogeny	data	
+FastME	phylogenetic trees with support values	Phylogenetic tree	Yes	Output	Output	No	Yes	No	http://edamontology.org/data_0872		Phylogeny	data	
+PhyML	phylogeny trees with support values	Phylogenetic tree	Yes	Output	Output	No	Yes	No	http://edamontology.org/data_0872		Phylogeny	data	
+PhyML	sequence evolution model	DNA substitution model	Yes	Non, ce n'est pas pareil, ce serait plutôt substitution model	D'accord avec frederic http://edamontology.org/data_1439	No	Yes	No	http://edamontology.org/data_1439		Phylogeny	data	
+FastME	substitution model	Substitution model	Yes		Input	Yes	No	No	http://edamontology.org/data_1439		Phylogeny	data	
+MAFFT	.tree	Phylogenetic tree format	Yes	Mafft ne gère pas des arbres phylogenetiques	Mafft peut générer l' arbre guidé en format  .tree , j'aurais donc dis OUI 	No	Yes	No	http://edamontology.org/format_2006		Phylogeny	formats	
+MAFFT	clustal	clustal	Yes	Pas sûr ici	les formats de sortie sont Pearson/fatsa et clustalw , donc oui	Yes	No	No	http://edamontology.org/format_1424		Phylogeny	formats	
+MAFFT	fasta	fasta	Yes		ok 	Yes	No	No	http://edamontology.org/format_1929		Phylogeny	formats	
+FastME, PhyML	newick	newick	Yes		ok 	Yes	No	No	http://edamontology.org/format_1910		Phylogeny	formats	
+FastME, PhyML	phylip	phylip	Yes		ok 	Yes	No	No	http://edamontology.org/format_1435		Phylogeny	formats	
+FastME	distance matrix computation	Sequence distance matrix construction	Yes		ok	No	No	Yes	http://edamontology.org/operation_0289		Phylogeny	operations	
+MAFFT	fft	 Sequence complexity calculation	No	ça ne correspond pas ici. (ce serait plutôt pour un outil comme repeat masker par exemple)	la definition de http://edamontology.org/operation_0234 ne correspond pas réelment a une fft . Est ce que http://edamontology.org/operation_0346 sequence similary search pourrait convenir ?	No	Yes	No	http://edamontology.org/operation_0234		Phylogeny	operations	
+MAFFT	global multiple sequence alignment	Multiple sequence alignment	Yes		ok	No	Yes	No	http://edamontology.org/operation_0492		Phylogeny	operations	
+PhyML	maximum-likelihood tree inference	Phylogenetic inference (maximum likelihood and Bayesian methods)	Yes		ok	No	Yes	No	http://edamontology.org/operation_0547		Phylogeny	operations	
+FastME	minimum evolution (me)	Evolutionary biology	Yes		ok	No	Yes	No	http://edamontology.org/topic_3299		Phylogeny	operations	
+MAFFT	progressive alignment	Sequence alignment analysis	Yes	Multiple Sequence alignement plutôt	d'accord avec Frederic mais c'est redondant avec la ligne 4 http://edamontology.org/operation_0492. je ne vois pas de terme edam qui qualifie l'aspect progressif, peut etrte le terme http://edamontology.org/operation_0258 masi qui reste très générique 	No	Yes	No	http://edamontology.org/operation_0258		Phylogeny	operations	
+FastME	topological optimization	Phylogenetic tree topology analysis	Yes	"Je ne sais pas vraiment à quoi se réfère ""tree topology analysis""... FastME c'est plutôt  ""Phylogenetic inference"" (minimum distances)"	au regard de la définition de http://edamontology.org/operation_0551, je valide pour ma part ce  terme	No	Yes	No	http://edamontology.org/operation_0551		Phylogeny	operations	
+FastME, PhyML	tree inference	Phlyogenetic tree construction	Yes	"Deux outils ça veut dire que chacun a cette annotation? Le terme EDAM est plutôt ""Phylogenetic tree reconstruction"" non?"	je valide pour ma part ce  terme	No	No	Yes	http://edamontology.org/operation_0323		Phylogeny	operations	
+MAFFT	comparative genomics	Comparative genomics	Yes		ok	Yes	No	No	http://edamontology.org/topic_0797		Phylogeny	topics	
+FastME	distanced-based phylogenetics	Phylogenetics	Yes		ok	No	Yes	No	http://edamontology.org/topic_3293		Phylogeny	topics	
+PhyML	likelihood-based phylogenetics	Phylogenetics	Yes		ok	No	Yes	No	http://edamontology.org/topic_0084		Phylogeny	topics	
+MAFFT, PhyML	molecular evolution	Molecular evolution	Yes	Pas sûr de comprendre pourquoi ici on a 2 outils?	ok	Yes	No	No	http://edamontology.org/topic_3945		Phylogeny	topics	
+MAFFT	multiple-sequence alignment (msa)	Sequence Analysis	Yes		ok	No	Yes	No	http://edamontology.org/topic_0080		Phylogeny	topics	
+FastME, PhyML	phylogenetics	Phylogenetics	Yes	"Pourquoi 3 outils? Pas sûr que MAFFT soit vraiment ""Phylogenetics"""	"ok pour moi pour FastME et PhyML. Pour MAFFT il n'y a effectivement pas de carractère ""study of evolutionary relationships amongst organisms "".   "	Yes	No	No	http://edamontology.org/topic_3293		Phylogeny	topics	
+MAFFT	sequence analysis	Sequence analysis	Yes		ok	Yes	No	No	http://edamontology.org/topic_0080		Phylogeny	topics	
+MAFFT	sequence annotation	Sequence annotation	No	Pas vraiment annotation de séquence?	d'accord avec frederic	Yes	No	No	http://edamontology.org/operation_0361	operation not a topic	Phylogeny	topics	
+Scanpy, Seurat	atacseq data	no_matching_term				No	No	No		no matching data	Single_Cell	data	
+Monocle3	branch labels	Name	Yes	Ou Identifier plutot ?		No	Yes	No	http://edamontology.org/data_2099		Single_Cell	data	
+Seurat	cell embeddings	Matrix	Yes			No	Yes	No	http://edamontology.org/data_2082		Single_Cell	data	
+Monocle3, Scanpy, Seurat	cell metadata	Expression data	No	Il faudrait la meme chose que : Sequence features metadata mais pour les observations et non les variables		No	Yes	No	http://edamontology.org/data_2603		Single_Cell	data	
+Scanpy, Seurat	cite-seq	no_matching_term				No	No	No		no matching data	Single_Cell	data	
+Scanpy, Seurat	cluster labels	Identifier	Yes			No	Yes	No	http://edamontology.org/data_0842		Single_Cell	data	
+Monocle3, Scanpy	differential expression results	Matrix	Yes	http://edamontology.org/data_2082		No	Yes	No	http://edamontology.org/data_2082		Single_Cell	data	
+Monocle3	expression matrices	Gene expression matrix	Yes	Plutot : Gene expression matrix		No	Yes	No	http://edamontology.org/data_3112		Single_Cell	data	
+Seurat	expression matrix	Gene expression matrix	Yes	Plutot : Gene expression matrix		No	Yes	No	http://edamontology.org/data_3112		Single_Cell	data	
+Scanpy, Seurat	feature metadata	Sequence features metadata	Yes			No	No	Yes	http://edamontology.org/data_2914		Single_Cell	data	
+Scanpy, Seurat	images	Image	Yes			Yes	No	No	http://edamontology.org/data_2968		Single_Cell	data	
+Monocle3, Scanpy, Seurat	plots	Plot	Yes			Yes	No	No	http://edamontology.org/data_2884		Single_Cell	data	
+Scanpy	processed expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112		Single_Cell	data	
+Monocle3, Scanpy	pseudotime values	Matrix	Yes			No	Yes	No	http://edamontology.org/data_2082		Single_Cell	data	
+Scanpy, Seurat	raw count matrix	Count matrix	Yes			Yes	No	No	http://edamontology.org/data_3917		Single_Cell	data	
+Scanpy, Seurat	scrna-seq data	no_matching_term		RNAseq data ?		No	No	No		no matching data	Single_Cell	data	
+Scanpy, Seurat	spatial transcriptomic	Sequence coordinates	No			No	Yes	No	http://edamontology.org/data_2012		Single_Cell	data	
+Scanpy, Seurat	table results	Clustered expression profiles	Yes	http://edamontology.org/data_3768 ou http://edamontology.org/data_3753		No	Yes	No	http://edamontology.org/data_3768		Single_Cell	data	
+Monocle3, Scanpy	trajectory graph	Trajectory data	Yes	Oui en faisant évoluer la définition		No	Yes	No	http://edamontology.org/data_3870		Single_Cell	data	
+Monocle3, Scanpy	trajectory tree	Trajectory data	Yes	Oui en faisant évoluer la définition		No	Yes	No	http://edamontology.org/data_3870		Single_Cell	data	
+Monocle3, Scanpy, Seurat	bundle format (mtx)	MTX	Yes			Yes	No	No	http://edamontology.org/format_3916		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	csv	CSV	Yes			Yes	No	No	http://edamontology.org/format_3752		Single_Cell	formats	
+Scanpy	h5ad	HDF5	Yes	sous classe de HDF5		No	Yes	No	http://edamontology.org/format_3590		Single_Cell	formats	
+Scanpy, Seurat	hdf5	HDF5	Yes			Yes	No	No	http://edamontology.org/format_3590		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	jpeg	JPEG	Yes			Yes	No	No	http://edamontology.org/format_3579		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	pdf	PDF	Yes			Yes	No	No	http://edamontology.org/format_3508		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	png	PNG	Yes			Yes	No	No	http://edamontology.org/format_3603		Single_Cell	formats	
+Monocle3, Seurat	rds	Binary format	Yes	http://edamontology.org/format_2333		No	Yes	No	http://edamontology.org/format_2333		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	svg	SVG	Yes			Yes	No	No	http://edamontology.org/format_3603		Single_Cell	formats	
+Scanpy, Seurat	tiff	TIFF	Yes			Yes	No	No	http://edamontology.org/format_3591		Single_Cell	formats	
+Monocle3, Scanpy, Seurat	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475		Single_Cell	formats	
+Monocle3	cell trajectories inference	Expression profile comparison	Yes			No	Yes	No	http://edamontology.org/operation_0315		Single_Cell	operations	
+Scanpy	cell trajectory inference	Expression profile comparison	Yes			No	Yes	No	http://edamontology.org/operation_0315		Single_Cell	operations	
+Monocle3, Scanpy, Seurat	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432		Single_Cell	operations	
+Scanpy, Seurat	data integration	Data integration and warehousing	No	la description pourrait correspondre (si on s'affranchi de là où il est rangé)		No	Yes	No	http://edamontology.org/topic_3366	topic not a operation	Single_Cell	operations	
+Monocle3	differential expression over cell trajectory	Differential expression analysis	Yes			No	Yes	No	http://edamontology.org/operation_3223		Single_Cell	operations	
+Scanpy, Seurat	differential expression testing	Differential expression analysis	Yes			No	Yes	No	http://edamontology.org/operation_3223		Single_Cell	operations	
+Scanpy, Seurat	dimensionality reduction	Dimensionality reduction	Yes	même si la définition décrit surtout une PCA alors qu'il y a d'autres méthodes, peut etre pas assez générale		Yes	No	No	http://edamontology.org/operation_3935		Single_Cell	operations	
+Monocle3, Scanpy, Seurat	normalization	Normalization	Yes			Yes	No	No	http://edamontology.org/operation_3435		Single_Cell	operations	
+Scanpy	pseudotime analysis	RNA-seq time series data analysis	No	"ici on parle bien de ""pseudo"" temps et ce n'est pas du time-series comme sous entendu par le terme edam"		No	No	No	http://edamontology.org/operation_3565		Single_Cell	operations	
+Monocle3	quality control	Validation	No	assez abstrait il meriterait d'avoir une sous classe comme pour sequencing QC		No	Yes	No	http://edamontology.org/operation_2428		Single_Cell	operations	
+Scanpy, Seurat	quality controls	Validation	No	assez abstrait il meriterait d'avoir une sous classe comme pour sequencing QC		No	Yes	No	http://edamontology.org/operation_2428		Single_Cell	operations	
+Monocle3	reduction dimensions	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935		Single_Cell	operations	
+Monocle3	visualisations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Single_Cell	operations	
+Scanpy, Seurat	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Single_Cell	operations	
+Monocle3	cell trajectories inference	Single-cell sequencing	Yes	j'aurais tendance à mettre également single-cell sequencing		No	Yes	No	http://edamontology.org/topic_4028		Single_Cell	topics	
+Monocle3, Scanpy, Seurat	single-cell genomic	Single-cell sequencing	Yes			No	Yes	No	http://edamontology.org/topic_4028		Single_Cell	topics	
+Seurat	spatial transcriptomics	DATA Gene expression profile	Yes	ok avec la définition dans l'url		No	Yes	No	http://edamontology.org/data_0928		Single_Cell	topics	
+Scanpy	trajectory inference	Single-cell sequencing	Yes			No	Yes	No	http://edamontology.org/topic_4028		Single_Cell	topics	
+CarveMe	genome annotations	Genome annotation	Yes	Yes although not the main objective		Yes	No	No	http://edamontology.org/operation_0362	Operation not a data	Systems_biology	data	
+CarveMe	genome-scale metabolic models	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Systems_biology	data	
+CarveMe	metabolic networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+CarveMe	taxonomic information	Taxonomic classification	No			No	Yes	No	http://edamontology.org/data_1872		Systems_biology	data	
+CarveMe, eggNOG-mapper	gene sequences	Sequence	Yes			No	Yes	No	http://edamontology.org/data_2044		Systems_biology	data	
+CarveMe, String.db, eggNOG-mapper	protein sequences	Protein sequence	Yes			Yes	No	No	http://edamontology.org/data_2976		Systems_biology	data	
+COBRApy	constraints	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+COBRApy	flux distributions	Physiology parameter	No			No	Yes	No	http://edamontology.org/data_3722		Systems_biology	data	
+COBRApy	metabolic network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+COBRApy	metabolic network/model or nothing if created from scratch	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+COBRApy	metabolites	Reaction data	Yes			No	Yes	No	http://edamontology.org/data_2978		Systems_biology	data	
+COBRApy	objective functions	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+COBRApy	optimization results	Optimisation and refinement	Yes			No	Yes	No	http://edamontology.org/operation_2425	operation not a data	Systems_biology	data	
+COBRApy	results of simulations	Simulation	Yes			No	Yes	No	http://edamontology.org/data_3869		Systems_biology	data	
+COBRApy, CarveMe, Fluxer	metabolic model	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Systems_biology	data	
+Cytoscape	analysis report	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+Cytoscape	edge attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	I'm not sure for this one
+Cytoscape	images	Image	Yes			Yes	No	No	http://edamontology.org/data_2968		Systems_biology	data	
+Cytoscape	list of nodes and edges	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+Cytoscape	metrics	Quality control report	No			No	No	Yes	http://edamontology.org/data_3914		Systems_biology	data	
+Cytoscape	node attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	I'm not sure for this one
+Cytoscape, RWR	network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+eggNOG-mapper	metagenomic contigs	Sequence assembly	No			No	Yes	No	http://edamontology.org/data_0925		Systems_biology	data	
+eggNOG-mapper	nucleotide sequences	Nucleic acid sequence	Yes			Yes	No	No	http://edamontology.org/data_2977		Systems_biology	data	
+eggNOG-mapper	orthologous groups	Gene family report	No	A bit unsure here		No	Yes	No	http://edamontology.org/data_3148		Systems_biology	data	
+eggNOG-mapper	table containing multiple annotations for each gene or protein	Annotated text	No			No	Yes	No	http://edamontology.org/data_3779		Systems_biology	data	
+eggNOG-mapper	taxonomic assignments	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/data_1872		Systems_biology	data	
+Fluxer	annotated flux maps	Volume map	No			No	Yes	No	http://edamontology.org/data_0940		Systems_biology	data	
+Fluxer	biochemical pathway diagrams	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+Fluxer	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	Operation not a data	Systems_biology	data	
+Fluxer, GSEA	pictures	Image	Yes	At least for fluxer	also for cytoscape	Yes	No	No	http://edamontology.org/data_2968		Systems_biology	data	agree with expert 2
+Fluxer, String.db	networks	Pathway or network	Yes	At least for fluxer		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	also for string
+GSEA	annotation p values	P-value	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1669		Systems_biology	data	
+GSEA	enrichment scores	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Systems_biology	data	to specific, the parent term will be ok
+GSEA	false discovery rates	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+GSEA	gene expression matrix	Gene expression matrix	Yes			Yes	No	No	http://edamontology.org/data_3112		Systems_biology	data	
+GSEA	gene sets	Gene ID	No			No	Yes	No	http://edamontology.org/data_2295		Systems_biology	data	
+GSEA	graph	Graph data	Yes			No	Yes	No	http://edamontology.org/data_2884		Systems_biology	data	
+GSEA	normalized enrichment plots	Enrichment analysis	No	plot and analysis are not of the same tyme (data versus process)		No	Yes	No	http://edamontology.org/operation_3501	Operation not a data	Systems_biology	data	no
+GSEA	ranked gene lists	Gene identifier	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_1025		Systems_biology	data	no
+GSEA	ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)	Identifier (by type of data)	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_0976		Systems_biology	data	no
+MOFA2	factors and latent spaces	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+MOFA2	feature loadings	Sequence features	No			No	Yes	No	http://edamontology.org/data_1255		Systems_biology	data	
+MOFA2	omics matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Systems_biology	data	
+MOFA2	paired omics data	Pair sequence alignment	No			No	Yes	No	http://edamontology.org/data_1381		Systems_biology	data	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_0950		Systems_biology	data	
+MULTIXRANK	multi-layer network graphs	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+MULTIXRANK	network ranking	Pathway or network	No	no, ranking is important, it's the result of the analysis		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+MULTIXRANK	network result	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+MULTIXRANK	scores	Score	Yes			Yes	No	No	http://edamontology.org/data_1772		Systems_biology	data	
+MULTIXRANK, RWR	edge weights	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+MULTIXRANK, RWR	network and seed	Pathway or network	No	seeds are important		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+MULTIXRANK, RWR	ranked node lists	no_matching_term				No	No	No	no matching data		Systems_biology	data	
+MULTIXRANK, RWR	seed nodes	Pathway or network	No			No	No	No	http://edamontology.org/data_2600		Systems_biology	data	
+RWR	biological networks	Network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+RWR	convergence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Systems_biology	data	
+RWR	node lists	Pathway or network	No	node list could be a format of network data but could also be a result from an analysis		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+RWR	propagation profiles	Structural profile	No			No	Yes	No	http://edamontology.org/data_0889	not sure	Systems_biology	data	
+RWR	restart probability	no_matching_term				No	No	No	no matching data		Systems_biology	data	
+RWR	seed	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+RWR	subnetwork modules	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+SNF	clinical data	Clinical trial information	No			No	Yes	No	http://edamontology.org/data_3558		Systems_biology	data	
+SNF	fused networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+SNF	fused similarity matrix	Distance matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2855	not sure	Systems_biology	data	
+SNF	methylation	Sequence tag profile	No			No	Yes	No	http://edamontology.org/data_2535		Systems_biology	data	
+SNF	multi-omics profiles	Omics	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/topic_3391	Topic not a data	Systems_biology	data	
+SNF	omics	Omics	Yes			Yes	No	No	http://edamontology.org/topic_3391	Topic not a data	Systems_biology	data	
+SNF	patient clusters	no_matching_term				No	No	No		no matching data	Systems_biology	data	
+SNF	similarity matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Systems_biology	data	
+String.db	confidence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Systems_biology	data	
+String.db	enrichment results	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Systems_biology	data	
+String.db	gene name	Gene name	Yes			Yes	No	No	http://edamontology.org/data_2299		Systems_biology	data	
+String.db	interaction networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	data	
+String.db	organism-specific queries	Organism identifier	No			No	Yes	No	http://edamontology.org/data_1869		Systems_biology	data	
+String.db	protein identifiers	Protein family identifier	No	EDAM term more specific than annotation		No	Yes	No	http://edamontology.org/data_1075		Systems_biology	data	
+String.db	protein name	Protein name	Yes			Yes	No	No	http://edamontology.org/data_1009		Systems_biology	data	
+String.db	sequences	Sequence	Yes			Yes	No	No	http://edamontology.org/data_2044		Systems_biology	data	
+String.db, eggNOG-mapper	functional annotations	Sequence record	No			No	Yes	No	http://edamontology.org/data_0849		Systems_biology	data	
+CarveMe	genome annotations	Genome annotation	Yes	Yes although not the main objective		Yes	No	No	http://edamontology.org/operation_0362	Operation not a data	Systems_biology	formats	
+CarveMe	genome-scale metabolic models	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Systems_biology	formats	
+CarveMe	metabolic networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+CarveMe	taxonomic information	Taxonomic classification	No			No	Yes	No	http://edamontology.org/data_1872		Systems_biology	formats	
+CarveMe, eggNOG-mapper	gene sequences	Sequence	Yes			No	Yes	No	http://edamontology.org/data_2044		Systems_biology	formats	
+CarveMe, String.db, eggNOG-mapper	protein sequences	Protein sequence	Yes			Yes	No	No	http://edamontology.org/data_2976		Systems_biology	formats	
+COBRApy	constraints	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+COBRApy	flux distributions	Physiology parameter	No			No	Yes	No	http://edamontology.org/data_3722		Systems_biology	formats	
+COBRApy	metabolic network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+COBRApy	metabolic network/model or nothing if created from scratch	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+COBRApy	metabolites	Reaction data	Yes			No	Yes	No	http://edamontology.org/data_2978		Systems_biology	formats	
+COBRApy	objective functions	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+COBRApy	optimization results	Optimisation and refinement	Yes			No	Yes	No	http://edamontology.org/operation_2425	operation not a data	Systems_biology	formats	
+COBRApy	results of simulations	Simulation	Yes			No	Yes	No	http://edamontology.org/data_3869		Systems_biology	formats	
+COBRApy, CarveMe, Fluxer	metabolic model	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Systems_biology	formats	
+Cytoscape	analysis report	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+Cytoscape	edge attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	I'm not sure for this one
+Cytoscape	images	Image	Yes			Yes	No	No	http://edamontology.org/data_2968		Systems_biology	formats	
+Cytoscape	list of nodes and edges	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+Cytoscape	metrics	Quality control report	No			No	No	Yes	http://edamontology.org/data_3914		Systems_biology	formats	
+Cytoscape	node attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	I'm not sure for this one
+Cytoscape, RWR	network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+eggNOG-mapper	metagenomic contigs	Sequence assembly	No			No	Yes	No	http://edamontology.org/data_0925		Systems_biology	formats	
+eggNOG-mapper	nucleotide sequences	Nucleic acid sequence	Yes			Yes	No	No	http://edamontology.org/data_2977		Systems_biology	formats	
+eggNOG-mapper	orthologous groups	Gene family report	No	A bit unsure here		No	Yes	No	http://edamontology.org/data_3148		Systems_biology	formats	
+eggNOG-mapper	table containing multiple annotations for each gene or protein	Annotated text	No			No	Yes	No	http://edamontology.org/data_3779		Systems_biology	formats	
+eggNOG-mapper	taxonomic assignments	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/data_1872		Systems_biology	formats	
+Fluxer	annotated flux maps	Volume map	No			No	Yes	No	http://edamontology.org/data_0940		Systems_biology	formats	
+Fluxer	biochemical pathway diagrams	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+Fluxer	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	Operation not a data	Systems_biology	formats	
+Fluxer, GSEA	pictures	Image	Yes	At least for fluxer	also for cytoscape	Yes	No	No	http://edamontology.org/data_2968		Systems_biology	formats	agree with expert 2
+Fluxer, String.db	networks	Pathway or network	Yes	At least for fluxer		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	also for string
+GSEA	annotation p values	P-value	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1669		Systems_biology	formats	
+GSEA	enrichment scores	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Systems_biology	formats	to specific, the parent term will be ok
+GSEA	false discovery rates	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+GSEA	gene expression matrix	Gene expression matrix	Yes			Yes	No	No	http://edamontology.org/data_3112		Systems_biology	formats	
+GSEA	gene sets	Gene ID	No			No	Yes	No	http://edamontology.org/data_2295		Systems_biology	formats	
+GSEA	graph	Graph data	Yes			No	Yes	No	http://edamontology.org/data_2884		Systems_biology	formats	
+GSEA	normalized enrichment plots	Enrichment analysis	No	plot and analysis are not of the same tyme (data versus process)		No	Yes	No	http://edamontology.org/operation_3501	Operation not a data	Systems_biology	formats	no
+GSEA	ranked gene lists	Gene identifier	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_1025		Systems_biology	formats	no
+GSEA	ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)	Identifier (by type of data)	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_0976		Systems_biology	formats	no
+MOFA2	factors and latent spaces	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+MOFA2	feature loadings	Sequence features	No			No	Yes	No	http://edamontology.org/data_1255		Systems_biology	formats	
+MOFA2	omics matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Systems_biology	formats	
+MOFA2	paired omics data	Pair sequence alignment	No			No	Yes	No	http://edamontology.org/data_1381		Systems_biology	formats	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_0950		Systems_biology	formats	
+MULTIXRANK	multi-layer network graphs	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+MULTIXRANK	network ranking	Pathway or network	No	no, ranking is important, it's the result of the analysis		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+MULTIXRANK	network result	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+MULTIXRANK	scores	Score	Yes			Yes	No	No	http://edamontology.org/data_1772		Systems_biology	formats	
+MULTIXRANK, RWR	edge weights	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+MULTIXRANK, RWR	network and seed	Pathway or network	No	seeds are important		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+MULTIXRANK, RWR	ranked node lists	no_matching_term				No	No	No	no matching data		Systems_biology	formats	
+MULTIXRANK, RWR	seed nodes	Pathway or network	No			No	No	No	http://edamontology.org/data_2600		Systems_biology	formats	
+RWR	biological networks	Network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+RWR	convergence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Systems_biology	formats	
+RWR	node lists	Pathway or network	No	node list could be a format of network data but could also be a result from an analysis		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+RWR	propagation profiles	Structural profile	No			No	Yes	No	http://edamontology.org/data_0889	not sure	Systems_biology	formats	
+RWR	restart probability	no_matching_term				No	No	No	no matching data		Systems_biology	formats	
+RWR	seed	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+RWR	subnetwork modules	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+SNF	clinical data	Clinical trial information	No			No	Yes	No	http://edamontology.org/data_3558		Systems_biology	formats	
+SNF	fused networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+SNF	fused similarity matrix	Distance matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2855	not sure	Systems_biology	formats	
+SNF	methylation	Sequence tag profile	No			No	Yes	No	http://edamontology.org/data_2535		Systems_biology	formats	
+SNF	multi-omics profiles	Omics	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/topic_3391	Topic not a data	Systems_biology	formats	
+SNF	omics	Omics	Yes			Yes	No	No	http://edamontology.org/topic_3391	Topic not a data	Systems_biology	formats	
+SNF	patient clusters	no_matching_term				No	No	No		no matching data	Systems_biology	formats	
+SNF	similarity matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Systems_biology	formats	
+String.db	confidence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Systems_biology	formats	
+String.db	enrichment results	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Systems_biology	formats	
+String.db	gene name	Gene name	Yes			Yes	No	No	http://edamontology.org/data_2299		Systems_biology	formats	
+String.db	interaction networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Systems_biology	formats	
+String.db	organism-specific queries	Organism identifier	No			No	Yes	No	http://edamontology.org/data_1869		Systems_biology	formats	
+String.db	protein identifiers	Protein family identifier	No	EDAM term more specific than annotation		No	Yes	No	http://edamontology.org/data_1075		Systems_biology	formats	
+String.db	protein name	Protein name	Yes			Yes	No	No	http://edamontology.org/data_1009		Systems_biology	formats	
+String.db	sequences	Sequence	Yes			Yes	No	No	http://edamontology.org/data_2044		Systems_biology	formats	
+String.db, eggNOG-mapper	functional annotations	Sequence record	No			No	Yes	No	http://edamontology.org/data_0849		Systems_biology	formats	
+CarveMe	automated model reconstruction	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+CarveMe	draft model generation	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426		Systems_biology	operations	
+CarveMe	gap-filling	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+CarveMe	gap-filling of metabolic models	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660	no matching annotation	Systems_biology	operations	
+CarveMe	reconstruction of metabolic networks	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+COBRApy	constraint-based simulations such as fba	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426		Systems_biology	operations	
+COBRApy	construction or modification of metabolic models	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+COBRApy	flux variability analysis	Fluxomics	No	Same as in topics, two different concepts for me		No	Yes	No	http://edamontology.org/topic_3955	topic not an operation	Systems_biology	operations	
+COBRApy	gene deletion analysis	Deletion detection	No	A bit vague		No	Yes	No	http://edamontology.org/operation_3962		Systems_biology	operations	
+COBRApy	metabolic network simulation	Metabolic network simulation	Yes			Yes	No	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+COBRApy	model parsing and manipulation	Parsing	No	Too vague		No	Yes	No	http://edamontology.org/operation_1812		Systems_biology	operations	
+COBRApy	optimization	Optimisation and refinement	Yes			Yes	No	No	http://edamontology.org/operation_2425		Systems_biology	operations	
+Cytoscape	app-based extensibility	no_matching_term				No	No	No		no matching operation	Systems_biology	operations	
+Cytoscape	automation via scripting	no_matching_term				No	No	No		no matching operation	Systems_biology	operations	
+Cytoscape	cluster detection	Clustering	Yes			No	Yes	No	http://edamontology.org/operation_3432		Systems_biology	operations	
+Cytoscape	construction of networks	Network analysis	Yes	I would have said no here as building networks is different from analysing the networks once they are built, but the first reviewer said yes		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	The EDAM definition seems ok for me (if we considere generate similar to construct)
+Cytoscape	data integration	Data integration and warehousing	No	"I think in EDAM ""data integration"" is different from what we think about data integration, it's more related to requesting different data sources and databases"		Yes	No	No	http://edamontology.org/topic_3366	topic not an operation	Systems_biology	operations	I'm agree with the expert 1
+Cytoscape	edition of networks	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+Cytoscape	graph metrics	no_matching_term				No	No	No		no matching annotation	Systems_biology	operations	
+Cytoscape	graph topology	Topology diagram drawing	No	I don't think edam refers to the same thing as cytoscape here		No	Yes	No	http://edamontology.org/operation_2486		Systems_biology	operations	no
+Cytoscape	network exploration	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+Cytoscape	network visualization	Network visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3925		Systems_biology	operations	
+eggNOG-mapper	annotation of genes and proteins using multiple functional databases	Annotation	Yes			No	Yes	No	http://edamontology.org/operation_0226		Systems_biology	operations	
+eggNOG-mapper	domain prediction	Prediction and recognition	No	Too much vague?		No	Yes	No	http://edamontology.org/operation_2423		Systems_biology	operations	
+eggNOG-mapper	hierarchical annotation	Annotation	Yes			No	Yes	No	http://edamontology.org/operation_0226		Systems_biology	operations	
+eggNOG-mapper	large-scale sequence analysis	Sequence analysis	Yes			No	Yes	No	http://edamontology.org/operation_2403		Systems_biology	operations	
+eggNOG-mapper	orthology mapping	Mapping	No	Too much vague?		No	Yes	No	http://edamontology.org/operation_2429		Systems_biology	operations	
+Fluxer	customizable layout creation	Topology diagram drawing	Yes			No	Yes	No	http://edamontology.org/operation_2486		Systems_biology	operations	
+Fluxer	flux balance analysis (fba)	Fluxomics	No	Same as in topics, two different concepts for me		No	Yes	No	http://edamontology.org/topic_3955	topic not an operation	Systems_biology	operations	
+Fluxer	flux diagram rendering	Topology diagram drawing	Yes			No	Yes	No	http://edamontology.org/operation_2486		Systems_biology	operations	
+Fluxer	interactive visualization	Visualisation	Yes			No	Yes	No	http://edamontology.org/operation_0337		Systems_biology	operations	
+Fluxer	metabolic model simulation	Metabolic network simulation	Yes			No	Yes	No	http://edamontology.org/operation_3660		Systems_biology	operations	
+Fluxer	metabolic model visualisation	Network visualisation	Yes			No	Yes	No	http://edamontology.org/operation_3925		Systems_biology	operations	
+Fluxer	pathway mapping	Pathway analysis	Yes			No	Yes	No	http://edamontology.org/operation_3928		Systems_biology	operations	
+GSEA	functional enrichment analysis	Enrichment analysis	Yes			No	Yes	No	http://edamontology.org/operation_3501		Systems_biology	operations	
+GSEA	gene set enrichment analysis	Gene-set enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_2436		Systems_biology	operations	
+GSEA	gene set scoring	Enrichment analysis	Yes	I think gene set scoring is more related to functional enrichment		No	Yes	No	http://edamontology.org/operation_3501		Systems_biology	operations	 functional enrichment or enrichment analysis
+GSEA	multi-omics integration	Omics	No	the annotation is a process, an operation whereas the term is more refering to data		No	Yes	No	http://edamontology.org/topic_3391	Topic not an operation	Systems_biology	operations	
+GSEA	rank-based enrichment	Enrichment analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3501		Systems_biology	operations	I would say yes
+GSEA	single-sample variant	Sample comparison	No			No	Yes	No	http://edamontology.org/operation_3731		Systems_biology	operations	
+GSEA	statistical permutation	Statistical calculation	Yes			No	Yes	No	http://edamontology.org/operation_2238		Systems_biology	operations	
+GSEA, String.db	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Systems_biology	operations	
+MOFA2	bayesian inference	Statistical inference	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3658		Systems_biology	operations	
+MOFA2	feature weights inspection	Feature extraction	No	no, inspection is different from extraction I presume		No	Yes	No	http://edamontology.org/operation_3937		Systems_biology	operations	no
+MOFA2	joint matrix factorisation	Dimensionality reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935		Systems_biology	operations	It could be Dimensionality reduction
+MOFA2	matrix factorization	Dimensionality reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935		Systems_biology	operations	It could be Dimensionality reduction
+MOFA2	reduction dimension	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935		Systems_biology	operations	
+MOFA2	variance decomposition	Statistical calculation	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_2238		Systems_biology	operations	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/data_2600	Data not an operation	Systems_biology	operations	
+MULTIXRANK	network propagation	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+MULTIXRANK	prioritization algorithm	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	it could be Network analysis
+MULTIXRANK, RWR	random walk with restart	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	it could be Network analysis
+SNF	consensus network building	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+SNF	fused sample network creation	Network analysis	No	the annotation is a specific subtype of the selected term but also network creation is different from network analysis		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+SNF	kernel-based integration	no_matching_term				No	No	No		no matching annotation	Systems_biology	operations	
+SNF	networks fusion	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+SNF	similarity matrices creation	no_matching_term				No	No	No		no matching annotation	Systems_biology	operations	
+SNF	similarity networks creation	Network analysis	No	I think this refers to different strategies but it might not be so clear		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	I didn't find network modelling in EDAM
+SNF, String.db	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432		Systems_biology	operations	
+String.db	confidence scoring	Statistical estimate score	No			No	Yes	No	http://edamontology.org/data_0951	Data not an operation	Systems_biology	operations	
+String.db	creation	no_matching_term				No	No	No		no matching operation	Systems_biology	operations	
+String.db	data retrieval	Data retrieval	Yes			Yes	No	No	http://edamontology.org/operation_2422		Systems_biology	operations	
+String.db	enrichment analysis	Enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_3501		Systems_biology	operations	
+String.db	exploration of interaction networks	Biological network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	
+String.db	network construction	Network analysis	Yes	construction and analysis (exploration) are different things		No	Yes	No	http://edamontology.org/operation_3927		Systems_biology	operations	"I'm agree with the expert 1 but the definition contains also ""Generate"", so I would say yes"
+CarveMe	community modeling	Metabolic network modelling	Yes			No	No	Yes	http://edamontology.org/operation_3660	Operation not a topic	Systems_biology	topics	
+CarveMe	genome-scale metabolic modeling	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660	operation not a topic	Systems_biology	topics	
+CarveMe	microbiology	Microbiology	Yes			Yes	No	No	http://edamontology.org/topic_3301		Systems_biology	topics	
+COBRApy	constraint-based modeling	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426	Operation not a topic	Systems_biology	topics	
+COBRApy	flux balance analysis	Fluxomics	No	For me these are two different concepts		No	Yes	No	http://edamontology.org/topic_3955		Systems_biology	topics	
+COBRApy, CarveMe	metabolic networks	Biological networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Systems_biology	topics	
+COBRApy, CarveMe	metabolic reconstruction	Metabolic network reconstruction	Yes			Yes	No	No	http://edamontology.org/operation_3660	operation not a topic	Systems_biology	topics	
+COBRApy, CarveMe, Cytoscape, Fluxer, GSEA, String.db	systems biology	Systems biology	Yes			Yes	No	No	http://edamontology.org/topic_2259		Systems_biology	topics	
+COBRApy, Fluxer	metabolic modelling	Metabolic network modelling	Yes			Yes	No	No	http://edamontology.org/operation_3660	operation not a topic	Systems_biology	topics	
+Cytoscape	co-occurrence networks	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Systems_biology	topics	
+Cytoscape	data integration	Data integration and warehousing	No	"I think in EDAM ""data integration"" is different from what we think about data integration, it's more related to requesting different data sources and databases"		Yes	No	No	http://edamontology.org/topic_3366		Systems_biology	topics	I'm agree withe the expert 1
+Cytoscape	graph theory	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Systems_biology	topics	
+Cytoscape	metabolic pathways	Metabolic pathway prediction	No	Not really prediction.	1.0	No	Yes	No	http://edamontology.org/operation_3929	operation not a topic	Systems_biology	topics	Idem
+Cytoscape	molecular interaction networks	Molecular interactions, pathways and networks	Yes			Yes	No	No	http://edamontology.org/topic_0602		Systems_biology	topics	
+Cytoscape	network handling	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+Cytoscape	network visualisation	Network visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3925	operation not a topic	Systems_biology	topics	
+Cytoscape	protein-protein interactions	Protein interactions	Yes			No	Yes	No	http://edamontology.org/topic_0128		Systems_biology	topics	
+Cytoscape	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Systems_biology	topics	
+Cytoscape, MULTIXRANK	network biology	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+Cytoscape, MULTIXRANK, RWR	network exploration	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+eggNOG-mapper	functional annotation of proteins	Sequence annotation	Yes			No	Yes	No	http://edamontology.org/operation_0361	operation	Systems_biology	topics	
+eggNOG-mapper	metagenomic annotation	Metagenomics	Yes			No	Yes	No	http://edamontology.org/topic_3174		Systems_biology	topics	
+eggNOG-mapper	orthology assignment	Gene and protein families	Yes			No	Yes	No	http://edamontology.org/topic_0623		Systems_biology	topics	
+eggNOG-mapper	protein function prediction	Protein function prediction	Yes			Yes	No	No	http://edamontology.org/operation_1777	operation not a topic 	Systems_biology	topics	
+Fluxer	biochemistry education	Biochemistry	Yes			No	Yes	No	http://edamontology.org/topic_3292		Systems_biology	topics	
+Fluxer	metabolic flux analysis	Fluxomics	No	For me these are two different concepts		No	Yes	No	http://edamontology.org/topic_3955		Systems_biology	topics	
+Fluxer	pathway visualization	Pathway visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3926	operation not a topic 	Systems_biology	topics	
+GSEA	enrichment analysis	Enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_3501	operation not a topic	Systems_biology	topics	
+GSEA	functional annotation	Gene functional annotation	Yes			No	Yes	No	http://edamontology.org/operation_3672	operation not a topic	Systems_biology	topics	
+GSEA	molecular signatures	Molecular interactions, pathways and networks	No	A signature is not necessarily a network		No	Yes	No	http://edamontology.org/topic_0602		Systems_biology	topics	"I'm not sure about ""networks"""
+GSEA	pathway analysis	Pathway analysis	Yes			Yes	No	No	http://edamontology.org/operation_3928	operation not a topic	Systems_biology	topics	
+GSEA, eggNOG-mapper	functional genomics	Functional genomics	Yes			Yes	No	No	http://edamontology.org/topic_0085		Systems_biology	topics	
+MOFA2	dimensionality reduction	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935	operation not a topic	Systems_biology	topics	
+MOFA2	factor analysis	Dimensionality reduction	Yes	I'm not sure here, FA is more precise than dimensionality reduction so it cannot be consider as synonym but it's not wrong as FA is a type of dim red		No	Yes	No	http://edamontology.org/operation_3935	operation not a topic	Systems_biology	topics	
+MOFA2	joint dimension reduction	Dimension reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935	operation not a topic	Systems_biology	topics	
+MOFA2, SNF 	multi-omics data integration	Multiomics 	Yes	I don't find Multiomics in the EDAM browser and the annotation is more related to a process (integration) than to data (multiomics)		No	Yes	No	http://edamontology.org/topic_4021		Systems_biology	topics	I think this one is ok. The definition of Multiomics in EDAM is multiomics integration
+MULTIXRANK	multi-layer networks	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Systems_biology	topics	
+MULTIXRANK	node prioritization	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM		No	Yes	No	http://edamontology.org/operation_2425	operation not a topic	Systems_biology	topics	
+MULTIXRANK, RWR, SNF	network analysis	Network analysis	Yes			Yes	No	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+RWR	disease gene prediction	Gene prediction	Yes	More precise but could be considered ok		No	Yes	No	http://edamontology.org/operation_2454	operation not a topic	Systems_biology	topics	
+RWR	functional module detection	Function analysis	No	part of the annotation could be considered as function analysis but it's more a network method that can then be use for different purposes including function analysis		No	Yes	No	http://edamontology.org/topic_1775		Systems_biology	topics	The definition in EDAM doesn't match - RWR is not doing functional prediction/analysis
+RWR	network propagation	Network analysis	Yes	network propagation is one of the many algorithms of network analysis		No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+RWR	prioritization analysis	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM		No	Yes	No	http://edamontology.org/operation_2425	operation not a topic	Systems_biology	topics	
+SNF	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432	Operation not a topic	Systems_biology	topics	
+SNF	disease subtyping	Rare diseases	No			No	Yes	No	http://edamontology.org/topic_3325		Systems_biology	topics	
+SNF	network integration	Network analysis	Yes	network integration is one of the many algorithms of network analysis		No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Systems_biology	topics	
+SNF	patient stratification	Personalised medicine	Yes			No	Yes	No	http://edamontology.org/topic_3577		Systems_biology	topics	
+String.db	functional enrichment	Function analysis	Yes			No	Yes	No	http://edamontology.org/topic_1775		Systems_biology	topics	
+String.db	protein-protein interaction networks	Protein interaction network analysis	Yes	Here also, the annotation refers to data whereas the term refers to a process		Yes	No	No	http://edamontology.org/operation_0276	operation not a topic 	Systems_biology	topics	
+STAR, Samtools_index, Sniffles2, bwa	alignment file	Sequence alignment	Yes	We suggest narrower term: http://edamontology.org/data_0863		No	No	Yes	http://edamontology.org/data_0863		Genetic_variant	data	
+htseq-count	alignments sequence	Sequence alignment	Yes	We suggest broader term: http://edamontology.org/data_0863		No	Yes	No	http://edamontology.org/data_0863		Genetic_variant	data	
+Bedtools_annotate	annotated intervals	Annotation track	Yes			No	Yes	No	http://edamontology.org/data_3002		Genetic_variant	data	
+Bedtools_annotate	annotation tracks	Annotation track	Yes			Yes	No	No	http://edamontology.org/data_3002		Genetic_variant	data	
+Canu	assembled contigs	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/data_0925		Genetic_variant	data	
+Canu	assembled scaffolds	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/data_0925		Genetic_variant	data	
+Bedtools_annotate	coverage statistics	Sequence assembly report	Yes			No	Yes	No	http://edamontology.org/data_3181		Genetic_variant	data	
+ClusterProfiler, deseq2	differential expression results	Differential gene expression profiling	No	No mapping found for statistical results.		No	No	Yes	http://edamontology.org/operation_3223	operation not a data	Genetic_variant	data	
+ClusterProfiler	enrichment results	Enrichment report	Yes	Should be: http://edamontology.org/data_3753 . The below terms also apply		No	Yes	No	http://edamontology.org/data_3753		Genetic_variant	data	
+deseq2	experimental design metadata	Sample annotation	Yes	Should be: http://edamontology.org/data_3113		No	Yes	No	http://edamontology.org/data_3113		Genetic_variant	data	
+deseq2, htseq-count	expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112		Genetic_variant	data	
+STAR, htseq-count	gene annotation	Gene annotation	Yes			Yes	No	No	http://edamontology.org/data_0916		Genetic_variant	data	
+ClusterProfiler	gene lists	Gene ID	No	No mapping found for statistical results. Same as line 9.The file is a list of genes associated to statistical results, so it's not only gene ids.		No	Yes	No	http://edamontology.org/data_2295		Genetic_variant	data	
+Bedtools_annotate	genomic features	Nucleic acid features	Yes			No	Yes	No	http://edamontology.org/data_1276		Genetic_variant	data	
+Samtools_index	index alignment file	Genome index	Yes	Should be: http://edamontology.org/data_3210		No	Yes	No	http://edamontology.org/data_3210		Genetic_variant	data	
+deseq2	normalize expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112		Genetic_variant	data	
+ClusterProfiler	ontology datasets	Ontology data	Yes			No	Yes	No	http://edamontology.org/data_2353		Genetic_variant	data	
+Canu	raw long sequencing reads	Sequence trace	Yes	"The naming ""trace"" is surprising to us, but the edam term definition fits."		No	Yes	No	http://edamontology.org/data_0924		Genetic_variant	data	
+Minimap2	raw reads	Sequence trace	Yes	"The naming ""trace"" is surprising to us, but the edam term definition fits."		No	Yes	No	http://edamontology.org/data_0924		Genetic_variant	data	
+STAR	raw sequencing reads	Sequence trace	Yes	"The naming ""trace"" is surprising to us, but the edam term definition fits."		No	Yes	No	http://edamontology.org/data_0924		Genetic_variant	data	
+Minimap2, STAR, Sniffles2, bwa	reference genome	RH scores	Yes	More specific: http://edamontology.org/data_0925		No	Yes	No	http://edamontology.org/data_0926		Genetic_variant	data	
+Minimap2	reference reads	Sequence set (nucleic acid)	Yes	More specific: http://edamontology.org/data_1234		No	Yes	No	http://edamontology.org/data_1234		Genetic_variant	data	
+Minimap2	sequence alignment formats	Sequence alignment	Yes	We suggest: http://edamontology.org/data_0863		No	Yes	No	http://edamontology.org/data_0863		Genetic_variant	data	
+Bedtools_annotate	sequence variants	Sequence variations	Yes			No	Yes	No	http://edamontology.org/data_3498		Genetic_variant	data	
+bwa	short sequencing reads	Sequence trace	Yes	"The naming ""trace"" is surprising to us, but the edam term definition fits."		No	Yes	No	http://edamontology.org/data_0924		Genetic_variant	data	
+Sniffles2	structural sequence variants	Sequence variations	Yes			No	Yes	No	http://edamontology.org/data_3498		Genetic_variant	data	
+Canu	unassembled corrected reads	Sequence set (nucleic acid)	Yes	The corrected reads is not what the sequencing machine produces. We suggest: http://edamontology.org/data_1234		No	Yes	No	http://edamontology.org/data_1234		Genetic_variant	data	
+ClusterProfiler	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	operation not a data	Genetic_variant	data	
+Samtools_index	bai	BAI	Yes			Yes	No	No	http://edamontology.org/format_3327		Genetic_variant	formats	
+STAR, Samtools_index, Sniffles2, htseq-count	bam	BAM	Yes			Yes	No	No	http://edamontology.org/format_2572		Genetic_variant	formats	
+Bedtools_annotate, Sniffles2	bed	BED	Yes			No	No	No	http://edamontology.org/format_3003		Genetic_variant	formats	
+Samtools_index	crai	Data index format	Yes	Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai		No	Yes	No	http://edamontology.org/format_3326		Genetic_variant	formats	
+Samtools_index	cram	CRAM	Yes			Yes	No	No	http://edamontology.org/format_3462		Genetic_variant	formats	
+Samtools_index	csi	Data index format	Yes	Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai		No	Yes	No	http://edamontology.org/format_3326		Genetic_variant	formats	
+ClusterProfiler, deseq2	dsv	DSV	Yes			Yes	No	No	http://edamontology.org/format_3751		Genetic_variant	formats	
+Canu, Minimap2, STAR, Sniffles2, bwa	fasta	FASTA	Yes			Yes	No	No	http://edamontology.org/format_1929		Genetic_variant	formats	
+Canu, Minimap2, STAR, bwa	fastq	FASTQ	Yes			Yes	No	No	http://edamontology.org/format_1930		Genetic_variant	formats	
+Canu	gfa	GFA 2	Yes			No	No	Yes	http://edamontology.org/format_3976		Genetic_variant	formats	
+Bedtools_annotate, htseq-count	gff	GFF	Yes			Yes	No	No	http://edamontology.org/format_2305		Genetic_variant	formats	
+STAR, htseq-count	gtf	GTF	Yes			Yes	No	No	http://edamontology.org/format_2306		Genetic_variant	formats	
+ClusterProfiler	image format	Image format	Yes			Yes	No	No	http://edamontology.org/format_3547		Genetic_variant	formats	
+Minimap2	mmi	Data index format	Yes		Suggested higher level term: http://edamontology.org/format_3326 . There should be an annotation at the same level as .bai	No	Yes	No	http://edamontology.org/format_3326		Genetic_variant	formats	
+Minimap2	paf		No		Should be specific format uder DSV and at the same level as SAM.	No	No	No	no matching format		Genetic_variant	formats	
+Minimap2, STAR, Samtools_index, bwa, htseq-count	sam	SAM	Yes			Yes	No	No	http://edamontology.org/format_2573		Genetic_variant	formats	
+Sniffles2	snf		No		Should be specific format uder DSV and at the same level as SAM.	No	No	No	no matching format		Genetic_variant	formats	
+htseq-count	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475		Genetic_variant	formats	
+Bedtools_annotate, Sniffles2	vcf	VCF	Yes			Yes	No	No	http://edamontology.org/format_3016		Genetic_variant	formats	
+bwa	alignment of dna sequencing to reference sequence (or genome)	Sequence alignment	Yes	bwa, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292		Genetic_variant	operations	
+Minimap2	alignment of long reads to reference sequence (or genome)	Sequence alignment	Yes	minimap2, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292		Genetic_variant	operations	
+STAR	alignment of rna sequencing to reference sequence (or genome)	Sequence alignment	Yes	STAR, as a whole, should also include 'Indexing' as an operation		No	Yes	No	http://edamontology.org/operation_0292		Genetic_variant	operations	
+bwa, Minimap2, STAR	indexing	Indexing	Yes			Yes	No	No	http://edamontology.org/operation_0227		Genetic_variant	operations	
+ClusterProfiler	biological theme comparison	Gene-set enrichment analysis	No	EDAM annotation too narrow. My annotation too broad, maybe a topic.		No	No	Yes	http://edamontology.org/operation_2436		Genetic_variant	operations	
+Canu	contig assembly	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/operation_0310		Genetic_variant	operations	
+htseq-count	counting reads in features	RNA-seq read count analysis	Yes			No	No	Yes	http://edamontology.org/operation_3563		Genetic_variant	operations	
+ClusterProfiler	data visualization	Data visualisation	Yes			Yes	No	No	http://edamontology.org/topic_0092	topic not an operation	Genetic_variant	operations	
+Sniffles2	detection of structural variants from long reads	Structural variation detection	Yes			No	Yes	No	http://edamontology.org/operation_3228		Genetic_variant	operations	
+ClusterProfiler	gene set enrichment analysis	Gene-set enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_2436		Genetic_variant	operations	
+Bedtools_annotate	genomic interval annotation	Genome annotation	Yes		bedtools annotate performs 'Genome annotation' with an aim of 'Genome feature comparison' http://edamontology.org/operation_3194	No	Yes	No	http://edamontology.org/operation_0362		Genetic_variant	operations	
+ClusterProfiler	id conversion	ID mapping	Yes			No	Yes	No	http://edamontology.org/operation_3282		Genetic_variant	operations	
+Samtools_index	indexing alignment file	Indexing	Yes			No	Yes	No	http://edamontology.org/operation_0227		Genetic_variant	operations	
+deseq2	normalization of expression matrix	Standardisation and normalisation	Yes			No	Yes	No	http://edamontology.org/operation_3435		Genetic_variant	operations	
+ClusterProfiler	over-representation analysis	Gene-set enrichment analysis	Yes	Under 'Erichment analysis' there should also be a term called 'Over-representation analysis' alongside 'Gene-set enrichment analysis'		No	Yes	No	http://edamontology.org/operation_2436		Genetic_variant	operations	
+Canu	read correction	Sequence merging	Yes		Read correction in the context of long-read should fall under Sequence editing --> Sequence merging http://edamontology.org/operation_0232	No	Yes	No	http://edamontology.org/operation_0232		Genetic_variant	operations	
+STAR	read mapping	Read mapping	Yes			Yes	No	No	http://edamontology.org/operation_3198		Genetic_variant	operations	
+Canu	read trimming	Sequence trimming	Yes		Sequence trimming and Sequence merging fall under Sequence editing	No	Yes	No	http://edamontology.org/operation_3192		Genetic_variant	operations	
+ClusterProfiler	semantic similarity analysis	Sequence functional annotation	Yes	We suggest: http://edamontology.org/operation_3672		No	No	Yes	http://edamontology.org/operation_3672		Genetic_variant	operations	
+deseq2	statistical differential gene expression detection	Differential gene expression profiling	Yes			No	Yes	No	http://edamontology.org/operation_3223		Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+											Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+						No	No	No			Genetic_variant	operations	
+ClusterProfiler	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432	operation not a topic	Genetic_variant	topics	
+deseq2	condition comparisons	Expression profile comparison	Yes			No	No	Yes	http://edamontology.org/operation_0315	operation not a topic	Genetic_variant	topics	
+Canu	de novo assembly	De-novo assembly	Yes			Yes	No	No	http://edamontology.org/operation_0524	operation not a topic	Genetic_variant	topics	
+Sniffles2	detection of structural variants	Structural variation detection	Yes			No	Yes	No	http://edamontology.org/operation_3228	operation not a topic	Genetic_variant	topics	
+deseq2	differential gene expression	Gene expression	Yes	"We approved because the word ""differential"" appears in the operations EDAM annotation"	"We approved because the word ""differential"" appears in the operations EDAM annotation"	No	Yes	No	http://edamontology.org/topic_0203		Genetic_variant	topics	
+Minimap2	dna sequence aligner to reference sequences	Sequence analysis	Yes	This is a broad annotation from our perspective.	This is a broad annotation from our perspective.	No	Yes	No	http://edamontology.org/topic_0080		Genetic_variant	topics	
+Samtools_index, bwa	dna sequencing	DNA-Seq	Yes			Yes	No	No	http://edamontology.org/topic_3168		Genetic_variant	topics	
+ClusterProfiler	enrichment analysis for omics data	Enrichment analysis	Yes			No	Yes	No	http://edamontology.org/operation_3501	operation not a topic	Genetic_variant	topics	
+htseq-count	gene expression quantification	Gene expression	Yes	This is broad annotation.		No	Yes	No	http://edamontology.org/topic_0203		Genetic_variant	topics	
+Bedtools_annotate	genomic comparaison	Genome comparison	Yes			No	Yes	No	http://edamontology.org/operation_3209	operation not a topic	Genetic_variant	topics	
+Canu	long read data processing	Read pre-processing	Yes			No	Yes	No	http://edamontology.org/operation_3219		Genetic_variant	topics	
+Minimap2	rna sequence aligner to reference sequences	Sequence alignment	Yes			No	Yes	No	http://edamontology.org/operation_0292	operation not a topic	Genetic_variant	topics	
+STAR, deseq2, htseq-count	rna sequencing	RNA sequencing	Yes	Same ontology term as below.		Yes	No	No	http://edamontology.org/topic_3170		Genetic_variant	topics	
+deseq2	rna-seq	RNA-Seq	Yes	Same ontology term as above.		Yes	No	No	http://edamontology.org/topic_3170		Genetic_variant	topics	
+STAR, Samtools_index, bwa	sequence alignment	Sequence alignment	Yes			Yes	No	No	http://edamontology.org/operation_0292	operation not a topic	Genetic_variant	topics	
+ClusterProfiler	visualization of enrichment data	Analysis	Yes	Yes but 'Expression data visualisation' is too narrow. Topic should also include: http://edamontology.org/operation_2436 and http://edamontology.org/operation_3927 and http://edamontology.org/operation_3928 . 		No	Yes	No	http://edamontology.org/operation_2945	operation not a topic	Genetic_variant	topics	
+CarveMe	genome annotations	Genome annotation	Yes	Yes although not the main objective		Yes	No	No	http://edamontology.org/operation_0362	Operation not a data	Microscopy	data	
+CarveMe	genome-scale metabolic models	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Microscopy	data	
+CarveMe	metabolic networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+CarveMe	taxonomic information	Taxonomic classification	No			No	Yes	No	http://edamontology.org/data_1872		Microscopy	data	
+CarveMe, eggNOG-mapper	gene sequences	Sequence	Yes			No	Yes	No	http://edamontology.org/data_2044		Microscopy	data	
+CarveMe, String.db, eggNOG-mapper	protein sequences	Protein sequence	Yes			Yes	No	No	http://edamontology.org/data_2976		Microscopy	data	
+COBRApy	constraints	no_matching_term				No	No	No		no matching data	Microscopy	data	
+COBRApy	flux distributions	Physiology parameter	No			No	Yes	No	http://edamontology.org/data_3722		Microscopy	data	
+COBRApy	metabolic network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+COBRApy	metabolic network/model or nothing if created from scratch	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+COBRApy	metabolites	Reaction data	Yes			No	Yes	No	http://edamontology.org/data_2978		Microscopy	data	
+COBRApy	objective functions	no_matching_term				No	No	No		no matching data	Microscopy	data	
+COBRApy	optimization results	Optimisation and refinement	Yes			No	Yes	No	http://edamontology.org/operation_2425	operation not a data	Microscopy	data	
+COBRApy	results of simulations	Simulation	Yes			No	Yes	No	http://edamontology.org/data_3869		Microscopy	data	
+COBRApy, CarveMe, Fluxer	metabolic model	Mathematical model	Yes			No	Yes	No	http://edamontology.org/data_0950		Microscopy	data	
+Cytoscape	analysis report	no_matching_term				No	No	No		no matching data	Microscopy	data	
+Cytoscape	edge attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	I'm not sure for this one
+Cytoscape	images	Image	Yes			Yes	No	No	http://edamontology.org/data_2968		Microscopy	data	
+Cytoscape	list of nodes and edges	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+Cytoscape	metrics	Quality control report	No			No	No	Yes	http://edamontology.org/data_3914		Microscopy	data	
+Cytoscape	node attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	I'm not sure for this one
+Cytoscape, RWR	network	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+eggNOG-mapper	metagenomic contigs	Sequence assembly	No			No	Yes	No	http://edamontology.org/data_0925		Microscopy	data	
+eggNOG-mapper	nucleotide sequences	Nucleic acid sequence	Yes			Yes	No	No	http://edamontology.org/data_2977		Microscopy	data	
+eggNOG-mapper	orthologous groups	Gene family report	No	A bit unsure here		No	Yes	No	http://edamontology.org/data_3148		Microscopy	data	
+eggNOG-mapper	table containing multiple annotations for each gene or protein	Annotated text	No			No	Yes	No	http://edamontology.org/data_3779		Microscopy	data	
+eggNOG-mapper	taxonomic assignments	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/data_1872		Microscopy	data	
+Fluxer	annotated flux maps	Volume map	No			No	Yes	No	http://edamontology.org/data_0940		Microscopy	data	
+Fluxer	biochemical pathway diagrams	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+Fluxer	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	Operation not a data	Microscopy	data	
+Fluxer, GSEA	pictures	Image	Yes	At least for fluxer	also for cytoscape	Yes	No	No	http://edamontology.org/data_2968		Microscopy	data	agree with expert 2
+Fluxer, String.db	networks	Pathway or network	Yes	At least for fluxer		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	also for string
+GSEA	annotation p values	P-value	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1669		Microscopy	data	
+GSEA	enrichment scores	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Microscopy	data	to specific, the parent term will be ok
+GSEA	false discovery rates	no_matching_term				No	No	No		no matching data	Microscopy	data	
+GSEA	gene expression matrix	Gene expression matrix	Yes			Yes	No	No	http://edamontology.org/data_3112		Microscopy	data	
+GSEA	gene sets	Gene ID	No			No	Yes	No	http://edamontology.org/data_2295		Microscopy	data	
+GSEA	graph	Graph data	Yes			No	Yes	No	http://edamontology.org/data_2884		Microscopy	data	
+GSEA	normalized enrichment plots	Enrichment analysis	No	plot and analysis are not of the same tyme (data versus process)		No	Yes	No	http://edamontology.org/operation_3501	Operation not a data	Microscopy	data	no
+GSEA	ranked gene lists	Gene identifier	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_1025		Microscopy	data	no
+GSEA	ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)	Identifier (by type of data)	No	in the annotation, the fact that the gene list is ranked is important		No	Yes	No	http://edamontology.org/data_0976		Microscopy	data	no
+MOFA2	factors and latent spaces	no_matching_term				No	No	No		no matching data	Microscopy	data	
+MOFA2	feature loadings	Sequence features	No			No	Yes	No	http://edamontology.org/data_1255		Microscopy	data	
+MOFA2	omics matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Microscopy	data	
+MOFA2	paired omics data	Pair sequence alignment	No			No	Yes	No	http://edamontology.org/data_1381		Microscopy	data	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_0950		Microscopy	data	
+MULTIXRANK	multi-layer network graphs	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+MULTIXRANK	network ranking	Pathway or network	No	no, ranking is important, it's the result of the analysis		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+MULTIXRANK	network result	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+MULTIXRANK	scores	Score	Yes			Yes	No	No	http://edamontology.org/data_1772		Microscopy	data	
+MULTIXRANK, RWR	edge weights	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+MULTIXRANK, RWR	network and seed	Pathway or network	No	seeds are important		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+MULTIXRANK, RWR	ranked node lists	no_matching_term				No	No	No	no matching data		Microscopy	data	
+MULTIXRANK, RWR	seed nodes	Pathway or network	No			No	No	No	http://edamontology.org/data_2600		Microscopy	data	
+RWR	biological networks	Network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+RWR	convergence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Microscopy	data	
+RWR	node lists	Pathway or network	No	node list could be a format of network data but could also be a result from an analysis		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+RWR	propagation profiles	Structural profile	No			No	Yes	No	http://edamontology.org/data_0889	not sure	Microscopy	data	
+RWR	restart probability	no_matching_term				No	No	No	no matching data		Microscopy	data	
+RWR	seed	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+RWR	subnetwork modules	Pathway or network	No			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+SNF	clinical data	Clinical trial information	No			No	Yes	No	http://edamontology.org/data_3558		Microscopy	data	
+SNF	fused networks	Pathway or network	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+SNF	fused similarity matrix	Distance matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2855	not sure	Microscopy	data	
+SNF	methylation	Sequence tag profile	No			No	Yes	No	http://edamontology.org/data_2535		Microscopy	data	
+SNF	multi-omics profiles	Omics	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/topic_3391	Topic not a data	Microscopy	data	
+SNF	omics	Omics	Yes			Yes	No	No	http://edamontology.org/topic_3391	Topic not a data	Microscopy	data	
+SNF	patient clusters	no_matching_term				No	No	No		no matching data	Microscopy	data	
+SNF	similarity matrices	Matrix	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_2082		Microscopy	data	
+String.db	confidence scores	Score	Yes	annotation more specific than Edam term		No	Yes	No	http://edamontology.org/data_1772		Microscopy	data	
+String.db	enrichment results	GO-term enrichment data	No	EDAM term more specific than annotation		No	No	Yes	http://edamontology.org/data_3754		Microscopy	data	
+String.db	gene name	Gene name	Yes			Yes	No	No	http://edamontology.org/data_2299		Microscopy	data	
+String.db	interaction networks	Pathway or network	Yes			No	Yes	No	http://edamontology.org/data_2600		Microscopy	data	
+String.db	organism-specific queries	Organism identifier	No			No	Yes	No	http://edamontology.org/data_1869		Microscopy	data	
+String.db	protein identifiers	Protein family identifier	No	EDAM term more specific than annotation		No	Yes	No	http://edamontology.org/data_1075		Microscopy	data	
+String.db	protein name	Protein name	Yes			Yes	No	No	http://edamontology.org/data_1009		Microscopy	data	
+String.db	sequences	Sequence	Yes			Yes	No	No	http://edamontology.org/data_2044		Microscopy	data	
+String.db, eggNOG-mapper	functional annotations	Sequence record	No			No	Yes	No	http://edamontology.org/data_0849		Microscopy	data	
+CarveMe, String.db, eggNOG-mapper	fasta	FASTA	Yes			Yes	No	No	http://edamontology.org/format_1929		Microscopy	formats	
+COBRApy, CarveMe	matlab	MATLAB	Yes			Yes	No	No	http://edamontology.org/format_4007		Microscopy	formats	
+COBRApy, CarveMe, Cytoscape, Fluxer	sbml	SBML	Yes			Yes	No	No	http://edamontology.org/format_2585		Microscopy	formats	
+COBRApy, MULTIXRANK	yaml	YAML	Yes	yes for cobrapy, no for carveme		Yes	No	No	http://edamontology.org/format_3750		Microscopy	formats	ok for multixrank
+COBRApy, MULTIXRANK, String.db, eggNOG-mapper	json	JSON	Yes	yes for cobrapy, no for carveme		Yes	No	No	http://edamontology.org/format_3464		Microscopy	formats	ok for multixrank ang string
+Cytoscape	biopax	BioPAX	Yes			Yes	No	No	http://edamontology.org/format_3156		Microscopy	formats	
+Cytoscape	html	HTML	Yes			Yes	No	No	http://edamontology.org/format_2331		Microscopy	formats	
+Cytoscape	xgmml	xgmml	Yes			Yes	No	No	http://edamontology.org/format_3618		Microscopy	formats	
+Cytoscape	xls	xls	Yes			Yes	No	No	http://edamontology.org/format_3468		Microscopy	formats	
+Cytoscape, Fluxer, GSEA	pdf	PDF	Yes			Yes	No	No	http://edamontology.org/format_3508		Microscopy	formats	
+Cytoscape, Fluxer, GSEA, String.db	svg	SVG	Yes			Yes	No	No	http://edamontology.org/format_3604		Microscopy	formats	
+Cytoscape, Fluxer, RWR	graphml	no_matching_term	No			No	No	No		no matching format	Microscopy	formats	
+Cytoscape, Fluxer, String.db, GSEA	png	PNG	Yes			Yes	No	No	http://edamontology.org/format_3603		Microscopy	formats	
+Cytoscape, GSEA 	jpeg	JPEG	Yes			Yes	No	No	http://edamontology.org/format_3579		Microscopy	formats	
+Cytoscape, MULTIXRANK, RWR	sif	sif	Yes			Yes	No	No	http://edamontology.org/format_3619		Microscopy	formats	
+Cytoscape, MULTIXRANK, SNF, String.db, RWR	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475		Microscopy	formats	yes for cytoscape multixrank snf rwr and string
+Cytoscape, MULTIXRANK, SNF, String.db, GSEA, RWR	csv	CSV	Yes			Yes	No	No	http://edamontology.org/format_3752		Microscopy	formats	yes for cytoscape multixrank snf rwr and string and gsea
+Cytoscape, RWR	gml	GML	Yes			Yes	No	No	http://edamontology.org/format_3822		Microscopy	formats	
+Cytoscape, String.db	cys	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+eggNOG-mapper	gzip	GZIP format	Yes			Yes	No	No	http://edamontology.org/format_3989		Microscopy	formats	
+GSEA	cls	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+GSEA	excel files	Microsoft Excel format	Yes			Yes	No	No	http://edamontology.org/format_3468		Microscopy	formats	
+GSEA	fi	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+GSEA	gct	GCT format	Yes			Yes	No	No	http://edamontology.org/format_3709		Microscopy	formats	
+GSEA	gmx	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+GSEA	gst	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+GSEA	html reports	HTML	Yes			Yes	No	No	http://edamontology.org/format_2331		Microscopy	formats	
+GSEA, MULTIXRANK	gmt	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+MOFA2	hdf5	HDF5	Yes			Yes	No	No	http://edamontology.org/format_3590		Microscopy	formats	
+MOFA2	matrices	Matrix format	Yes			No	Yes	No	http://edamontology.org/format_3033		Microscopy	formats	
+MOFA2	mofa object	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+MOFA2	r vectors	R script	No			No	Yes	No	http://edamontology.org/format_3999		Microscopy	formats	
+MULTIXRANK, String.db, GSEA	txt	Textual format	Yes			Yes	No	No	http://edamontology.org/format_2330		Microscopy	formats	
+RWR	adjacency matrix	Matrix format	Yes	"Yes but ""adjacency"" is important and not picked up in EDAM"		No	Yes	No	http://edamontology.org/format_3033		Microscopy	formats	
+RWR	edge list	Textual format	No	the annotation is in textual format but it is not a textual format		No	Yes	No	http://edamontology.org/format_2330		Microscopy	formats	
+RWR	seed	Textual format	No	the annotation is in textual format but it is not a textual format		No	Yes	No	http://edamontology.org/format_2330		Microscopy	formats	
+RWR	visualization files	HTML	No			No	Yes	No	http://edamontology.org/format_2331		Microscopy	formats	
+SNF	graph files	Textual format	No	the annotation is in textual format but it is not a textual format		No	Yes	No	http://edamontology.org/format_2330		Microscopy	formats	
+SNF	matrix	Matrix format	Yes			Yes	No	No	http://edamontology.org/format_3033		Microscopy	formats	
+String.db	api queries	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+String.db	cytoscape-compatible formats	no_matching_term				No	No	No		no matching format	Microscopy	formats	
+String.db	xml	XML	Yes			Yes	No	No	http://edamontology.org/format_2332		Microscopy	formats	
+CarveMe	automated model reconstruction	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Microscopy	operations	
+CarveMe	draft model generation	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426		Microscopy	operations	
+CarveMe	gap-filling	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Microscopy	operations	
+CarveMe	gap-filling of metabolic models	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660	no matching annotation	Microscopy	operations	
+CarveMe	reconstruction of metabolic networks	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Microscopy	operations	
+COBRApy	constraint-based simulations such as fba	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426		Microscopy	operations	
+COBRApy	construction or modification of metabolic models	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660		Microscopy	operations	
+COBRApy	flux variability analysis	Fluxomics	No	Same as in topics, two different concepts for me		No	Yes	No	http://edamontology.org/topic_3955	topic not an operation	Microscopy	operations	
+COBRApy	gene deletion analysis	Deletion detection	No	A bit vague		No	Yes	No	http://edamontology.org/operation_3962		Microscopy	operations	
+COBRApy	metabolic network simulation	Metabolic network simulation	Yes			Yes	No	No	http://edamontology.org/operation_3660		Microscopy	operations	
+COBRApy	model parsing and manipulation	Parsing	No	Too vague		No	Yes	No	http://edamontology.org/operation_1812		Microscopy	operations	
+COBRApy	optimization	Optimisation and refinement	Yes			Yes	No	No	http://edamontology.org/operation_2425		Microscopy	operations	
+Cytoscape	app-based extensibility	no_matching_term				No	No	No		no matching operation	Microscopy	operations	
+Cytoscape	automation via scripting	no_matching_term				No	No	No		no matching operation	Microscopy	operations	
+Cytoscape	cluster detection	Clustering	Yes			No	Yes	No	http://edamontology.org/operation_3432		Microscopy	operations	
+Cytoscape	construction of networks	Network analysis	Yes	I would have said no here as building networks is different from analysing the networks once they are built, but the first reviewer said yes		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	The EDAM definition seems ok for me (if we considere generate similar to construct)
+Cytoscape	data integration	Data integration and warehousing	No	"I think in EDAM ""data integration"" is different from what we think about data integration, it's more related to requesting different data sources and databases"		Yes	No	No	http://edamontology.org/topic_3366	topic not an operation	Microscopy	operations	I'm agree with the expert 1
+Cytoscape	edition of networks	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+Cytoscape	graph metrics	no_matching_term				No	No	No		no matching annotation	Microscopy	operations	
+Cytoscape	graph topology	Topology diagram drawing	No	I don't think edam refers to the same thing as cytoscape here		No	Yes	No	http://edamontology.org/operation_2486		Microscopy	operations	no
+Cytoscape	network exploration	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+Cytoscape	network visualization	Network visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3925		Microscopy	operations	
+eggNOG-mapper	annotation of genes and proteins using multiple functional databases	Annotation	Yes			No	Yes	No	http://edamontology.org/operation_0226		Microscopy	operations	
+eggNOG-mapper	domain prediction	Prediction and recognition	No	Too much vague?		No	Yes	No	http://edamontology.org/operation_2423		Microscopy	operations	
+eggNOG-mapper	hierarchical annotation	Annotation	Yes			No	Yes	No	http://edamontology.org/operation_0226		Microscopy	operations	
+eggNOG-mapper	large-scale sequence analysis	Sequence analysis	Yes			No	Yes	No	http://edamontology.org/operation_2403		Microscopy	operations	
+eggNOG-mapper	orthology mapping	Mapping	No	Too much vague?		No	Yes	No	http://edamontology.org/operation_2429		Microscopy	operations	
+Fluxer	customizable layout creation	Topology diagram drawing	Yes			No	Yes	No	http://edamontology.org/operation_2486		Microscopy	operations	
+Fluxer	flux balance analysis (fba)	Fluxomics	No	Same as in topics, two different concepts for me		No	Yes	No	http://edamontology.org/topic_3955	topic not an operation	Microscopy	operations	
+Fluxer	flux diagram rendering	Topology diagram drawing	Yes			No	Yes	No	http://edamontology.org/operation_2486		Microscopy	operations	
+Fluxer	interactive visualization	Visualisation	Yes			No	Yes	No	http://edamontology.org/operation_0337		Microscopy	operations	
+Fluxer	metabolic model simulation	Metabolic network simulation	Yes			No	Yes	No	http://edamontology.org/operation_3660		Microscopy	operations	
+Fluxer	metabolic model visualisation	Network visualisation	Yes			No	Yes	No	http://edamontology.org/operation_3925		Microscopy	operations	
+Fluxer	pathway mapping	Pathway analysis	Yes			No	Yes	No	http://edamontology.org/operation_3928		Microscopy	operations	
+GSEA	functional enrichment analysis	Enrichment analysis	Yes			No	Yes	No	http://edamontology.org/operation_3501		Microscopy	operations	
+GSEA	gene set enrichment analysis	Gene-set enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_2436		Microscopy	operations	
+GSEA	gene set scoring	Enrichment analysis	Yes	I think gene set scoring is more related to functional enrichment		No	Yes	No	http://edamontology.org/operation_3501		Microscopy	operations	 functional enrichment or enrichment analysis
+GSEA	multi-omics integration	Omics	No	the annotation is a process, an operation whereas the term is more refering to data		No	Yes	No	http://edamontology.org/topic_3391	Topic not an operation	Microscopy	operations	
+GSEA	rank-based enrichment	Enrichment analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3501		Microscopy	operations	I would say yes
+GSEA	single-sample variant	Sample comparison	No			No	Yes	No	http://edamontology.org/operation_3731		Microscopy	operations	
+GSEA	statistical permutation	Statistical calculation	Yes			No	Yes	No	http://edamontology.org/operation_2238		Microscopy	operations	
+GSEA, String.db	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Microscopy	operations	
+MOFA2	bayesian inference	Statistical inference	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3658		Microscopy	operations	
+MOFA2	feature weights inspection	Feature extraction	No	no, inspection is different from extraction I presume		No	Yes	No	http://edamontology.org/operation_3937		Microscopy	operations	no
+MOFA2	joint matrix factorisation	Dimensionality reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935		Microscopy	operations	It could be Dimensionality reduction
+MOFA2	matrix factorization	Dimensionality reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935		Microscopy	operations	It could be Dimensionality reduction
+MOFA2	reduction dimension	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935		Microscopy	operations	
+MOFA2	variance decomposition	Statistical calculation	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_2238		Microscopy	operations	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/data_2600	Data not an operation	Microscopy	operations	
+MULTIXRANK	network propagation	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+MULTIXRANK	prioritization algorithm	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	it could be Network analysis
+MULTIXRANK, RWR	random walk with restart	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	it could be Network analysis
+SNF	consensus network building	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+SNF	fused sample network creation	Network analysis	No	the annotation is a specific subtype of the selected term but also network creation is different from network analysis		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+SNF	kernel-based integration	no_matching_term				No	No	No		no matching annotation	Microscopy	operations	
+SNF	networks fusion	Network analysis	Yes	the annotation is a specific subtype of the selected term		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+SNF	similarity matrices creation	no_matching_term				No	No	No		no matching annotation	Microscopy	operations	
+SNF	similarity networks creation	Network analysis	No	I think this refers to different strategies but it might not be so clear		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	I didn't find network modelling in EDAM
+SNF, String.db	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432		Microscopy	operations	
+String.db	confidence scoring	Statistical estimate score	No			No	Yes	No	http://edamontology.org/data_0951	Data not an operation	Microscopy	operations	
+String.db	creation	no_matching_term				No	No	No		no matching operation	Microscopy	operations	
+String.db	data retrieval	Data retrieval	Yes			Yes	No	No	http://edamontology.org/operation_2422		Microscopy	operations	
+String.db	enrichment analysis	Enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_3501		Microscopy	operations	
+String.db	exploration of interaction networks	Biological network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	
+String.db	network construction	Network analysis	Yes	construction and analysis (exploration) are different things		No	Yes	No	http://edamontology.org/operation_3927		Microscopy	operations	"I'm agree with the expert 1 but the definition contains also ""Generate"", so I would say yes"
+CarveMe	community modeling	Metabolic network modelling	Yes			No	No	Yes	http://edamontology.org/operation_3660	Operation not a topic	Microscopy	topics	
+CarveMe	genome-scale metabolic modeling	Metabolic network modelling	Yes			No	Yes	No	http://edamontology.org/operation_3660	operation not a topic	Microscopy	topics	
+CarveMe	microbiology	Microbiology	Yes			Yes	No	No	http://edamontology.org/topic_3301		Microscopy	topics	
+COBRApy	constraint-based modeling	Modelling and simulation	Yes			No	Yes	No	http://edamontology.org/operation_2426	Operation not a topic	Microscopy	topics	
+COBRApy	flux balance analysis	Fluxomics	No	For me these are two different concepts		No	Yes	No	http://edamontology.org/topic_3955		Microscopy	topics	
+COBRApy, CarveMe	metabolic networks	Biological networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Microscopy	topics	
+COBRApy, CarveMe	metabolic reconstruction	Metabolic network reconstruction	Yes			Yes	No	No	http://edamontology.org/operation_3660	operation not a topic	Microscopy	topics	
+COBRApy, CarveMe, Cytoscape, Fluxer, GSEA, String.db	systems biology	Systems biology	Yes			Yes	No	No	http://edamontology.org/topic_2259		Microscopy	topics	
+COBRApy, Fluxer	metabolic modelling	Metabolic network modelling	Yes			Yes	No	No	http://edamontology.org/operation_3660	operation not a topic	Microscopy	topics	
+Cytoscape	co-occurrence networks	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Microscopy	topics	
+Cytoscape	data integration	Data integration and warehousing	No	"I think in EDAM ""data integration"" is different from what we think about data integration, it's more related to requesting different data sources and databases"		Yes	No	No	http://edamontology.org/topic_3366		Microscopy	topics	I'm agree withe the expert 1
+Cytoscape	graph theory	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Microscopy	topics	
+Cytoscape	metabolic pathways	Metabolic pathway prediction	No	Not really prediction.	1.0	No	Yes	No	http://edamontology.org/operation_3929	operation not a topic	Microscopy	topics	Idem
+Cytoscape	molecular interaction networks	Molecular interactions, pathways and networks	Yes			Yes	No	No	http://edamontology.org/topic_0602		Microscopy	topics	
+Cytoscape	network handling	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+Cytoscape	network visualisation	Network visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3925	operation not a topic	Microscopy	topics	
+Cytoscape	protein-protein interactions	Protein interactions	Yes			No	Yes	No	http://edamontology.org/topic_0128		Microscopy	topics	
+Cytoscape	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337		Microscopy	topics	
+Cytoscape, MULTIXRANK	network biology	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+Cytoscape, MULTIXRANK, RWR	network exploration	Network analysis	Yes			No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+eggNOG-mapper	functional annotation of proteins	Sequence annotation	Yes			No	Yes	No	http://edamontology.org/operation_0361	operation	Microscopy	topics	
+eggNOG-mapper	metagenomic annotation	Metagenomics	Yes			No	Yes	No	http://edamontology.org/topic_3174		Microscopy	topics	
+eggNOG-mapper	orthology assignment	Gene and protein families	Yes			No	Yes	No	http://edamontology.org/topic_0623		Microscopy	topics	
+eggNOG-mapper	protein function prediction	Protein function prediction	Yes			Yes	No	No	http://edamontology.org/operation_1777	operation not a topic 	Microscopy	topics	
+Fluxer	biochemistry education	Biochemistry	Yes			No	Yes	No	http://edamontology.org/topic_3292		Microscopy	topics	
+Fluxer	metabolic flux analysis	Fluxomics	No	For me these are two different concepts		No	Yes	No	http://edamontology.org/topic_3955		Microscopy	topics	
+Fluxer	pathway visualization	Pathway visualisation	Yes			Yes	No	No	http://edamontology.org/operation_3926	operation not a topic 	Microscopy	topics	
+GSEA	enrichment analysis	Enrichment analysis	Yes			Yes	No	No	http://edamontology.org/operation_3501	operation not a topic	Microscopy	topics	
+GSEA	functional annotation	Gene functional annotation	Yes			No	Yes	No	http://edamontology.org/operation_3672	operation not a topic	Microscopy	topics	
+GSEA	molecular signatures	Molecular interactions, pathways and networks	No	A signature is not necessarily a network		No	Yes	No	http://edamontology.org/topic_0602		Microscopy	topics	"I'm not sure about ""networks"""
+GSEA	pathway analysis	Pathway analysis	Yes			Yes	No	No	http://edamontology.org/operation_3928	operation not a topic	Microscopy	topics	
+GSEA, eggNOG-mapper	functional genomics	Functional genomics	Yes			Yes	No	No	http://edamontology.org/topic_0085		Microscopy	topics	
+MOFA2	dimensionality reduction	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935	operation not a topic	Microscopy	topics	
+MOFA2	factor analysis	Dimensionality reduction	Yes	I'm not sure here, FA is more precise than dimensionality reduction so it cannot be consider as synonym but it's not wrong as FA is a type of dim red		No	Yes	No	http://edamontology.org/operation_3935	operation not a topic	Microscopy	topics	
+MOFA2	joint dimension reduction	Dimension reduction	Yes			No	Yes	No	http://edamontology.org/operation_3935	operation not a topic	Microscopy	topics	
+MOFA2, SNF 	multi-omics data integration	Multiomics 	Yes	I don't find Multiomics in the EDAM browser and the annotation is more related to a process (integration) than to data (multiomics)		No	Yes	No	http://edamontology.org/topic_4021		Microscopy	topics	I think this one is ok. The definition of Multiomics in EDAM is multiomics integration
+MULTIXRANK	multi-layer networks	Molecular interactions, pathways and networks	Yes			No	Yes	No	http://edamontology.org/topic_0602		Microscopy	topics	
+MULTIXRANK	node prioritization	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM		No	Yes	No	http://edamontology.org/operation_2425	operation not a topic	Microscopy	topics	
+MULTIXRANK, RWR, SNF	network analysis	Network analysis	Yes			Yes	No	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+RWR	disease gene prediction	Gene prediction	Yes	More precise but could be considered ok		No	Yes	No	http://edamontology.org/operation_2454	operation not a topic	Microscopy	topics	
+RWR	functional module detection	Function analysis	No	part of the annotation could be considered as function analysis but it's more a network method that can then be use for different purposes including function analysis		No	Yes	No	http://edamontology.org/topic_1775		Microscopy	topics	The definition in EDAM doesn't match - RWR is not doing functional prediction/analysis
+RWR	network propagation	Network analysis	Yes	network propagation is one of the many algorithms of network analysis		No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+RWR	prioritization analysis	Optimisation and refinement	No	I don't think so but I do not see appropriate term in EDAM		No	Yes	No	http://edamontology.org/operation_2425	operation not a topic	Microscopy	topics	
+SNF	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432	Operation not a topic	Microscopy	topics	
+SNF	disease subtyping	Rare diseases	No			No	Yes	No	http://edamontology.org/topic_3325		Microscopy	topics	
+SNF	network integration	Network analysis	Yes	network integration is one of the many algorithms of network analysis		No	Yes	No	http://edamontology.org/operation_3927	operation not a topic	Microscopy	topics	
+SNF	patient stratification	Personalised medicine	Yes			No	Yes	No	http://edamontology.org/topic_3577		Microscopy	topics	
+String.db	functional enrichment	Function analysis	Yes			No	Yes	No	http://edamontology.org/topic_1775		Microscopy	topics	
+String.db	protein-protein interaction networks	Protein interaction network analysis	Yes	Here also, the annotation refers to data whereas the term refers to a process		Yes	No	No	http://edamontology.org/operation_0276	operation not a topic 	Microscopy	topics	

@@ -1,0 +1,18 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+AFNI, FSL, Freesurfer, SPM	anatomical mri	MRI image	Yes				No	Yes	No	http://edamontology.org/data_3442	
+Freesurfer	cortical parcellations	MRI image	No	Cortical Parcellation, Segmentation, 			No	Yes	No	http://edamontology.org/data_3442	
+FSL, Freesurfer	diffusion mri	MRI image	No	Diffusion Tensor Imaging, DTI			No	Yes	No	http://edamontology.org/data_3442	
+SPM	eeg	no_matching_term		EEG, Electroencephalography,  Medical Imaging			No	Yes	No		no matching data
+AFNI, FMRIprep, FSL, Freesurfer, SPM	fmri	MRI image	Yes	functional MRI, Functional magnetic resonance imaging			No	Yes	No	http://edamontology.org/data_3442	
+SPM	meg	no_matching_term		MEG, MagnetoEncephaloGraphy 			No	Yes	No		no matching data
+AFNI	parametric modulation maps	Statistical estimate score	Yes	Statistical estimations			No	Yes	No	http://edamontology.org/data_0951	
+Freesurfer, SPM	pet	no_matching_term		PET, Positron emission tomography			No	No	No		no matching data
+FSL, SPM	preprocessed data	Data	Yes				No	Yes	No	http://edamontology.org/data_0006	
+FMRIprep	preprocessed fmri	Data	Yes				No	Yes	No	http://edamontology.org/data_0006	
+FMRIprep, FSL	reports	Report	Yes				Yes	No	No	http://edamontology.org/data_2048	
+SPM	results reports	Report	Yes				No	Yes	No	http://edamontology.org/data_2048	
+SPM	spect	no_matching_term	No	SPECT, Single-photon Emission Computed Tomography			No	No	No		no matching data
+FSL	statistical maps	Statistical estimate score	Yes	Statistical estimation			No	Yes	No	http://edamontology.org/data_0951	
+SPM	statistical parametric maps	Statistical estimate score	Yes	Statistical estimation			No	Yes	No	http://edamontology.org/data_0951	
+Freesurfer	surface maps	Statistical estimate score	Yes	Segmentation			No	Yes	No	http://edamontology.org/data_0951	
+Freesurfer	volumetric segmentation	Volume map	Yes				No	Yes	No	http://edamontology.org/data_0940	

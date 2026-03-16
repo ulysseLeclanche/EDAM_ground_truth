@@ -1,0 +1,5 @@
+annotation,tools,tool_count
+distance matrix,FastME,1
+multiple-sequence alignment file,MAFFT,1
+phylogenetic trees with support values,FastME,1
+phylogeny trees with support values,PhyML,1

@@ -1,0 +1,18 @@
+annotation,tools,tool_count
+alignment file,"Samtools_index, Sniffles2",2
+alignments sequence,htseq-count,1
+annotation tracks,Bedtools_annotate,1
+differential expression results,ClusterProfiler,1
+experimental design metadata,deseq2,1
+expression matrix,deseq2,1
+gene annotation,"STAR, htseq-count",2
+gene lists,ClusterProfiler,1
+genomic features,Bedtools_annotate,1
+ontology datasets,ClusterProfiler,1
+raw long sequencing reads,Canu,1
+raw reads,Minimap2,1
+raw sequencing reads,STAR,1
+reference genome,"Minimap2, STAR, Sniffles2, bwa",4
+reference reads,Minimap2,1
+sequence variants,Bedtools_annotate,1
+short sequencing reads,bwa,1

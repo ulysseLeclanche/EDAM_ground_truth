@@ -1,0 +1,7 @@
+annotation,tools,tool_count
+annotation,CellPose,1
+fluorescence in situ hybriditation (fish) microscopy image,Big-FISH,1
+list of paired points,EcClem,1
+microscopy images 2d,"CellPose, EcClem",2
+microscopy images 3d,"CellPose, EcClem, deconvolutionLab2",3
+point spread function,deconvolutionLab2,1

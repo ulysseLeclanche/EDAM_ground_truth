@@ -1,0 +1,66 @@
+tools	annotation	 candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+CarveMe	automated model reconstruction	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	
+CarveMe	draft model generation	Modelling and simulation	Yes				No	Yes	No	http://edamontology.org/operation_2426	
+CarveMe	gap-filling	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	
+CarveMe	gap-filling of metabolic models	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	no matching annotation
+CarveMe	reconstruction of metabolic networks	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	
+COBRApy	constraint-based simulations such as fba	Modelling and simulation	Yes				No	Yes	No	http://edamontology.org/operation_2426	
+COBRApy	construction or modification of metabolic models	Metabolic network modelling	Yes				No	Yes	No	http://edamontology.org/operation_3660	
+COBRApy	flux variability analysis	Fluxomics	No	Same as in topics, two different concepts for me			No	Yes	No	http://edamontology.org/topic_3955	topic not an operation
+COBRApy	gene deletion analysis	Deletion detection	No	A bit vague			No	Yes	No	http://edamontology.org/operation_3962	
+COBRApy	metabolic network simulation	Metabolic network simulation	Yes				Yes	No	No	http://edamontology.org/operation_3660	
+COBRApy	model parsing and manipulation	Parsing	No	Too vague			No	Yes	No	http://edamontology.org/operation_1812	
+COBRApy	optimization	Optimisation and refinement	Yes				Yes	No	No	http://edamontology.org/operation_2425	
+Cytoscape	app-based extensibility	no_matching_term					No	No	No		no matching operation
+Cytoscape	automation via scripting	no_matching_term					No	No	No		no matching operation
+Cytoscape	cluster detection	Clustering	Yes				No	Yes	No	http://edamontology.org/operation_3432	
+Cytoscape	construction of networks	Network analysis	Yes	I would have said no here as building networks is different from analysing the networks once they are built, but the first reviewer said yes		The EDAM definition seems ok for me (if we considere generate similar to construct)	No	Yes	No	http://edamontology.org/operation_3927	
+Cytoscape	data integration	Data integration and warehousing	No	I think in EDAM "data integration" is different from what we think about data integration, it's more related to requesting different data sources and databases		I'm agree with the expert 1	Yes	No	No	http://edamontology.org/topic_3366	topic not an operation
+Cytoscape	edition of networks	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	
+Cytoscape	graph metrics	no_matching_term					No	No	No		no matching annotation
+Cytoscape	graph topology	Topology diagram drawing	No	I don't think edam refers to the same thing as cytoscape here		no	No	Yes	No	http://edamontology.org/operation_2486	
+Cytoscape	network exploration	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	
+Cytoscape	network visualization	Network visualisation	Yes				Yes	No	No	http://edamontology.org/operation_3925	
+eggNOG-mapper	annotation of genes and proteins using multiple functional databases	Annotation	Yes				No	Yes	No	http://edamontology.org/operation_0226	
+eggNOG-mapper	domain prediction	Prediction and recognition	No	Too much vague?			No	Yes	No	http://edamontology.org/operation_2423	
+eggNOG-mapper	hierarchical annotation	Annotation	Yes				No	Yes	No	http://edamontology.org/operation_0226	
+eggNOG-mapper	large-scale sequence analysis	Sequence analysis	Yes				No	Yes	No	http://edamontology.org/operation_2403	
+eggNOG-mapper	orthology mapping	Mapping	No	Too much vague?			No	Yes	No	http://edamontology.org/operation_2429	
+Fluxer	customizable layout creation	Topology diagram drawing	Yes				No	Yes	No	http://edamontology.org/operation_2486	
+Fluxer	flux balance analysis (fba)	Fluxomics	No	Same as in topics, two different concepts for me			No	Yes	No	http://edamontology.org/topic_3955	topic not an operation
+Fluxer	flux diagram rendering	Topology diagram drawing	Yes				No	Yes	No	http://edamontology.org/operation_2486	
+Fluxer	interactive visualization	Visualisation	Yes				No	Yes	No	http://edamontology.org/operation_0337	
+Fluxer	metabolic model simulation	Metabolic network simulation	Yes				No	Yes	No	http://edamontology.org/operation_3660	
+Fluxer	metabolic model visualisation	Network visualisation	Yes				No	Yes	No	http://edamontology.org/operation_3925	
+Fluxer	pathway mapping	Pathway analysis	Yes				No	Yes	No	http://edamontology.org/operation_3928	
+GSEA	functional enrichment analysis	Enrichment analysis	Yes				No	Yes	No	http://edamontology.org/operation_3501	
+GSEA	gene set enrichment analysis	Gene-set enrichment analysis	Yes				Yes	No	No	http://edamontology.org/operation_2436	
+GSEA	gene set scoring	Enrichment analysis	Yes	I think gene set scoring is more related to functional enrichment		 functional enrichment or enrichment analysis	No	Yes	No	http://edamontology.org/operation_3501	
+GSEA	multi-omics integration	Omics	No	the annotation is a process, an operation whereas the term is more refering to data			No	Yes	No	http://edamontology.org/topic_3391	Topic not an operation
+GSEA	rank-based enrichment	Enrichment analysis	Yes	the annotation is a specific subtype of the selected term		I would say yes	No	Yes	No	http://edamontology.org/operation_3501	
+GSEA	single-sample variant	Sample comparison	No				No	Yes	No	http://edamontology.org/operation_3731	
+GSEA	statistical permutation	Statistical calculation	Yes				No	Yes	No	http://edamontology.org/operation_2238	
+GSEA, String.db	visualization	Visualisation	Yes				Yes	No	No	http://edamontology.org/operation_0337	
+MOFA2	bayesian inference	Statistical inference	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/operation_3658	
+MOFA2	feature weights inspection	Feature extraction	No	no, inspection is different from extraction I presume		no	No	Yes	No	http://edamontology.org/operation_3937	
+MOFA2	joint matrix factorisation	Dimensionality reduction	Yes			It could be Dimensionality reduction	No	Yes	No	http://edamontology.org/operation_3935	
+MOFA2	matrix factorization	Dimensionality reduction	Yes			It could be Dimensionality reduction	No	Yes	No	http://edamontology.org/operation_3935	
+MOFA2	reduction dimension	Dimensionality reduction	Yes				Yes	No	No	http://edamontology.org/operation_3935	
+MOFA2	variance decomposition	Statistical calculation	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/operation_2238	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/data_2600	Data not an operation
+MULTIXRANK	network propagation	Network analysis	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/operation_3927	
+MULTIXRANK	prioritization algorithm	Network analysis	Yes			it could be Network analysis	No	Yes	No	http://edamontology.org/operation_3927	
+MULTIXRANK, RWR	random walk with restart	Network analysis	Yes			it could be Network analysis	No	Yes	No	http://edamontology.org/operation_3927	
+SNF	consensus network building	Network analysis	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/operation_3927	
+SNF	fused sample network creation	Network analysis	No	the annotation is a specific subtype of the selected term but also network creation is different from network analysis			No	Yes	No	http://edamontology.org/operation_3927	
+SNF	kernel-based integration	no_matching_term					No	No	No		no matching annotation
+SNF	networks fusion	Network analysis	Yes	the annotation is a specific subtype of the selected term			No	Yes	No	http://edamontology.org/operation_3927	
+SNF	similarity matrices creation	no_matching_term					No	No	No		no matching annotation
+SNF	similarity networks creation	Network analysis	No	I think this refers to different strategies but it might not be so clear		I didn't find network modelling in EDAM	No	Yes	No	http://edamontology.org/operation_3927	
+SNF, String.db	clustering	Clustering	Yes				Yes	No	No	http://edamontology.org/operation_3432	
+String.db	confidence scoring	Statistical estimate score	No				No	Yes	No	http://edamontology.org/data_0951	Data not an operation
+String.db	creation	no_matching_term					No	No	No		no matching operation
+String.db	data retrieval	Data retrieval	Yes				Yes	No	No	http://edamontology.org/operation_2422	
+String.db	enrichment analysis	Enrichment analysis	Yes				Yes	No	No	http://edamontology.org/operation_3501	
+String.db	exploration of interaction networks	Biological network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	
+String.db	network construction	Network analysis	Yes	construction and analysis (exploration) are different things		I'm agree with the expert 1 but the definition contains also "Generate", so I would say yes	No	Yes	No	http://edamontology.org/operation_3927	

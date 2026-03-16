@@ -1,0 +1,11 @@
+tools,annotation
+"Anvi’o, MetaBAT2, mOTUs",bam
+"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2",fasta
+"Anvi’o, Kraken2, MEGAHIT, mOTUs",fastq
+"Anvi’o, Kraken2",html
+Anvi’o,jpeg
+"Anvi’o, GTDB-Tk",json
+"Anvi’o, GTDB-Tk",newick
+Anvi’o,png
+Anvi’o,svg
+"Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MetaBAT2, checkM2, mOTUs",tsv

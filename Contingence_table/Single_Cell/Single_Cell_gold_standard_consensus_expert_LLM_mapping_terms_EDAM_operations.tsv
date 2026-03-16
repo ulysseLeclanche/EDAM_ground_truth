@@ -1,0 +1,15 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Monocle3	cell trajectories inference	Expression profile comparison	Yes			No	Yes	No	http://edamontology.org/operation_0315	
+Scanpy	cell trajectory inference	Expression profile comparison	Yes			No	Yes	No	http://edamontology.org/operation_0315	
+Monocle3, Scanpy, Seurat	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432	
+Scanpy, Seurat	data integration	Data integration and warehousing	No	la description pourrait correspondre (si on s'affranchi de là où il est rangé)		No	Yes	No	http://edamontology.org/topic_3366	topic not a operation
+Monocle3	differential expression over cell trajectory	Differential expression analysis	Yes			No	Yes	No	http://edamontology.org/operation_3223	
+Scanpy, Seurat	differential expression testing	Differential expression analysis	Yes			No	Yes	No	http://edamontology.org/operation_3223	
+Scanpy, Seurat	dimensionality reduction	Dimensionality reduction	Yes	même si la définition décrit surtout une PCA alors qu'il y a d'autres méthodes, peut etre pas assez générale		Yes	No	No	http://edamontology.org/operation_3935	
+Monocle3, Scanpy, Seurat	normalization	Normalization	Yes			Yes	No	No	http://edamontology.org/operation_3435	
+Scanpy	pseudotime analysis	RNA-seq time series data analysis	No	ici on parle bien de "pseudo" temps et ce n'est pas du time-series comme sous entendu par le terme edam		No	No	No	http://edamontology.org/operation_3565	
+Monocle3	quality control	Validation	No	assez abstrait il meriterait d'avoir une sous classe comme pour sequencing QC		No	Yes	No	http://edamontology.org/operation_2428	
+Scanpy, Seurat	quality controls	Validation	No	assez abstrait il meriterait d'avoir une sous classe comme pour sequencing QC		No	Yes	No	http://edamontology.org/operation_2428	
+Monocle3	reduction dimensions	Dimensionality reduction	Yes			Yes	No	No	http://edamontology.org/operation_3935	
+Monocle3	visualisations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	
+Scanpy, Seurat	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	

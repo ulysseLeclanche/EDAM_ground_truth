@@ -1,0 +1,79 @@
+tools	annotation	 candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+CarveMe	genome annotations	Genome annotation	Yes	Yes although not the main objective			Yes	No	No	http://edamontology.org/operation_0362	Operation not a data
+CarveMe	genome-scale metabolic models	Mathematical model	Yes				No	Yes	No	http://edamontology.org/data_0950	
+CarveMe	metabolic networks	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+CarveMe	taxonomic information	Taxonomic classification	No				No	Yes	No	http://edamontology.org/data_1872	
+CarveMe, eggNOG-mapper	gene sequences	Sequence	Yes				No	Yes	No	http://edamontology.org/data_2044	
+CarveMe, String.db, eggNOG-mapper	protein sequences	Protein sequence	Yes				Yes	No	No	http://edamontology.org/data_2976	
+COBRApy	constraints	no_matching_term					No	No	No		no matching data
+COBRApy	flux distributions	Physiology parameter	No				No	Yes	No	http://edamontology.org/data_3722	
+COBRApy	metabolic network	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+COBRApy	metabolic network/model or nothing if created from scratch	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+COBRApy	metabolites	Reaction data	Yes				No	Yes	No	http://edamontology.org/data_2978	
+COBRApy	objective functions	no_matching_term					No	No	No		no matching data
+COBRApy	optimization results	Optimisation and refinement	Yes				No	Yes	No	http://edamontology.org/operation_2425	operation not a data
+COBRApy	results of simulations	Simulation	Yes				No	Yes	No	http://edamontology.org/data_3869	
+COBRApy, CarveMe, Fluxer	metabolic model	Mathematical model	Yes				No	Yes	No	http://edamontology.org/data_0950	
+Cytoscape	analysis report	no_matching_term					No	No	No		no matching data
+Cytoscape	edge attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		I'm not sure for this one	No	Yes	No	http://edamontology.org/data_2600	
+Cytoscape	images	Image	Yes				Yes	No	No	http://edamontology.org/data_2968	
+Cytoscape	list of nodes and edges	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+Cytoscape	metrics	Quality control report	No				No	No	Yes	http://edamontology.org/data_3914	
+Cytoscape	node attribute	Pathway or network	No	I would have say that it's different but the first reviewer said yes		I'm not sure for this one	No	Yes	No	http://edamontology.org/data_2600	
+Cytoscape, RWR	network	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+eggNOG-mapper	metagenomic contigs	Sequence assembly	No				No	Yes	No	http://edamontology.org/data_0925	
+eggNOG-mapper	nucleotide sequences	Nucleic acid sequence	Yes				Yes	No	No	http://edamontology.org/data_2977	
+eggNOG-mapper	orthologous groups	Gene family report	No	A bit unsure here			No	Yes	No	http://edamontology.org/data_3148	
+eggNOG-mapper	table containing multiple annotations for each gene or protein	Annotated text	No				No	Yes	No	http://edamontology.org/data_3779	
+eggNOG-mapper	taxonomic assignments	Taxonomic classification	Yes				No	Yes	No	http://edamontology.org/data_1872	
+Fluxer	annotated flux maps	Volume map	No				No	Yes	No	http://edamontology.org/data_0940	
+Fluxer	biochemical pathway diagrams	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+Fluxer	visualizations	Visualisation	Yes				Yes	No	No	http://edamontology.org/operation_0337	Operation not a data
+Fluxer, GSEA	pictures	Image	Yes	At least for fluxer	also for cytoscape	agree with expert 2	Yes	No	No	http://edamontology.org/data_2968	
+Fluxer, String.db	networks	Pathway or network	Yes	At least for fluxer		also for string	No	Yes	No	http://edamontology.org/data_2600	
+GSEA	annotation p values	P-value	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_1669	
+GSEA	enrichment scores	GO-term enrichment data	No	EDAM term more specific than annotation		to specific, the parent term will be ok	No	No	Yes	http://edamontology.org/data_3754	
+GSEA	false discovery rates	no_matching_term					No	No	No		no matching data
+GSEA	gene expression matrix	Gene expression matrix	Yes				Yes	No	No	http://edamontology.org/data_3112	
+GSEA	gene sets	Gene ID	No				No	Yes	No	http://edamontology.org/data_2295	
+GSEA	graph	Graph data	Yes				No	Yes	No	http://edamontology.org/data_2884	
+GSEA	normalized enrichment plots	Enrichment analysis	No	plot and analysis are not of the same tyme (data versus process)		no	No	Yes	No	http://edamontology.org/operation_3501	Operation not a data
+GSEA	ranked gene lists	Gene identifier	No	in the annotation, the fact that the gene list is ranked is important		no	No	Yes	No	http://edamontology.org/data_1025	
+GSEA	ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes)	Identifier (by type of data)	No	in the annotation, the fact that the gene list is ranked is important		no	No	Yes	No	http://edamontology.org/data_0976	
+MOFA2	factors and latent spaces	no_matching_term					No	No	No		no matching data
+MOFA2	feature loadings	Sequence features	No				No	Yes	No	http://edamontology.org/data_1255	
+MOFA2	omics matrices	Matrix	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_2082	
+MOFA2	paired omics data	Pair sequence alignment	No				No	Yes	No	http://edamontology.org/data_1381	
+MULTIXRANK	heterogeneous networks	Pathway or network	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_0950	
+MULTIXRANK	multi-layer network graphs	Pathway or network	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_2600	
+MULTIXRANK	network ranking	Pathway or network	No	no, ranking is important, it's the result of the analysis			No	Yes	No	http://edamontology.org/data_2600	
+MULTIXRANK	network result	Pathway or network	No				No	Yes	No	http://edamontology.org/data_2600	
+MULTIXRANK	scores	Score	Yes				Yes	No	No	http://edamontology.org/data_1772	
+MULTIXRANK, RWR	edge weights	Pathway or network	No				No	Yes	No	http://edamontology.org/data_2600	
+MULTIXRANK, RWR	network and seed	Pathway or network	No	seeds are important			No	Yes	No	http://edamontology.org/data_2600	
+MULTIXRANK, RWR	ranked node lists	no_matching_term					No	No	No	no matching data	
+MULTIXRANK, RWR	seed nodes	Pathway or network	No				No	No	No	http://edamontology.org/data_2600	
+RWR	biological networks	Network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+RWR	convergence scores	Score	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_1772	
+RWR	node lists	Pathway or network	No	node list could be a format of network data but could also be a result from an analysis			No	Yes	No	http://edamontology.org/data_2600	
+RWR	propagation profiles	Structural profile	No				No	Yes	No	http://edamontology.org/data_0889	not sure
+RWR	restart probability	no_matching_term					No	No	No	no matching data	
+RWR	seed	Pathway or network	No				No	Yes	No	http://edamontology.org/data_2600	
+RWR	subnetwork modules	Pathway or network	No				No	Yes	No	http://edamontology.org/data_2600	
+SNF	clinical data	Clinical trial information	No				No	Yes	No	http://edamontology.org/data_3558	
+SNF	fused networks	Pathway or network	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_2600	
+SNF	fused similarity matrix	Distance matrix	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_2855	not sure
+SNF	methylation	Sequence tag profile	No				No	Yes	No	http://edamontology.org/data_2535	
+SNF	multi-omics profiles	Omics	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/topic_3391	Topic not a data
+SNF	omics	Omics	Yes				Yes	No	No	http://edamontology.org/topic_3391	Topic not a data
+SNF	patient clusters	no_matching_term					No	No	No		no matching data
+SNF	similarity matrices	Matrix	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_2082	
+String.db	confidence scores	Score	Yes	annotation more specific than Edam term			No	Yes	No	http://edamontology.org/data_1772	
+String.db	enrichment results	GO-term enrichment data	No	EDAM term more specific than annotation			No	No	Yes	http://edamontology.org/data_3754	
+String.db	gene name	Gene name	Yes				Yes	No	No	http://edamontology.org/data_2299	
+String.db	interaction networks	Pathway or network	Yes				No	Yes	No	http://edamontology.org/data_2600	
+String.db	organism-specific queries	Organism identifier	No				No	Yes	No	http://edamontology.org/data_1869	
+String.db	protein identifiers	Protein family identifier	No	EDAM term more specific than annotation			No	Yes	No	http://edamontology.org/data_1075	
+String.db	protein name	Protein name	Yes				Yes	No	No	http://edamontology.org/data_1009	
+String.db	sequences	Sequence	Yes				Yes	No	No	http://edamontology.org/data_2044	
+String.db, eggNOG-mapper	functional annotations	Sequence record	No				No	Yes	No	http://edamontology.org/data_0849	

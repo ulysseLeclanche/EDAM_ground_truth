@@ -1,0 +1,28 @@
+io_type,annotation,tools,tool_count
+Input,bam,"Samtools_index, Sniffles2, htseq-count",3
+Input,bed,"Bedtools_annotate, Sniffles2",2
+Input,cram,Samtools_index,1
+Input,dsv,"ClusterProfiler, deseq2",2
+Input,fasta,"Canu, Minimap2, STAR, Sniffles2, bwa",5
+Input,fastq,"Canu, Minimap2, STAR, bwa",4
+Input,gff,"Bedtools_annotate, htseq-count",2
+Input,gtf,"STAR, htseq-count",2
+Input,mmi,Minimap2,1
+Input,sam,"Samtools_index, htseq-count",2
+Input,vcf,Bedtools_annotate,1
+Output,bai,Samtools_index,1
+Output,bam,STAR,1
+Output,bed,Bedtools_annotate,1
+Output,crai,Samtools_index,1
+Output,csi,Samtools_index,1
+Output,dsv,"ClusterProfiler, deseq2",2
+Output,fasta,Canu,1
+Output,fastq,Canu,1
+Output,gfa,Canu,1
+Output,gff,Bedtools_annotate,1
+Output,image format,ClusterProfiler,1
+Output,paf,Minimap2,1
+Output,sam,"Minimap2, STAR, bwa",3
+Output,snf,Sniffles2,1
+Output,tsv,htseq-count,1
+Output,vcf,"Bedtools_annotate, Sniffles2",2

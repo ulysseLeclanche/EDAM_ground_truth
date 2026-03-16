@@ -1,0 +1,72 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+MetaBAT2	abundance and composition integration	Enrichment analysis	No			No	Yes	No	http://edamontology.org/operation_3501	
+Kraken2, mOTUs	abundance profiling	Gene expression profiling	No			No	Yes	No	http://edamontology.org/operation_0314	
+mOTUs	activity profiling	Gene expression profiling	Yes			No	Yes	No	http://edamontology.org/operation_0314	
+Anvi’o	annotation edition	Genome annotation	Yes			No	No	Yes	http://edamontology.org/operation_0362	
+Anvi’o	assembly	Sequence assembly	Yes			Yes	No	No	http://edamontology.org/operation_0310	
+CONCOCT, MetaBAT2	binning	Read binning	No			Yes	No	No	http://edamontology.org/operation_3798	
+Anvi’o	binning refinement	Read binning	No			No	Yes	No	http://edamontology.org/operation_3798	
+MEGAHIT	bruijn graph	De Bruijn graph 	Yes			Yes	No	No	http://edamontology.org/operation_0524	
+Anvi’o	functional annotation	Gene functional annotation	Yes			No	No	Yes	http://edamontology.org/operation_3672	
+checkM2	genome annotation	Genome annotation	Yes			Yes	No	No	http://edamontology.org/operation_0362	
+MEGAHIT	genome assemby	Genome assembly	Yes			Yes	No	No	http://edamontology.org/operation_0525	
+checkM2	genome completness	Sequence assembly	No			No	Yes	No	http://edamontology.org/operation_0310	
+checkM2	genome contamination	Sequence contamination filtering	No			No	No	Yes	http://edamontology.org/operation_3187	
+checkM2	genome quality	Sequencing quality control	Yes			No	Yes	No	http://edamontology.org/operation_3218	
+Anvi’o	genomic refining	Sequence assembly	No			No	Yes	No	http://edamontology.org/operation_0310	
+Anvi’o	interactive edition	Editing	Yes			No	Yes	No	http://edamontology.org/operation_3096	
+Anvi’o	interactive visualization	Visualisation	Yes			No	Yes	No	http://edamontology.org/operation_0337	
+MEGAHIT	metagenomic assembly	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/operation_0310	
+GTDB-Tk	phylogenetic inference	Phylogenetic inference	Yes			Yes	No	No	http://edamontology.org/operation_0323	
+Kraken2	sequence classification	Sequence analysis	Yes			No	Yes	No	http://edamontology.org/operation_2403	
+Kraken2, checkM2, mOTUs	taxonomic annotation	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460	
+GTDB-Tk	taxonomic classification	Taxonomic classification	Yes			Yes	Yes	No	http://edamontology.org/operation_3460	
+Anvi’o	taxonomic profiling	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460	
+mOTUs	visualization	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	
+Anvi’o, mOTUs	workflow	Workflows	Yes			Yes	No	No	http://edamontology.org/topic_0769	topic not a operation
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		

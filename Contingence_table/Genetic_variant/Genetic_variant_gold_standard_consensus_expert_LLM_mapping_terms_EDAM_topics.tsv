@@ -1,0 +1,17 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+ClusterProfiler	clustering	Clustering	Yes			Yes	No	No	http://edamontology.org/operation_3432	operation not a topic
+deseq2	condition comparisons	Expression profile comparison	Yes			No	No	Yes	http://edamontology.org/operation_0315	operation not a topic
+Canu	de novo assembly	De-novo assembly	Yes			Yes	No	No	http://edamontology.org/operation_0524	operation not a topic
+Sniffles2	detection of structural variants	Structural variation detection	Yes			No	Yes	No	http://edamontology.org/operation_3228	operation not a topic
+deseq2	differential gene expression	Gene expression	Yes	We approved because the word "differential" appears in the operations EDAM annotation	We approved because the word "differential" appears in the operations EDAM annotation	No	Yes	No	http://edamontology.org/topic_0203	
+Minimap2	dna sequence aligner to reference sequences	Sequence analysis	Yes	This is a broad annotation from our perspective.	This is a broad annotation from our perspective.	No	Yes	No	http://edamontology.org/topic_0080	
+Samtools_index, bwa	dna sequencing	DNA-Seq	Yes			Yes	No	No	http://edamontology.org/topic_3168	
+ClusterProfiler	enrichment analysis for omics data	Enrichment analysis	Yes			No	Yes	No	http://edamontology.org/operation_3501	operation not a topic
+htseq-count	gene expression quantification	Gene expression	Yes	This is broad annotation.		No	Yes	No	http://edamontology.org/topic_0203	
+Bedtools_annotate	genomic comparaison	Genome comparison	Yes			No	Yes	No	http://edamontology.org/operation_3209	operation not a topic
+Canu	long read data processing	Read pre-processing	Yes			No	Yes	No	http://edamontology.org/operation_3219	
+Minimap2	rna sequence aligner to reference sequences	Sequence alignment	Yes			No	Yes	No	http://edamontology.org/operation_0292	operation not a topic
+STAR, deseq2, htseq-count	rna sequencing	RNA sequencing	Yes	Same ontology term as below.		Yes	No	No	http://edamontology.org/topic_3170	
+deseq2	rna-seq	RNA-Seq	Yes	Same ontology term as above.		Yes	No	No	http://edamontology.org/topic_3170	
+STAR, Samtools_index, bwa	sequence alignment	Sequence alignment	Yes			Yes	No	No	http://edamontology.org/operation_0292	operation not a topic
+ClusterProfiler	visualization of enrichment data	Analysis	Yes	Yes but 'Expression data visualisation' is too narrow. Topic should also include: http://edamontology.org/operation_2436 and http://edamontology.org/operation_3927 and http://edamontology.org/operation_3928 . 		No	Yes	No	http://edamontology.org/operation_2945	operation not a topic

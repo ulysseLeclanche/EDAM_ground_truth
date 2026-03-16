@@ -1,0 +1,21 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Scanpy, Seurat	atacseq data	no_matching_term				No	No	No		no matching data
+Monocle3	branch labels	Name	Yes	Ou Identifier plutot ?		No	Yes	No	http://edamontology.org/data_2099	
+Seurat	cell embeddings	Matrix	Yes			No	Yes	No	http://edamontology.org/data_2082	
+Monocle3, Scanpy, Seurat	cell metadata	Expression data	No	Il faudrait la meme chose que : Sequence features metadata mais pour les observations et non les variables		No	Yes	No	http://edamontology.org/data_2603	
+Scanpy, Seurat	cite-seq	no_matching_term				No	No	No		no matching data
+Scanpy, Seurat	cluster labels	Identifier	Yes			No	Yes	No	http://edamontology.org/data_0842	
+Monocle3, Scanpy	differential expression results	Matrix	Yes	http://edamontology.org/data_2082		No	Yes	No	http://edamontology.org/data_2082	
+Monocle3	expression matrices	Gene expression matrix	Yes	Plutot : Gene expression matrix		No	Yes	No	http://edamontology.org/data_3112	
+Seurat	expression matrix	Gene expression matrix	Yes	Plutot : Gene expression matrix		No	Yes	No	http://edamontology.org/data_3112	
+Scanpy, Seurat	feature metadata	Sequence features metadata	Yes			No	No	Yes	http://edamontology.org/data_2914	
+Scanpy, Seurat	images	Image	Yes			Yes	No	No	http://edamontology.org/data_2968	
+Monocle3, Scanpy, Seurat	plots	Plot	Yes			Yes	No	No	http://edamontology.org/data_2884	
+Scanpy	processed expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112	
+Monocle3, Scanpy	pseudotime values	Matrix	Yes			No	Yes	No	http://edamontology.org/data_2082	
+Scanpy, Seurat	raw count matrix	Count matrix	Yes			Yes	No	No	http://edamontology.org/data_3917	
+Scanpy, Seurat	scrna-seq data	no_matching_term		RNAseq data ?		No	No	No		no matching data
+Scanpy, Seurat	spatial transcriptomic	Sequence coordinates	No			No	Yes	No	http://edamontology.org/data_2012	
+Scanpy, Seurat	table results	Clustered expression profiles	Yes	http://edamontology.org/data_3768 ou http://edamontology.org/data_3753		No	Yes	No	http://edamontology.org/data_3768	
+Monocle3, Scanpy	trajectory graph	Trajectory data	Yes	Oui en faisant évoluer la définition		No	Yes	No	http://edamontology.org/data_3870	
+Monocle3, Scanpy	trajectory tree	Trajectory data	Yes	Oui en faisant évoluer la définition		No	Yes	No	http://edamontology.org/data_3870	

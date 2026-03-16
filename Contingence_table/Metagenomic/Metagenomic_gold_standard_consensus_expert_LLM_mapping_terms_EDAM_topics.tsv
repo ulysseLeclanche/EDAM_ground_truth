@@ -1,0 +1,71 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+CONCOCT	binning	Read binning	No	Le terme "read" me pose problème car concoct ne fonctionne qu'avec des contigs d'une taille minimum de 1000pb donc pas sur des reads  	Oui le binning se fait généralement au niveau des contigs, et on parle souvent de genome binning	Yes	No	No	http://edamontology.org/operation_3798	Operation not a topic
+Anvi’o, GTDB-Tk	comparative genomics	Comparative genomics	Yes			Yes	No	No	http://edamontology.org/topic_0797	
+MEGAHIT	de novo assembly	De-novo assembly	Yes			Yes	No	No	http://edamontology.org/operation_0524	Operation not a topic
+Anvi’o	functional genomics	Functional genomics	Yes			Yes	No	No	http://edamontology.org/topic_0085	
+CONCOCT, MetaBAT2	genome reconstruction	Whole genome sequencing	No	Ces deux outils ne fonctionnent pas sur du whole genome sequencing maus bien sur des metagénomes	Agreed 	No	Yes	No	http://edamontology.org/topic_3673	
+Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	metagenomics	Metagenomics	Yes			Yes	No	No	http://edamontology.org/topic_3174	
+GTDB-Tk	phylogenomics	Phylogenomics	Yes			Yes	No	No	http://edamontology.org/topic_0194	
+mOTUs	phylogeny	Phylogeny	Yes			Yes	No	No	http://edamontology.org/topic_0084	
+Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	sequence analysis	Sequence analysis	Yes			Yes	No	No	http://edamontology.org/topic_0080	
+MEGAHIT	sequence assembly	Sequence assembly	Yes			Yes	No	No	http://edamontology.org/topic_0196	
+Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs	sequencing	Sequencing	Yes			Yes	No	No	http://edamontology.org/topic_3168	
+MEGAHIT	short reads	DNA-Seq	Yes			No	Yes	No	http://edamontology.org/topic_3168	
+checkM2	taxonomic annotation	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460	
+Kraken2, mOTUs	taxonomic profiling	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460	
+GTDB-Tk	taxonomy	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/operation_3460	
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		

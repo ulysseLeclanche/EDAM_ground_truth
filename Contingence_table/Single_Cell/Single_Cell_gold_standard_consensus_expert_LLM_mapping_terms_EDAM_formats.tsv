@@ -1,0 +1,12 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Monocle3, Scanpy, Seurat	bundle format (mtx)	MTX	Yes			Yes	No	No	http://edamontology.org/format_3916	
+Monocle3, Scanpy, Seurat	csv	CSV	Yes			Yes	No	No	http://edamontology.org/format_3752	
+Scanpy	h5ad	HDF5	Yes	sous classe de HDF5		No	Yes	No	http://edamontology.org/format_3590	
+Scanpy, Seurat	hdf5	HDF5	Yes			Yes	No	No	http://edamontology.org/format_3590	
+Monocle3, Scanpy, Seurat	jpeg	JPEG	Yes			Yes	No	No	http://edamontology.org/format_3579	
+Monocle3, Scanpy, Seurat	pdf	PDF	Yes			Yes	No	No	http://edamontology.org/format_3508	
+Monocle3, Scanpy, Seurat	png	PNG	Yes			Yes	No	No	http://edamontology.org/format_3603	
+Monocle3, Seurat	rds	Binary format	Yes	http://edamontology.org/format_2333		No	Yes	No	http://edamontology.org/format_2333	
+Monocle3, Scanpy, Seurat	svg	SVG	Yes			Yes	No	No	http://edamontology.org/format_3603	
+Scanpy, Seurat	tiff	TIFF	Yes			Yes	No	No	http://edamontology.org/format_3591	
+Monocle3, Scanpy, Seurat	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475	

@@ -1,0 +1,15 @@
+io_type,annotation,tools,tool_count
+Input,bam,"Anvi’o, MetaBAT2",2
+Input,fasta,"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2",6
+Input,fastq,"Anvi’o, Kraken2, MEGAHIT, mOTUs",4
+Input,json,Anvi’o,1
+Input,tsv,"Anvi’o, CONCOCT, MetaBAT2",3
+Output,bam,mOTUs,1
+Output,fasta,"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2",5
+Output,html,"Anvi’o, Kraken2",2
+Output,jpeg,Anvi’o,1
+Output,json,"Anvi’o, GTDB-Tk",2
+Output,newick,"Anvi’o, GTDB-Tk",2
+Output,png,Anvi’o,1
+Output,svg,Anvi’o,1
+Output,tsv,"Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MetaBAT2, checkM2, mOTUs",7

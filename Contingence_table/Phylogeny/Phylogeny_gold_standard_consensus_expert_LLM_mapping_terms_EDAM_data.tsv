@@ -1,0 +1,11 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+FastME	distance matrix	Distance matrix	Yes	Output	Output		Yes	No	No	http://edamontology.org/data_2855	
+PhyML	multiple sequence alignment	Sequence alignment	Yes	Input? Output?	input (masis pas output à ma connaissance)		No	Yes	No	http://edamontology.org/data_0863	
+FastME	multiple sequences alignment msa	Sequence alignment	Yes	Input	Input		No	Yes	No	http://edamontology.org/data_0863	
+MAFFT	multiple-sequence alignment file	Sequence alignment	Yes	Output	Output		No	Yes	No	http://edamontology.org/data_0863	
+MAFFT	multiple-sequence file	Nucleic acid sequence alignment	Yes	Je ne suis pas convaincu... Il y a une histoire de metadata dans le term EDAM, alors que pas besoin pour MAFFT	peut etre plus : http://edamontology.org/data_1383 Nucleic acid sequence alignment et du coup aussi : http://edamontology.org/data_1384  Protein sequence alignment		No	Yes	No	http://edamontology.org/data_1383	
+MAFFT	multiple-sequence file	Protein sequence alignment	Yes	Je ne suis pas convaincu... Il y a une histoire de metadata dans le term EDAM, alors que pas besoin pour MAFFT	peut etre plus : http://edamontology.org/data_1383 Nucleic acid sequence alignment et du coup aussi : http://edamontology.org/data_1384  Protein sequence alignment		No	Yes	No	http://edamontology.org/data_1384	
+FastME	phylogenetic trees with support values	Phylogenetic tree	Yes	Output	Output		No	Yes	No	http://edamontology.org/data_0872	
+PhyML	phylogeny trees with support values	Phylogenetic tree	Yes	Output	Output		No	Yes	No	http://edamontology.org/data_0872	
+PhyML	sequence evolution model	DNA substitution model	Yes	Non, ce n'est pas pareil, ce serait plutôt substitution model	D'accord avec frederic http://edamontology.org/data_1439		No	Yes	No	http://edamontology.org/data_1439	
+FastME	substitution model	Substitution model	Yes		Input		Yes	No	No	http://edamontology.org/data_1439	

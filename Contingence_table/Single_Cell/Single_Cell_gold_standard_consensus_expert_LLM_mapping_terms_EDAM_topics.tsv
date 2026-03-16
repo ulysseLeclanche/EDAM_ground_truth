@@ -1,0 +1,5 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Monocle3	cell trajectories inference	Single-cell sequencing	Yes	j'aurais tendance à mettre également single-cell sequencing		No	Yes	No	http://edamontology.org/topic_4028	
+Monocle3, Scanpy, Seurat	single-cell genomic	Single-cell sequencing	Yes			No	Yes	No	http://edamontology.org/topic_4028	
+Seurat	spatial transcriptomics	DATA Gene expression profile	Yes	ok avec la définition dans l'url		No	Yes	No	http://edamontology.org/data_0928	
+Scanpy	trajectory inference	Single-cell sequencing	Yes			No	Yes	No	http://edamontology.org/topic_4028	

@@ -1,0 +1,11 @@
+annotation,tools,tool_count
+cortical parcellations,Freesurfer,1
+parametric modulation maps,AFNI,1
+preprocessed data,"FSL, SPM",2
+preprocessed fmri,FMRIprep,1
+reports,"FMRIprep, FSL",2
+results reports,SPM,1
+statistical maps,FSL,1
+statistical parametric maps,SPM,1
+surface maps,Freesurfer,1
+volumetric segmentation,Freesurfer,1

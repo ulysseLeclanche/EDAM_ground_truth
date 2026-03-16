@@ -1,0 +1,31 @@
+annotation,tools,tool_count
+csv,"GSEA, MULTIXRANK, RWR, SNF",4
+cys,"Cytoscape, String.db",2
+cytoscape-compatible formats,String.db,1
+edge lists,RWR,1
+excel files,GSEA,1
+fi,GSEA,1
+gml,RWR,1
+graph files,SNF,1
+graphml,Fluxer,1
+hdf5,MOFA2,1
+html,Cytoscape,1
+html reports,GSEA,1
+jpeg,Cytoscape,1
+json,"COBRApy, CarveMe, String.db, eggNOG-mapper",4
+matlab,"COBRApy, CarveMe",2
+matrices,MOFA2,1
+matrix,SNF,1
+mofa object,MOFA2,1
+pdf,"Cytoscape, Fluxer, GSEA",3
+png,"Cytoscape, Fluxer, String.db",3
+png jpeg,GSEA,1
+sbml,"COBRApy, CarveMe, Fluxer",3
+seed,RWR,1
+sif,"Cytoscape, MULTIXRANK, RWR",3
+svg,"Cytoscape, Fluxer, GSEA, String.db",4
+tsv,"GSEA, MULTIXRANK, RWR, SNF, String.db, eggNOG-mapper",6
+txt,GSEA,1
+visualization files,RWR,1
+xml,String.db,1
+yaml,"COBRApy, CarveMe",2

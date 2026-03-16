@@ -1,0 +1,43 @@
+tools	annotation	 candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+CarveMe, String.db, eggNOG-mapper	fasta	FASTA	Yes				Yes	No	No	http://edamontology.org/format_1929	
+COBRApy, CarveMe	matlab	MATLAB	Yes				Yes	No	No	http://edamontology.org/format_4007	
+COBRApy, CarveMe, Cytoscape, Fluxer	sbml	SBML	Yes				Yes	No	No	http://edamontology.org/format_2585	
+COBRApy, MULTIXRANK	yaml	YAML	Yes	yes for cobrapy, no for carveme		ok for multixrank	Yes	No	No	http://edamontology.org/format_3750	
+COBRApy, MULTIXRANK, String.db, eggNOG-mapper	json	JSON	Yes	yes for cobrapy, no for carveme		ok for multixrank ang string	Yes	No	No	http://edamontology.org/format_3464	
+Cytoscape	biopax	BioPAX	Yes				Yes	No	No	http://edamontology.org/format_3156	
+Cytoscape	html	HTML	Yes				Yes	No	No	http://edamontology.org/format_2331	
+Cytoscape	xgmml	xgmml	Yes				Yes	No	No	http://edamontology.org/format_3618	
+Cytoscape	xls	xls	Yes				Yes	No	No	http://edamontology.org/format_3468	
+Cytoscape, Fluxer, GSEA	pdf	PDF	Yes				Yes	No	No	http://edamontology.org/format_3508	
+Cytoscape, Fluxer, GSEA, String.db	svg	SVG	Yes				Yes	No	No	http://edamontology.org/format_3604	
+Cytoscape, Fluxer, RWR	graphml	no_matching_term	No				No	No	No		no matching format
+Cytoscape, Fluxer, String.db, GSEA	png	PNG	Yes				Yes	No	No	http://edamontology.org/format_3603	
+Cytoscape, GSEA 	jpeg	JPEG	Yes				Yes	No	No	http://edamontology.org/format_3579	
+Cytoscape, MULTIXRANK, RWR	sif	sif	Yes				Yes	No	No	http://edamontology.org/format_3619	
+Cytoscape, MULTIXRANK, SNF, String.db, RWR	tsv	TSV	Yes			yes for cytoscape multixrank snf rwr and string	Yes	No	No	http://edamontology.org/format_3475	
+Cytoscape, MULTIXRANK, SNF, String.db, GSEA, RWR	csv	CSV	Yes			yes for cytoscape multixrank snf rwr and string and gsea	Yes	No	No	http://edamontology.org/format_3752	
+Cytoscape, RWR	gml	GML	Yes				Yes	No	No	http://edamontology.org/format_3822	
+Cytoscape, String.db	cys	no_matching_term					No	No	No		no matching format
+eggNOG-mapper	gzip	GZIP format	Yes				Yes	No	No	http://edamontology.org/format_3989	
+GSEA	cls	no_matching_term					No	No	No		no matching format
+GSEA	excel files	Microsoft Excel format	Yes				Yes	No	No	http://edamontology.org/format_3468	
+GSEA	fi	no_matching_term					No	No	No		no matching format
+GSEA	gct	GCT format	Yes				Yes	No	No	http://edamontology.org/format_3709	
+GSEA	gmx	no_matching_term					No	No	No		no matching format
+GSEA	gst	no_matching_term					No	No	No		no matching format
+GSEA	html reports	HTML	Yes				Yes	No	No	http://edamontology.org/format_2331	
+GSEA, MULTIXRANK	gmt	no_matching_term					No	No	No		no matching format
+MOFA2	hdf5	HDF5	Yes				Yes	No	No	http://edamontology.org/format_3590	
+MOFA2	matrices	Matrix format	Yes				No	Yes	No	http://edamontology.org/format_3033	
+MOFA2	mofa object	no_matching_term					No	No	No		no matching format
+MOFA2	r vectors	R script	No				No	Yes	No	http://edamontology.org/format_3999	
+MULTIXRANK, String.db, GSEA	txt	Textual format	Yes				Yes	No	No	http://edamontology.org/format_2330	
+RWR	adjacency matrix	Matrix format	Yes	Yes but "adjacency" is important and not picked up in EDAM			No	Yes	No	http://edamontology.org/format_3033	
+RWR	edge list	Textual format	No	the annotation is in textual format but it is not a textual format			No	Yes	No	http://edamontology.org/format_2330	
+RWR	seed	Textual format	No	the annotation is in textual format but it is not a textual format			No	Yes	No	http://edamontology.org/format_2330	
+RWR	visualization files	HTML	No				No	Yes	No	http://edamontology.org/format_2331	
+SNF	graph files	Textual format	No	the annotation is in textual format but it is not a textual format			No	Yes	No	http://edamontology.org/format_2330	
+SNF	matrix	Matrix format	Yes				Yes	No	No	http://edamontology.org/format_3033	
+String.db	api queries	no_matching_term					No	No	No		no matching format
+String.db	cytoscape-compatible formats	no_matching_term					No	No	No		no matching format
+String.db	xml	XML	Yes				Yes	No	No	http://edamontology.org/format_2332	

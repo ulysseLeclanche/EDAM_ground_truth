@@ -1,0 +1,25 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	EDAM term URI	Comment
+MetaBAT2	abundance profiling	Biodiversity data	Yes	Oui mais le terme Biodiversity data est bien plus général.. 		No	Yes	No	http://edamontology.org/data_3707	
+Kraken2, mOTUs	abundance table	Biodiversity data	Yes			No	Yes	No	http://edamontology.org/data_3707	
+Anvi’o	annotated contigs	Sequence Assembly	No			No	Yes	No	http://edamontology.org/data_0925	
+Anvi’o, CONCOCT, MetaBAT2	bins	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850	
+MetaBAT2	co-abundance	Biodiversity data	No			No	Yes	No	http://edamontology.org/data_3707	
+Anvi’o, CONCOCT, MEGAHIT, MetaBAT2, checkM2	contigs	Sequence Assembly	Yes			No	Yes	No	http://edamontology.org/data_0925	
+CONCOCT, MetaBAT2	coverage profiles	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850	
+Anvi’o	functional annotations	Gene functional annotation	Yes			No	No	Yes	http://edamontology.org/operation_3672	operation not a data
+GTDB-Tk	genome	Genome report	No			No	Yes	No	http://edamontology.org/data_2711	
+Anvi’o	image	Image	Yes			Yes	No	No	http://edamontology.org/data_2968	
+Anvi’o	metabolic profiles	Mass spectrometry data	Yes			No	Yes	No	http://edamontology.org/data_2536	
+GTDB-Tk	metagenome	Metagenomic sequencing	Yes			No	Yes	No	http://edamontology.org/topic_3837	topic not a data
+CONCOCT, MetaBAT2	metagenome assembled genomes mags	Metagenomic sequencing	No			No	Yes	No	http://edamontology.org/topic_3837	topic not a data
+Anvi’o, GTDB-Tk	phylogenetic tree	Phylogenetic tree	Yes			Yes	No	No	http://edamontology.org/data_0872	
+checkM2	quality annotation	Gene features report	No			No	Yes	No	http://edamontology.org/data_0916	
+Anvi’o	raw sequence	Sequence trace	No			No	Yes	No	http://edamontology.org/data_0924	
+Anvi’o	sequence abundance profile	Sequence set	No			No	Yes	No	http://edamontology.org/data_0850	
+Kraken2, MEGAHIT, mOTUs	sequencing reads	Sequence trace	No			No	Yes	No	http://edamontology.org/data_0924	
+Kraken2, checkM2, mOTUs	taxonomic annotation	Taxonomic name	Yes			No	No	No	http://edamontology.org/data_1872	
+GTDB-Tk	taxonomic labels	Taxonomic name	Yes			No	No	No	http://edamontology.org/data_1872	
+Anvi’o	taxonomic profiles	Taxonomic classification	Yes			No	Yes	No	http://edamontology.org/data_1872	
+MetaBAT2	tetranucleotide frequencies	Base frequencies table	Yes			Yes	No	No	http://edamontology.org/data_1265	
+Anvi’o	tree	Phylogenetic tree	Yes			No	Yes	No	http://edamontology.org/data_0872	
+Anvi’o	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	operation not a data

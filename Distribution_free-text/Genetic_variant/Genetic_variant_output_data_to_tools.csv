@@ -1,0 +1,15 @@
+annotation,tools,tool_count
+alignment file,"STAR, bwa",2
+annotated intervals,Bedtools_annotate,1
+assembled contigs,Canu,1
+assembled scaffolds,Canu,1
+coverage statistics,Bedtools_annotate,1
+differential expression results,deseq2,1
+enrichment results,ClusterProfiler,1
+expression matrix,htseq-count,1
+index alignment file,Samtools_index,1
+normalize expression matrix,deseq2,1
+sequence alignment formats,Minimap2,1
+structural sequence variants,Sniffles2,1
+unassembled corrected reads,Canu,1
+visualizations,ClusterProfiler,1

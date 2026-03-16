@@ -1,0 +1,5 @@
+annotation,tools,tool_count
+cell trajectories inference,Monocle3,1
+single-cell genomic,"Monocle3, Scanpy, Seurat",3
+spatial transcriptomics,Seurat,1
+trajectory inference,Scanpy,1

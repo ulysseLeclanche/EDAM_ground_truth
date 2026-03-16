@@ -1,0 +1,16 @@
+annotation,tools,tool_count
+abundance profiling,MetaBAT2,1
+abundance table,"Kraken2, mOTUs",2
+annotated contigs,Anvi’o,1
+bins,"Anvi’o, CONCOCT, MetaBAT2",3
+co-abundance,MetaBAT2,1
+contigs,MEGAHIT,1
+image,Anvi’o,1
+metabolic profiles,Anvi’o,1
+metagenome assembled genomes mags,"CONCOCT, MetaBAT2",2
+phylogenetic tree,"Anvi’o, GTDB-Tk",2
+quality annotation,checkM2,1
+taxonomic annotation,"Kraken2, checkM2, mOTUs",3
+taxonomic labels,GTDB-Tk,1
+tree,Anvi’o,1
+visualizations,Anvi’o,1

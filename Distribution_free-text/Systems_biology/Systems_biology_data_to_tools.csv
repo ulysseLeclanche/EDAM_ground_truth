@@ -1,0 +1,80 @@
+io_type,annotation,tools,tool_count
+Input,biological networks,RWR,1
+Input,clinical data,SNF,1
+Input,constraints,COBRApy,1
+Input,edge attribute,Cytoscape,1
+Input,edge weights,"MULTIXRANK, RWR",2
+Input,gene expression matrix,GSEA,1
+Input,gene name,String.db,1
+Input,gene sequences,"CarveMe, eggNOG-mapper",2
+Input,gene sets,GSEA,1
+Input,genome annotations,CarveMe,1
+Input,heterogeneous networks,MULTIXRANK,1
+Input,list of nodes and edges,Cytoscape,1
+Input,metabolic model,"COBRApy, Fluxer",2
+Input,metabolic network/model or nothing if created from scratch,COBRApy,1
+Input,metagenomic contigs,eggNOG-mapper,1
+Input,multi-layer network graphs,MULTIXRANK,1
+Input,multi-omics profiles,SNF,1
+Input,network,"Cytoscape, RWR",2
+Input,network and seed,MULTIXRANK,1
+Input,node attribute,Cytoscape,1
+Input,nucleotide sequences,eggNOG-mapper,1
+Input,objective functions,COBRApy,1
+Input,omics,SNF,1
+Input,omics matrices,MOFA2,1
+Input,organism-specific queries,String.db,1
+Input,paired omics data,MOFA2,1
+Input,protein identifiers,String.db,1
+Input,protein name,String.db,1
+Input,protein sequences,"CarveMe, String.db, eggNOG-mapper",3
+Input,ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes),GSEA,1
+Input,restart probability,RWR,1
+Input,seed,RWR,1
+Input,seed nodes,"MULTIXRANK, RWR",2
+Input,sequences,String.db,1
+Input,taxonomic information,CarveMe,1
+Output,analysis report,Cytoscape,1
+Output,annotated flux maps,Fluxer,1
+Output,annotation p values,GSEA,1
+Output,biochemical pathway diagrams,Fluxer,1
+Output,confidence scores,String.db,1
+Output,convergence scores,RWR,1
+Output,enrichment results,String.db,1
+Output,enrichment scores,GSEA,1
+Output,factors and latent spaces,MOFA2,1
+Output,false discovery rates (fdr),GSEA,1
+Output,feature loadings,MOFA2,1
+Output,flux distributions,COBRApy,1
+Output,functional annotations,"String.db, eggNOG-mapper",2
+Output,fused networks,SNF,1
+Output,fused similarity matrix,SNF,1
+Output,genome-scale metabolic models,CarveMe,1
+Output,graph,GSEA,1
+Output,images,Cytoscape,1
+Output,interaction networks,String.db,1
+Output,metabolic model,"COBRApy, CarveMe, Fluxer",3
+Output,metabolic network,COBRApy,1
+Output,metabolic networks,CarveMe,1
+Output,metrics,Cytoscape,1
+Output,network,Cytoscape,1
+Output,network and seed,RWR,1
+Output,network ranking,MULTIXRANK,1
+Output,network result,MULTIXRANK,1
+Output,networks,"Fluxer, String.db",2
+Output,node lists,RWR,1
+Output,normalized enrichment plots,GSEA,1
+Output,optimization results,COBRApy,1
+Output,orthologous groups,eggNOG-mapper,1
+Output,patient clusters,SNF,1
+Output,pictures,"Fluxer, GSEA",2
+Output,propagation profiles,RWR,1
+Output,ranked gene lists,GSEA,1
+Output,ranked node lists,"MULTIXRANK, RWR",2
+Output,results of simulations,COBRApy,1
+Output,scores,MULTIXRANK,1
+Output,similarity matrices,SNF,1
+Output,subnetwork modules,RWR,1
+Output,table containing multiple annotations for each gene or protein,eggNOG-mapper,1
+Output,taxonomic assignments,eggNOG-mapper,1
+Output,visualizations,Fluxer,1

@@ -1,0 +1,69 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+Anvi’o, MetaBAT2, mOTUs	bam	BAM	Yes			Yes	No	No	http://edamontology.org/format_2572	
+Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2	fasta	FASTA	Yes			Yes	No	No	http://edamontology.org/format_1929	
+Anvi’o, Kraken2, MEGAHIT, mOTUs	fastq	FASTQ	Yes			Yes	No	No	http://edamontology.org/format_1930	
+Anvi’o, Kraken2	html	HTML	Yes			Yes	No	No	http://edamontology.org/format_2331	
+Anvi’o	jpeg	JPEG	Yes			Yes	No	No	http://edamontology.org/format_3579	
+Anvi’o, GTDB-Tk	json	JSON	Yes			Yes	No	No	http://edamontology.org/format_3464	
+Anvi’o, GTDB-Tk	newick	newick	Yes			Yes	No	No	http://edamontology.org/format_1910	
+Anvi’o	png	PNG	Yes			Yes	No	No	http://edamontology.org/format_3603	
+Anvi’o	svg	SVG	Yes			Yes	No	No	http://edamontology.org/format_3604	
+Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MetaBAT2, checkM2, mOTUs	tsv	TSV	Yes			Yes	No	No	http://edamontology.org/format_3475	
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		
+						No	No	No		

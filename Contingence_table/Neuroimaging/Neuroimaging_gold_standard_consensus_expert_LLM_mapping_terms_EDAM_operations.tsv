@@ -1,0 +1,72 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+FSL	functional connectivity analysis	Network analysis	Yes				No	Yes	No	http://edamontology.org/operation_3927	
+AFNI, FSL, SPM	group statistical analysis	Statistical calculation	Yes				No	No	No	http://edamontology.org/operation_2238	
+Freesurfer	morphometry analysis	Image analysis	Yes				No	Yes	No	http://edamontology.org/operation_3443	
+AFNI, FMRIprep, FSL, SPM	preprocessing	Standardisation and normalisation	No	Preprocessing			No	Yes	No	http://edamontology.org/operation_3435	
+AFNI, FSL, SPM	subject statistical analysis	Statistical calculation	Yes				No	Yes	No	http://edamontology.org/operation_2238	
+Freesurfer	surface modelling	Structure visualisation	No	Surface reconstruction			No	Yes	No	http://edamontology.org/operation_0570	
+FSL, Freesurfer	tractography	Medical imaging	Yes				No	Yes	No	http://edamontology.org/topic_3384	topic not an operation
+AFNI, FMRIprep, FSL, SPM	visualization	Visualisation	Yes				Yes	No	No	http://edamontology.org/operation_0337	
+AFNI	voxel-wise regression analysis	Regression analysis	Yes				No	Yes	No	http://edamontology.org/operation_3659	
+Freesurfer	whole-brain analysis	Neurobiology	Yes	Whole brain segmentation			No	Yes	No	http://edamontology.org/topic_3304	topic not an operation
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		
+							No	No	No		

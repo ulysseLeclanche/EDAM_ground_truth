@@ -1,0 +1,6 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	Commentaire expert 3	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+MAFFT	.tree	Phylogenetic tree format	Yes	Mafft ne gère pas des arbres phylogenetiques	Mafft peut générer l' arbre guidé en format  .tree , j'aurais donc dis OUI 		No	Yes	No	http://edamontology.org/format_2006	
+MAFFT	clustal	clustal	Yes	Pas sûr ici	les formats de sortie sont Pearson/fatsa et clustalw , donc oui		Yes	No	No	http://edamontology.org/format_1424	
+MAFFT	fasta	fasta	Yes		ok 		Yes	No	No	http://edamontology.org/format_1929	
+FastME, PhyML	newick	newick	Yes		ok 		Yes	No	No	http://edamontology.org/format_1910	
+FastME, PhyML	phylip	phylip	Yes		ok 		Yes	No	No	http://edamontology.org/format_1435	

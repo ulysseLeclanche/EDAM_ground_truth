@@ -1,0 +1,20 @@
+tools,annotation
+Samtools_index,bai
+"STAR, Samtools_index, Sniffles2, htseq-count",bam
+"Bedtools_annotate, Sniffles2",bed
+Samtools_index,crai
+Samtools_index,cram
+Samtools_index,csi
+"ClusterProfiler, deseq2",dsv
+"Canu, Minimap2, STAR, Sniffles2, bwa",fasta
+"Canu, Minimap2, STAR, bwa",fastq
+Canu,gfa
+"Bedtools_annotate, htseq-count",gff
+"STAR, htseq-count",gtf
+ClusterProfiler,image format
+Minimap2,mmi
+Minimap2,paf
+"Minimap2, STAR, Samtools_index, bwa, htseq-count",sam
+Sniffles2,snf
+htseq-count,tsv
+"Bedtools_annotate, Sniffles2",vcf

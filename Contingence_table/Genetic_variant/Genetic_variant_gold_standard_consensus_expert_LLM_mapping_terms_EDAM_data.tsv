@@ -1,0 +1,29 @@
+tools	annotation	candidate EDAM term label	Validation expert	Commentaire expert 1	Commentaire expert 2	hasExactmatch	hasBroader	hasNarrower	 EDAM term URI	Comment
+STAR, Samtools_index, Sniffles2, bwa	alignment file	Sequence alignment	Yes	We suggest narrower term: http://edamontology.org/data_0863		No	No	Yes	http://edamontology.org/data_0863	
+htseq-count	alignments sequence	Sequence alignment	Yes	We suggest broader term: http://edamontology.org/data_0863		No	Yes	No	http://edamontology.org/data_0863	
+Bedtools_annotate	annotated intervals	Annotation track	Yes			No	Yes	No	http://edamontology.org/data_3002	
+Bedtools_annotate	annotation tracks	Annotation track	Yes			Yes	No	No	http://edamontology.org/data_3002	
+Canu	assembled contigs	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/data_0925	
+Canu	assembled scaffolds	Sequence assembly	Yes			No	Yes	No	http://edamontology.org/data_0925	
+Bedtools_annotate	coverage statistics	Sequence assembly report	Yes			No	Yes	No	http://edamontology.org/data_3181	
+ClusterProfiler, deseq2	differential expression results	Differential gene expression profiling	No	No mapping found for statistical results.		No	No	Yes	http://edamontology.org/operation_3223	operation not a data
+ClusterProfiler	enrichment results	Enrichment report	Yes	Should be: http://edamontology.org/data_3753 . The below terms also apply		No	Yes	No	http://edamontology.org/data_3753	
+deseq2	experimental design metadata	Sample annotation	Yes	Should be: http://edamontology.org/data_3113		No	Yes	No	http://edamontology.org/data_3113	
+deseq2, htseq-count	expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112	
+STAR, htseq-count	gene annotation	Gene annotation	Yes			Yes	No	No	http://edamontology.org/data_0916	
+ClusterProfiler	gene lists	Gene ID	No	No mapping found for statistical results. Same as line 9.The file is a list of genes associated to statistical results, so it's not only gene ids.		No	Yes	No	http://edamontology.org/data_2295	
+Bedtools_annotate	genomic features	Nucleic acid features	Yes			No	Yes	No	http://edamontology.org/data_1276	
+Samtools_index	index alignment file	Genome index	Yes	Should be: http://edamontology.org/data_3210		No	Yes	No	http://edamontology.org/data_3210	
+deseq2	normalize expression matrix	Gene expression matrix	Yes			No	No	Yes	http://edamontology.org/data_3112	
+ClusterProfiler	ontology datasets	Ontology data	Yes			No	Yes	No	http://edamontology.org/data_2353	
+Canu	raw long sequencing reads	Sequence trace	Yes	The naming "trace" is surprising to us, but the edam term definition fits.		No	Yes	No	http://edamontology.org/data_0924	
+Minimap2	raw reads	Sequence trace	Yes	The naming "trace" is surprising to us, but the edam term definition fits.		No	Yes	No	http://edamontology.org/data_0924	
+STAR	raw sequencing reads	Sequence trace	Yes	The naming "trace" is surprising to us, but the edam term definition fits.		No	Yes	No	http://edamontology.org/data_0924	
+Minimap2, STAR, Sniffles2, bwa	reference genome	RH scores	Yes	More specific: http://edamontology.org/data_0925		No	Yes	No	http://edamontology.org/data_0926	
+Minimap2	reference reads	Sequence set (nucleic acid)	Yes	More specific: http://edamontology.org/data_1234		No	Yes	No	http://edamontology.org/data_1234	
+Minimap2	sequence alignment formats	Sequence alignment	Yes	We suggest: http://edamontology.org/data_0863		No	Yes	No	http://edamontology.org/data_0863	
+Bedtools_annotate	sequence variants	Sequence variations	Yes			No	Yes	No	http://edamontology.org/data_3498	
+bwa	short sequencing reads	Sequence trace	Yes	The naming "trace" is surprising to us, but the edam term definition fits.		No	Yes	No	http://edamontology.org/data_0924	
+Sniffles2	structural sequence variants	Sequence variations	Yes			No	Yes	No	http://edamontology.org/data_3498	
+Canu	unassembled corrected reads	Sequence set (nucleic acid)	Yes	The corrected reads is not what the sequencing machine produces. We suggest: http://edamontology.org/data_1234		No	Yes	No	http://edamontology.org/data_1234	
+ClusterProfiler	visualizations	Visualisation	Yes			Yes	No	No	http://edamontology.org/operation_0337	operation not a data

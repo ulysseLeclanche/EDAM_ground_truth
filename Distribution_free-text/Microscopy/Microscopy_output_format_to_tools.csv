@@ -1,0 +1,9 @@
+annotation,tools,tool_count
+csv,EcClem,1
+image format,"Big-FISH, EcClem, deconvolutionLab2",3
+imagej rois,CellPose,1
+model cellpose,CellPose,1
+npy,CellPose,1
+png,CellPose,1
+txt,Big-FISH,1
+xml,EcClem,1

@@ -1,0 +1,7 @@
+annotation,tools,tool_count
+distance matrix,FastME,1
+multiple sequence alignment,PhyML,1
+multiple sequences alignment msa,FastME,1
+multiple-sequence file,MAFFT,1
+sequence evolution model,PhyML,1
+substitution model,FastME,1

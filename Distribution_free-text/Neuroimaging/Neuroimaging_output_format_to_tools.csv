@@ -1,0 +1,24 @@
+annotation,tools,tool_count
+annot,Freesurfer,1
+bfloat,Freesurfer,1
+brik/head,AFNI,1
+bshort,Freesurfer,1
+cor,Freesurfer,1
+curv,Freesurfer,1
+dat,Freesurfer,1
+gca,Freesurfer,1
+gcs,Freesurfer,1
+html,"FMRIprep, FSL",2
+jpeg,SPM,1
+m3d,Freesurfer,1
+mat,SPM,1
+mgh,Freesurfer,1
+mgz,Freesurfer,1
+nifti,"AFNI, FMRIprep, FSL, SPM",4
+nifti.gz,FSL,1
+patch,Freesurfer,1
+pdf,SPM,1
+ps,SPM,1
+surface,Freesurfer,1
+tsv,FMRIprep,1
+xfm,Freesurfer,1

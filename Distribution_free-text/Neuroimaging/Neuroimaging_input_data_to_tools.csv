@@ -1,0 +1,8 @@
+annotation,tools,tool_count
+anatomical mri,"AFNI, FSL, Freesurfer, SPM",4
+diffusion mri,"FSL, Freesurfer",2
+eeg,SPM,1
+fmri,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5
+meg,SPM,1
+pet,"Freesurfer, SPM",2
+spect,SPM,1
