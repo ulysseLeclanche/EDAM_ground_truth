@@ -1,7 +1,7 @@
 {
   "tools#1": {
     "name": "CarveMe",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "metabolic networks",
@@ -42,7 +42,7 @@
   },
   "tools#2": {
     "name": "CarveMe",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "metabolic modelling",
@@ -74,7 +74,7 @@
   },
   "tools#3": {
     "name": "CarveMe",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition expert",
     "topic": [
       "metabolic modelling",
@@ -106,7 +106,7 @@
   },
   "tools#4": {
     "name": "CarveMe",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "genome-scale metabolic modeling",
@@ -145,7 +145,7 @@
   },
   "tools#5": {
     "name": "COBRApy",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "metabolic modelling",
@@ -192,7 +192,7 @@
   },
   "tools#6": {
     "name": "COBRApy",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "metabolic modelling",
@@ -227,7 +227,7 @@
   },
   "tools#7": {
     "name": "COBRApy",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition expert",
     "topic": [
       "metabolic modelling",
@@ -261,7 +261,7 @@
   },
   "tools#8": {
     "name": "COBRApy",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "constraint-based modeling",
@@ -301,7 +301,7 @@
   },
   "tools#9": {
     "name": "Cytoscape",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "network biology",
@@ -365,7 +365,7 @@
   },
   "tools#10": {
     "name": "Cytoscape",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "network visualisation",
@@ -419,7 +419,7 @@
   },
   "tools#11": {
     "name": "Cytoscape",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition expert",
     "topic": [
       "network visualisation",
@@ -473,7 +473,7 @@
   },
   "tools#12": {
     "name": "Cytoscape",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "network biology",
@@ -526,7 +526,7 @@
   },
   "tools#13": {
     "name": "eggNOG-mapper",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "functional annotation of proteins",
@@ -565,7 +565,7 @@
   },
   "tools#14": {
     "name": "eggNOG-mapper",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "functional annotation of proteins"
@@ -589,7 +589,7 @@
   },
   "tools#15": {
     "name": "eggNOG-mapper",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition expert",
     "topic": [
       "functional annotation of proteins"
@@ -613,7 +613,7 @@
   },
   "tools#16": {
     "name": "eggNOG-mapper",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "functional genomics",
@@ -651,7 +651,7 @@
   },
   "tools#17": {
     "name": "Fluxer",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "systems biology",
@@ -693,7 +693,7 @@
   },
   "tools#18": {
     "name": "Fluxer",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "systems biology",
@@ -724,7 +724,7 @@
   },
   "tools#19": {
     "name": "Fluxer",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metabolic flux analysis",
@@ -763,7 +763,7 @@
   },
   "tools#20": {
     "name": "GSEA",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "functional annotation",
@@ -819,7 +819,7 @@
   },
   "tools#21": {
     "name": "GSEA",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "functional annotation"
@@ -850,7 +850,7 @@
   },
   "tools#22": {
     "name": "GSEA",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "transcriptomics",
@@ -897,7 +897,7 @@
   },
   "tools#23": {
     "name": "MOFA2",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "multi-omics data integration",
@@ -933,7 +933,7 @@
   },
   "tools#24": {
     "name": "MOFA2",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "multi-omics data integration",
@@ -966,7 +966,7 @@
   },
   "tools#25": {
     "name": "MOFA2",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "multi-omics integration",
@@ -1008,7 +1008,7 @@
   },
   "tools#26": {
     "name": "MULTIXRANK",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "network exploration",
@@ -1053,7 +1053,7 @@
   },
   "tools#27": {
     "name": "MULTIXRANK",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "network exploration",
@@ -1083,7 +1083,7 @@
   },
   "tools#28": {
     "name": "MULTIXRANK",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "network biology",
@@ -1123,7 +1123,7 @@
   },
   "tools#29": {
     "name": "RWR",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "network exploration",
@@ -1170,7 +1170,7 @@
   },
   "tools#30": {
     "name": "RWR",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "network exploration",
@@ -1197,7 +1197,7 @@
   },
   "tools#31": {
     "name": "RWR",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "network propagation",
@@ -1242,7 +1242,7 @@
   },
   "tools#32": {
     "name": "SNF",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "network analysis",
@@ -1286,7 +1286,7 @@
   },
   "tools#33": {
     "name": "SNF",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "network analysis",
@@ -1317,7 +1317,7 @@
   },
   "tools#34": {
     "name": "SNF",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "multi-omics integration",
@@ -1354,7 +1354,7 @@
   },
   "tools#35": {
     "name": "String.db",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert LLM",
     "topic": [
       "protein-protein interaction networks",
@@ -1405,7 +1405,7 @@
   },
   "tools#36": {
     "name": "String.db",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "Consensus expert",
     "topic": [
       "protein-protein interaction networks",
@@ -1438,7 +1438,7 @@
   },
   "tools#37": {
     "name": "String.db",
-    "discipline": "Microscopy",
+    "discipline": "Systems_biology",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "protein-protein interactions",

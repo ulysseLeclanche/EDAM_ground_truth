@@ -1,0 +1,94 @@
+io_type,annotation,tools,tool_count
+Input,alignment file,"Samtools_index, Sniffles2",2
+Input,alignments sequence,htseq-count,1
+Input,annotation tracks,Bedtools_annotate,1
+Input,differential expression results,ClusterProfiler,1
+Input,experimental design metadata,deseq2,1
+Input,expression matrix,deseq2,1
+Input,gene annotation,"STAR, htseq-count",2
+Input,gene lists,ClusterProfiler,1
+Input,genomic features,Bedtools_annotate,1
+Input,ontology datasets,ClusterProfiler,1
+Input,raw long sequencing reads,Canu,1
+Input,raw reads,Minimap2,1
+Input,raw sequencing reads,STAR,1
+Input,reference genome,"Minimap2, STAR, Sniffles2, bwa",4
+Input,reference reads,Minimap2,1
+Input,sequence variants,Bedtools_annotate,1
+Input,short sequencing reads,bwa,1
+Input_format,bam,"Samtools_index, Sniffles2, htseq-count",3
+Input_format,bed,"Bedtools_annotate, Sniffles2",2
+Input_format,cram,Samtools_index,1
+Input_format,dsv,"ClusterProfiler, deseq2",2
+Input_format,fasta,"Canu, Minimap2, STAR, Sniffles2, bwa",5
+Input_format,fastq,"Canu, Minimap2, STAR, bwa",4
+Input_format,gff,"Bedtools_annotate, htseq-count",2
+Input_format,gtf,"STAR, htseq-count",2
+Input_format,mmi,Minimap2,1
+Input_format,sam,"Samtools_index, htseq-count",2
+Input_format,vcf,Bedtools_annotate,1
+Operation,alignment of dna sequencing to reference sequence (or genome),bwa,1
+Operation,alignment of long reads to reference sequence (or genome),Minimap2,1
+Operation,alignment of rna sequencing to reference sequence (or genome),STAR,1
+Operation,biological theme comparison,ClusterProfiler,1
+Operation,contig assembly,Canu,1
+Operation,counting reads in features,htseq-count,1
+Operation,data visualization,ClusterProfiler,1
+Operation,detection of structural variants from long reads,Sniffles2,1
+Operation,gene set enrichment analysis,ClusterProfiler,1
+Operation,genomic interval annotation,Bedtools_annotate,1
+Operation,id conversion,ClusterProfiler,1
+Operation,indexing alignment file,Samtools_index,1
+Operation,normalization of expression matrix,deseq2,1
+Operation,over-representation analysis,ClusterProfiler,1
+Operation,read correction,Canu,1
+Operation,read mapping,STAR,1
+Operation,read trimming,Canu,1
+Operation,semantic similarity analysis,ClusterProfiler,1
+Operation,statistical differential gene expression detection,deseq2,1
+Output,alignment file,"STAR, bwa",2
+Output,annotated intervals,Bedtools_annotate,1
+Output,assembled contigs,Canu,1
+Output,assembled scaffolds,Canu,1
+Output,coverage statistics,Bedtools_annotate,1
+Output,differential expression results,deseq2,1
+Output,enrichment results,ClusterProfiler,1
+Output,expression matrix,htseq-count,1
+Output,index alignment file,Samtools_index,1
+Output,normalize expression matrix,deseq2,1
+Output,sequence alignment formats,Minimap2,1
+Output,structural sequence variants,Sniffles2,1
+Output,unassembled corrected reads,Canu,1
+Output,visualizations,ClusterProfiler,1
+Output_format,bai,Samtools_index,1
+Output_format,bam,STAR,1
+Output_format,bed,Bedtools_annotate,1
+Output_format,crai,Samtools_index,1
+Output_format,csi,Samtools_index,1
+Output_format,dsv,"ClusterProfiler, deseq2",2
+Output_format,fasta,Canu,1
+Output_format,fastq,Canu,1
+Output_format,gfa,Canu,1
+Output_format,gff,Bedtools_annotate,1
+Output_format,image format,ClusterProfiler,1
+Output_format,paf,Minimap2,1
+Output_format,sam,"Minimap2, STAR, bwa",3
+Output_format,snf,Sniffles2,1
+Output_format,tsv,htseq-count,1
+Output_format,vcf,"Bedtools_annotate, Sniffles2",2
+Topic,clustering,ClusterProfiler,1
+Topic,condition comparisons,deseq2,1
+Topic,de novo assembly,Canu,1
+Topic,detection of structural variants,Sniffles2,1
+Topic,differential gene expression,deseq2,1
+Topic,dna sequence aligner to reference sequences,Minimap2,1
+Topic,dna sequencing,"Samtools_index, bwa",2
+Topic,enrichment analysis for omics data,ClusterProfiler,1
+Topic,gene expression quantification,htseq-count,1
+Topic,genomic comparaison,Bedtools_annotate,1
+Topic,long read data processing,Canu,1
+Topic,rna sequence aligner to reference sequences,Minimap2,1
+Topic,rna sequencing,"STAR, deseq2, htseq-count",3
+Topic,rna-seq,deseq2,1
+Topic,sequence alignment,"STAR, Samtools_index, bwa",3
+Topic,visualization of enrichment data,ClusterProfiler,1

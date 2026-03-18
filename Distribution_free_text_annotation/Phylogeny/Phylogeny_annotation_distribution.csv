@@ -1,0 +1,35 @@
+io_type,annotation,tools,tool_count
+Input,distance matrix,FastME,1
+Input,multiple sequence alignment,PhyML,1
+Input,multiple sequences alignment msa,FastME,1
+Input,multiple-sequence file,MAFFT,1
+Input,sequence evolution model,PhyML,1
+Input,substitution model,FastME,1
+Input_format,fasta,MAFFT,1
+Input_format,newick,FastME,1
+Input_format,phylip,"FastME, PhyML",2
+Operation,distance matrix computation,FastME,1
+Operation,fft,MAFFT,1
+Operation,global multiple sequence alignment,MAFFT,1
+Operation,maximum-likelihood tree inference,PhyML,1
+Operation,minimum evolution (me),FastME,1
+Operation,progressive alignment,MAFFT,1
+Operation,topological optimization,FastME,1
+Operation,tree inference,"FastME, PhyML",2
+Output,distance matrix,FastME,1
+Output,multiple-sequence alignment file,MAFFT,1
+Output,phylogenetic trees with support values,FastME,1
+Output,phylogeny trees with support values,PhyML,1
+Output_format,.tree,MAFFT,1
+Output_format,clustal,MAFFT,1
+Output_format,fasta,MAFFT,1
+Output_format,newick,"FastME, PhyML",2
+Output_format,phylip,FastME,1
+Topic,comparative genomics,MAFFT,1
+Topic,distanced-based phylogenetics,FastME,1
+Topic,likelihood-based phylogenetics,PhyML,1
+Topic,molecular evolution,"MAFFT, PhyML",2
+Topic,multiple-sequence alignment (msa),MAFFT,1
+Topic,phylogenetics,"FastME, MAFFT, PhyML",3
+Topic,sequence analysis,MAFFT,1
+Topic,sequence annotation,MAFFT,1

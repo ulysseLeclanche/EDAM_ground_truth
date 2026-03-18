@@ -1,6 +1,0 @@
-annotation,tools,tool_count
-.tree,MAFFT,1
-clustal,MAFFT,1
-fasta,MAFFT,1
-newick,"FastME, PhyML",2
-phylip,FastME,1

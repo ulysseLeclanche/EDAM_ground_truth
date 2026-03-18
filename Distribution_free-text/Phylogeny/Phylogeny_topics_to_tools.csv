@@ -1,9 +1,0 @@
-annotation,tools,tool_count
-comparative genomics,MAFFT,1
-distanced-based phylogenetics,FastME,1
-likelihood-based phylogenetics,PhyML,1
-molecular evolution,"MAFFT, PhyML",2
-multiple-sequence alignment (msa),MAFFT,1
-phylogenetics,"FastME, MAFFT, PhyML",3
-sequence analysis,MAFFT,1
-sequence annotation,MAFFT,1

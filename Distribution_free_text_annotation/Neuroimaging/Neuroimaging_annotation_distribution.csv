@@ -1,0 +1,66 @@
+io_type,annotation,tools,tool_count
+Input,anatomical mri,"AFNI, FSL, Freesurfer, SPM",4
+Input,diffusion mri,"FSL, Freesurfer",2
+Input,eeg,SPM,1
+Input,fmri,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5
+Input,meg,SPM,1
+Input,pet,"Freesurfer, SPM",2
+Input,spect,SPM,1
+Input_format,bids,FMRIprep,1
+Input_format,brik/head,AFNI,1
+Input_format,dicom,"Freesurfer, SPM",2
+Input_format,nifti,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5
+Input_format,nifti.gz,FSL,1
+Operation,functional connectivity analysis,FSL,1
+Operation,group statistical analysis,"AFNI, FSL, SPM",3
+Operation,morphometry analysis,Freesurfer,1
+Operation,preprocessing,"AFNI, FMRIprep, FSL, SPM",4
+Operation,subject statistical analysis,"AFNI, FSL, SPM",3
+Operation,surface modelling,Freesurfer,1
+Operation,tractography,"FSL, Freesurfer",2
+Operation,visualization,"AFNI, FMRIprep, FSL, SPM",4
+Operation,voxel-wise regression analysis,AFNI,1
+Operation,whole-brain analysis,Freesurfer,1
+Output,cortical parcellations,Freesurfer,1
+Output,parametric modulation maps,AFNI,1
+Output,preprocessed data,"FSL, SPM",2
+Output,preprocessed fmri,FMRIprep,1
+Output,reports,"FMRIprep, FSL",2
+Output,results reports,SPM,1
+Output,statistical maps,FSL,1
+Output,statistical parametric maps,SPM,1
+Output,surface maps,Freesurfer,1
+Output,volumetric segmentation,Freesurfer,1
+Output_format,annot,Freesurfer,1
+Output_format,bfloat,Freesurfer,1
+Output_format,brik/head,AFNI,1
+Output_format,bshort,Freesurfer,1
+Output_format,cor,Freesurfer,1
+Output_format,curv,Freesurfer,1
+Output_format,dat,Freesurfer,1
+Output_format,gca,Freesurfer,1
+Output_format,gcs,Freesurfer,1
+Output_format,html,"FMRIprep, FSL",2
+Output_format,jpeg,SPM,1
+Output_format,m3d,Freesurfer,1
+Output_format,mat,SPM,1
+Output_format,mgh,Freesurfer,1
+Output_format,mgz,Freesurfer,1
+Output_format,nifti,"AFNI, FMRIprep, FSL, SPM",4
+Output_format,nifti.gz,FSL,1
+Output_format,patch,Freesurfer,1
+Output_format,pdf,SPM,1
+Output_format,ps,SPM,1
+Output_format,surface,Freesurfer,1
+Output_format,tsv,FMRIprep,1
+Output_format,xfm,Freesurfer,1
+Topic,anatomical mri processing,"AFNI, FSL, SPM",3
+Topic,bids apps,FMRIprep,1
+Topic,brain imaging,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5
+Topic,diffusion mri tractography,"FSL, Freesurfer",2
+Topic,eeg analysis,SPM,1
+Topic,fmri analysis,"AFNI, FSL, SPM",3
+Topic,fmri preprocessing,FMRIprep,1
+Topic,fmri surface analysis,Freesurfer,1
+Topic,meg analysis,SPM,1
+Topic,neuroimaging,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5

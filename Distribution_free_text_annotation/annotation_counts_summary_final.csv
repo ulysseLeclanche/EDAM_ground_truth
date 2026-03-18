@@ -1,0 +1,10 @@
+,Data,Format,Topic,Operation,Number of tools
+Metagenomic,24,10,15,25,8
+Neuroimaging,17,25,10,10,5
+Phylogeny,9,5,8,8,3
+Single_Cell,20,11,4,14,3
+Systems_biology,76,44,49,65,11
+Genetic_variant,28,19,16,19,11
+Microscopy,17,14,9,14,5
+Total,191,128,111,155,45
+Unique_all_domains,184,97,105,146,45

@@ -1,7 +1,7 @@
 {
   "tools#1": {
     "name": "SPM",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert LLM",
     "topic": [
       "brain imaging",
@@ -44,7 +44,7 @@
   },
   "tools#2": {
     "name": "SPM",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert",
     "topic": [
       "brain imaging",
@@ -85,7 +85,48 @@
   },
   "tools#3": {
     "name": "SPM",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
+    "source": "proposition expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "functional & anatomical mri preprocesing"
+    ],
+    "operation": [
+      "prepreprocesing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "pet",
+      "spect",
+      "eeg",
+      "meg"
+    ],
+    "output data": [
+      "statistical parametric maps",
+      "preprocessed data",
+      "results reports"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "nifti",
+      "mat",
+      "pdf",
+      "jpeg",
+      "ps"
+    ]
+  },
+  "tools#4": {
+    "name": "SPM",
+    "discipline": "Neuroimaging",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "functional neuroimaging",
@@ -124,9 +165,9 @@
       "nifti"
     ]
   },
-  "tools#4": {
+  "tools#5": {
     "name": "FSL",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert LLM",
     "topic": [
       "brain imaging",
@@ -163,9 +204,9 @@
       "html"
     ]
   },
-  "tools#5": {
+  "tools#6": {
     "name": "FSL",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert",
     "topic": [
       "brain imaging",
@@ -200,9 +241,46 @@
       "html"
     ]
   },
-  "tools#6": {
+  "tools#7": {
     "name": "FSL",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
+    "source": "proposition expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "functional & anatomical mri preprocesing",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "prepreprocesing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri"
+    ],
+    "output data": [
+      "statistical maps",
+      "preprocessed data",
+      "reports"
+    ],
+    "input format": [
+      "nifti",
+      "nifti.gz"
+    ],
+    "output format": [
+      "nifti",
+      "nifti.gz",
+      "html"
+    ]
+  },
+  "tools#8": {
+    "name": "FSL",
+    "discipline": "Neuroimaging",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "magnetic resonance imaging",
@@ -237,9 +315,9 @@
       "nifti"
     ]
   },
-  "tools#7": {
+  "tools#9": {
     "name": "AFNI",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert LLM",
     "topic": [
       "brain imaging",
@@ -270,9 +348,9 @@
       "brik/head"
     ]
   },
-  "tools#8": {
+  "tools#10": {
     "name": "AFNI",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert",
     "topic": [
       "brain imaging",
@@ -302,9 +380,41 @@
       "brik/head"
     ]
   },
-  "tools#9": {
+  "tools#11": {
     "name": "AFNI",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
+    "source": "proposition expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri analysis",
+      "functional & anatomical mri preprocesing"
+    ],
+    "operation": [
+      "preprocessing",
+      "subject statistical analysis",
+      "group statistical analysis",
+      "visualization"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri"
+    ],
+    "output data": [
+      "parametric modulation maps"
+    ],
+    "input format": [
+      "nifti",
+      "brik/head"
+    ],
+    "output format": [
+      "nifti",
+      "brik/head"
+    ]
+  },
+  "tools#12": {
+    "name": "AFNI",
+    "discipline": "Neuroimaging",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "functional neuroimaging",
@@ -337,9 +447,9 @@
       "nifti"
     ]
   },
-  "tools#10": {
+  "tools#13": {
     "name": "Freesurfer",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert LLM",
     "topic": [
       "brain imaging",
@@ -385,9 +495,9 @@
       "m3d"
     ]
   },
-  "tools#11": {
+  "tools#14": {
     "name": "Freesurfer",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert",
     "topic": [
       "brain imaging",
@@ -434,9 +544,58 @@
       "m3d"
     ]
   },
-  "tools#12": {
+  "tools#15": {
     "name": "Freesurfer",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
+    "source": "proposition expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri surface analysis",
+      "diffusion mri tractography"
+    ],
+    "operation": [
+      "surface modelling",
+      "morphometry analysis",
+      "tractography",
+      "whole-brain analysis"
+    ],
+    "input data": [
+      "fmri",
+      "anatomical mri",
+      "diffusion mri",
+      "pet"
+    ],
+    "output data": [
+      "surface maps",
+      "cortical parcellations",
+      "volumetric segmentation"
+    ],
+    "input format": [
+      "nifti",
+      "dicom"
+    ],
+    "output format": [
+      "mgh",
+      "mgz",
+      "gca",
+      "bshort",
+      "bfloat",
+      "cor",
+      "surface",
+      "curv",
+      "w",
+      "annot",
+      "patch",
+      "gcs",
+      "dat",
+      "xfm",
+      "m3d"
+    ]
+  },
+  "tools#16": {
+    "name": "Freesurfer",
+    "discipline": "Neuroimaging",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "cortical reconstruction",
@@ -471,9 +630,9 @@
       "annotation files"
     ]
   },
-  "tools#13": {
+  "tools#17": {
     "name": "FMRIprep",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert LLM",
     "topic": [
       "brain imaging",
@@ -502,9 +661,9 @@
       "html"
     ]
   },
-  "tools#14": {
+  "tools#18": {
     "name": "FMRIprep",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
     "source": "Consensus expert",
     "topic": [
       "brain imaging",
@@ -529,9 +688,36 @@
       "nifti"
     ]
   },
-  "tools#15": {
+  "tools#19": {
     "name": "FMRIprep",
-    "discipline": "Microscopy",
+    "discipline": "Neuroimaging",
+    "source": "proposition expert",
+    "topic": [
+      "brain imaging",
+      "neuroimaging",
+      "fmri preprocessing"
+    ],
+    "operation": [
+      "preprocessing",
+      "visualization"
+    ],
+    "input data": [
+      "fmri"
+    ],
+    "output data": [
+      "preprocessed fmri"
+    ],
+    "input format": [
+      "nifti",
+      "bids"
+    ],
+    "output format": [
+      "nifti"
+    ]
+  },
+  "tools#20": {
+    "name": "FMRIprep",
+    "discipline": "Neuroimaging",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "functional mri preprocessing",

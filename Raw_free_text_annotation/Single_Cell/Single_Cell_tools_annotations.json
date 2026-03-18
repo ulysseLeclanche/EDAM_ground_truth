@@ -1,7 +1,7 @@
 {
   "tools#1": {
     "name": "Seurat",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "Consensus expert LLM",
     "topic": [
       "single-cell genomic",
@@ -52,7 +52,7 @@
   },
   "tools#2": {
     "name": "Seurat",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "Consensus expert",
     "topic": [
       "single-cell genomic"
@@ -98,7 +98,75 @@
   },
   "tools#3": {
     "name": "Seurat",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
+    "source": "proposition expert",
+    "topic": [
+      "rna-seq data analysis"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "deg",
+      "visualization"
+    ],
+    "input data": [
+      "raw count matrix and meta data"
+    ],
+    "output data": [
+      "seurat object and plots"
+    ],
+    "input format": [],
+    "output format": []
+  },
+  "tools#4": {
+    "name": "Seurat",
+    "discipline": "Single_Cell",
+    "source": "proposition expert 1",
+    "topic": [
+      "rna-seq",
+      "sequencing",
+      "single-cell analysis"
+    ],
+    "operation": [
+      "quality control",
+      "statistical calculation",
+      "preprocessing",
+      "nor- malization",
+      "reduction dimensions",
+      "clustering",
+      "visualisations"
+    ],
+    "input data": [
+      "expression matrices",
+      "images",
+      "tables"
+    ],
+    "output data": [
+      "r objects de type s4 de classe objetseurat",
+      "table results",
+      "plots (images)"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv"
+    ]
+  },
+  "tools#5": {
+    "name": "Seurat",
+    "discipline": "Single_Cell",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "single-cell rna-seq",
@@ -140,9 +208,9 @@
       "pdf/png (plots)"
     ]
   },
-  "tools#4": {
+  "tools#6": {
     "name": "Scanpy",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "Consensus expert LLM",
     "topic": [
       "single-cell genomic",
@@ -198,9 +266,9 @@
       "pdf"
     ]
   },
-  "tools#5": {
+  "tools#7": {
     "name": "Scanpy",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "Consensus expert",
     "topic": [
       "single-cell genomic"
@@ -246,9 +314,77 @@
       "hdf5"
     ]
   },
-  "tools#6": {
+  "tools#8": {
     "name": "Scanpy",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
+    "source": "proposition expert",
+    "topic": [
+      "rna-seq data analysis"
+    ],
+    "operation": [
+      "quality controls",
+      "normalization",
+      "dimensionality reduction",
+      "data integration",
+      "clustering",
+      "deg",
+      "visualization"
+    ],
+    "input data": [
+      "raw count matrix and meta data"
+    ],
+    "output data": [
+      "anndata object and plots"
+    ],
+    "input format": [],
+    "output format": []
+  },
+  "tools#9": {
+    "name": "Scanpy",
+    "discipline": "Single_Cell",
+    "source": "proposition expert 1",
+    "topic": [
+      "rna-seq",
+      "sequencing",
+      "single-cell analysis"
+    ],
+    "operation": [
+      "quality control",
+      "statistical calculation",
+      "preprocessing",
+      "normalization",
+      "reduction dimensions",
+      "clustering",
+      "visualisations"
+    ],
+    "input data": [
+      "expression matrices",
+      "images",
+      "tables"
+    ],
+    "output data": [
+      "anndata",
+      "table results",
+      "plots (images)"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv",
+      "tiff"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv"
+    ]
+  },
+  "tools#10": {
+    "name": "Scanpy",
+    "discipline": "Single_Cell",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "single-cell rna-seq",
@@ -289,9 +425,9 @@
       "pdf/png (plots)"
     ]
   },
-  "tools#7": {
+  "tools#11": {
     "name": "Monocle3",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "Consensus expert LLM",
     "topic": [
       "single-cell genomic",
@@ -333,9 +469,72 @@
       "pdf"
     ]
   },
-  "tools#8": {
+  "tools#12": {
     "name": "Monocle3",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
+    "source": "proposition expert",
+    "topic": [
+      "rna-seq data analysis"
+    ],
+    "operation": [
+      "cell trajectories inference"
+    ],
+    "input data": [
+      "seurat object"
+    ],
+    "output data": [
+      "sce monocle object with trajectories",
+      "pseudotime values for the cells"
+    ],
+    "input format": [],
+    "output format": []
+  },
+  "tools#13": {
+    "name": "Monocle3",
+    "discipline": "Single_Cell",
+    "source": "proposition expert 1",
+    "topic": [
+      "rna-seq",
+      "sequencing",
+      "single-cell analysis."
+    ],
+    "operation": [
+      "trajectory inference",
+      "statistical calculation",
+      "quality control",
+      "statistical calculation",
+      "preprocessing",
+      "normalization",
+      "reduction dimen- sions",
+      "clustering",
+      "visualisations"
+    ],
+    "input data": [
+      "expression matrices",
+      "tables"
+    ],
+    "output data": [
+      "r objects de type s4 de classe cell_data_set",
+      "table results",
+      "plots (images)"
+    ],
+    "input format": [
+      "bundle format (mtx)",
+      "csv",
+      "tsv"
+    ],
+    "output format": [
+      "rds",
+      "png",
+      "jpeg",
+      "svg",
+      "csv",
+      "tsv"
+    ]
+  },
+  "tools#14": {
+    "name": "Monocle3",
+    "discipline": "Single_Cell",
     "source": "Consensus expert",
     "topic": [
       "single-cell genomic",
@@ -375,9 +574,9 @@
       "tsv"
     ]
   },
-  "tools#9": {
+  "tools#15": {
     "name": "Monocle3",
-    "discipline": "Microscopy",
+    "discipline": "Single_Cell",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "single-cell rna-seq",

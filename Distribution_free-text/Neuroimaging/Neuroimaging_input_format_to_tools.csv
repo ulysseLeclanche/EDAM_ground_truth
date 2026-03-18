@@ -1,6 +1,0 @@
-annotation,tools,tool_count
-bids,FMRIprep,1
-brik/head,AFNI,1
-dicom,"Freesurfer, SPM",2
-nifti,"AFNI, FMRIprep, FSL, Freesurfer, SPM",5
-nifti.gz,FSL,1

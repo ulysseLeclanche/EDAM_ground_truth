@@ -1,7 +1,7 @@
 {
   "tools#1": {
     "name": "STAR",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "rna sequencing",
@@ -31,7 +31,7 @@
   },
   "tools#2": {
     "name": "STAR",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "rna sequencing",
@@ -60,7 +60,36 @@
   },
   "tools#3": {
     "name": "STAR",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "rna sequencing",
+      "sequence alignment"
+    ],
+    "operation": [
+      "alignment of rna sequencing to reference sequence (or genome)"
+    ],
+    "input data": [
+      "read sequencing",
+      "raw sequences",
+      "reference genome"
+    ],
+    "output data": [
+      "alignment file"
+    ],
+    "input format": [
+      "fastq",
+      "fasta",
+      "gtf"
+    ],
+    "output format": [
+      "bam",
+      "cram"
+    ]
+  },
+  "tools#4": {
+    "name": "STAR",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "rna-seq",
@@ -94,9 +123,9 @@
       "bam"
     ]
   },
-  "tools#4": {
+  "tools#5": {
     "name": "Canu",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "de novo assembly",
@@ -125,9 +154,9 @@
       "gfa"
     ]
   },
-  "tools#5": {
+  "tools#6": {
     "name": "Canu",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "long read data processing",
@@ -154,9 +183,38 @@
       "fasta"
     ]
   },
-  "tools#6": {
+  "tools#7": {
     "name": "Canu",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "long read data processing",
+      "assemble genomes de novo"
+    ],
+    "operation": [
+      "correction of long reads",
+      "trimming of long reads",
+      "assembling of long read"
+    ],
+    "input data": [
+      "raw reads"
+    ],
+    "output data": [
+      "reads self-corrected",
+      "assembly"
+    ],
+    "input format": [
+      "fastq",
+      "fasta"
+    ],
+    "output format": [
+      "fastq",
+      "fasta"
+    ]
+  },
+  "tools#8": {
+    "name": "Canu",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "genome assembly",
@@ -190,9 +248,9 @@
       "tab"
     ]
   },
-  "tools#7": {
+  "tools#9": {
     "name": "deseq2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "differential gene expression",
@@ -219,9 +277,9 @@
       "dsv"
     ]
   },
-  "tools#8": {
+  "tools#10": {
     "name": "deseq2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "differential gene expression",
@@ -245,9 +303,35 @@
       "tsv"
     ]
   },
-  "tools#9": {
+  "tools#11": {
     "name": "deseq2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "differential gene expression",
+      "condition comparisons",
+      "rna sequencing"
+    ],
+    "operation": [
+      "statistical differential gene expression detection",
+      "normalization of expression matrix"
+    ],
+    "input data": [
+      "expression matrix"
+    ],
+    "output data": [
+      "statistical tests of differential gene expression for each gene"
+    ],
+    "input format": [
+      "tsv"
+    ],
+    "output format": [
+      "tsv"
+    ]
+  },
+  "tools#12": {
+    "name": "deseq2",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "rna-seq",
@@ -287,9 +371,9 @@
       "graphics"
     ]
   },
-  "tools#10": {
+  "tools#13": {
     "name": "Minimap2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "dna sequence aligner to reference sequences",
@@ -316,9 +400,9 @@
       "sam"
     ]
   },
-  "tools#11": {
+  "tools#14": {
     "name": "Minimap2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "dna sequence aligner to reference sequences",
@@ -345,9 +429,38 @@
       "sam"
     ]
   },
-  "tools#12": {
+  "tools#15": {
     "name": "Minimap2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "dna sequence aligner to reference sequences",
+      "rna sequence aligner to reference sequences"
+    ],
+    "operation": [
+      "alignment of long reads to reference sequence (or genome)"
+    ],
+    "input data": [
+      "reference genome",
+      "reference reads",
+      "raw reads"
+    ],
+    "output data": [
+      "sequence alignment formats"
+    ],
+    "input format": [
+      "fasta",
+      "fastq",
+      "mmi"
+    ],
+    "output format": [
+      "paf",
+      "sam"
+    ]
+  },
+  "tools#16": {
+    "name": "Minimap2",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "sequence alignment",
@@ -380,9 +493,9 @@
       "paf"
     ]
   },
-  "tools#13": {
+  "tools#17": {
     "name": "bwa",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "dna sequencing",
@@ -406,9 +519,9 @@
       "sam"
     ]
   },
-  "tools#14": {
+  "tools#18": {
     "name": "bwa",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "dna sequencing",
@@ -434,9 +547,37 @@
       "cram"
     ]
   },
-  "tools#15": {
+  "tools#19": {
     "name": "bwa",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "dna sequencing",
+      "sequence alignment"
+    ],
+    "operation": [
+      "alignment of dna sequencing to reference sequence (or genome)"
+    ],
+    "input data": [
+      "read sequencing",
+      "raw sequence"
+    ],
+    "output data": [
+      "alignement file"
+    ],
+    "input format": [
+      "fastq",
+      "fasta"
+    ],
+    "output format": [
+      "sam",
+      "bam",
+      "cram"
+    ]
+  },
+  "tools#20": {
+    "name": "bwa",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "sequence alignment",
@@ -469,9 +610,9 @@
       "cram"
     ]
   },
-  "tools#16": {
+  "tools#21": {
     "name": "Samtools_index",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "dna sequencing",
@@ -497,9 +638,9 @@
       "crai"
     ]
   },
-  "tools#17": {
+  "tools#22": {
     "name": "Samtools_index",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "dna sequencing",
@@ -525,9 +666,37 @@
       "crai"
     ]
   },
-  "tools#18": {
+  "tools#23": {
     "name": "Samtools_index",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "dna sequencing",
+      "sequence alignment"
+    ],
+    "operation": [
+      "indexing alignment file"
+    ],
+    "input data": [
+      "alignment file"
+    ],
+    "output data": [
+      "index alignment file"
+    ],
+    "input format": [
+      "bam",
+      "sam",
+      "cram"
+    ],
+    "output format": [
+      "bai",
+      "csi",
+      "crai"
+    ]
+  },
+  "tools#24": {
+    "name": "Samtools_index",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "sequence analysis",
@@ -559,9 +728,9 @@
       "crai"
     ]
   },
-  "tools#19": {
+  "tools#25": {
     "name": "ClusterProfiler",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "enrichment analysis for omics data",
@@ -593,9 +762,9 @@
       "dsv"
     ]
   },
-  "tools#20": {
+  "tools#26": {
     "name": "ClusterProfiler",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "enrichment analysis for omics data",
@@ -627,9 +796,43 @@
       "tsv"
     ]
   },
-  "tools#21": {
+  "tools#27": {
     "name": "ClusterProfiler",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "enrichment analysis for omics data",
+      "annotation",
+      "clustering",
+      "visualization of enrichment data",
+      "ontology"
+    ],
+    "operation": [
+      "over-representation analysis",
+      "gene set enrichment analysis",
+      "biological theme comparison",
+      "semantic similarity analysis"
+    ],
+    "input data": [
+      "lists of differentially expressed genes"
+    ],
+    "output data": [
+      "reports of enrichment",
+      "annotation",
+      "plots"
+    ],
+    "input format": [
+      "tsv"
+    ],
+    "output format": [
+      "png",
+      "jpeg",
+      "tsv"
+    ]
+  },
+  "tools#28": {
+    "name": "ClusterProfiler",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "functional genomics",
@@ -671,9 +874,9 @@
       "tsv"
     ]
   },
-  "tools#22": {
+  "tools#29": {
     "name": "Sniffles2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "detection of structural variants"
@@ -698,9 +901,9 @@
       "snf"
     ]
   },
-  "tools#23": {
+  "tools#30": {
     "name": "Sniffles2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "detection of structural variants"
@@ -725,9 +928,36 @@
       "snf"
     ]
   },
-  "tools#24": {
+  "tools#31": {
     "name": "Sniffles2",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "detection of structural variants"
+    ],
+    "operation": [
+      "detection of structural variants from long reads",
+      "detection of mosaic variants"
+    ],
+    "input data": [
+      "alignment file"
+    ],
+    "output data": [
+      "catalog structural variants"
+    ],
+    "input format": [
+      "bam",
+      "fasta",
+      "bed"
+    ],
+    "output format": [
+      "vcf",
+      "snf"
+    ]
+  },
+  "tools#32": {
+    "name": "Sniffles2",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "structural variation",
@@ -760,9 +990,9 @@
       "vcf"
     ]
   },
-  "tools#25": {
+  "tools#33": {
     "name": "htseq-count",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "rna sequencing",
@@ -788,9 +1018,9 @@
       "tsv"
     ]
   },
-  "tools#26": {
+  "tools#34": {
     "name": "htseq-count",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "rna sequencing",
@@ -813,9 +1043,34 @@
       "tsv"
     ]
   },
-  "tools#27": {
+  "tools#35": {
     "name": "htseq-count",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "rna sequencing",
+      "gene expression"
+    ],
+    "operation": [
+      "counting reads in features"
+    ],
+    "input data": [
+      "alignments sequence"
+    ],
+    "output data": [
+      "expression matrix"
+    ],
+    "input format": [
+      "bam",
+      "cram"
+    ],
+    "output format": [
+      "tsv"
+    ]
+  },
+  "tools#36": {
+    "name": "htseq-count",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "rna sequencing",
@@ -849,9 +1104,9 @@
       "tsv"
     ]
   },
-  "tools#28": {
+  "tools#37": {
     "name": "Bedtools_annotate",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert LLM",
     "topic": [
       "genomic comparaison"
@@ -879,9 +1134,9 @@
       "gff"
     ]
   },
-  "tools#29": {
+  "tools#38": {
     "name": "Bedtools_annotate",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
     "source": "Consensus expert",
     "topic": [
       "annotation of genome regions"
@@ -908,9 +1163,38 @@
       "gff"
     ]
   },
-  "tools#30": {
+  "tools#39": {
     "name": "Bedtools_annotate",
-    "discipline": "Microscopy",
+    "discipline": "Genetic_variant",
+    "source": "proposition expert",
+    "topic": [
+      "annotation of genome regions"
+    ],
+    "operation": [
+      "annotate"
+    ],
+    "input data": [
+      "catalog variant",
+      "genomic feature"
+    ],
+    "output data": [
+      "coverage annotated file",
+      "overlap annotated file"
+    ],
+    "input format": [
+      "bed",
+      "vcf",
+      "gff"
+    ],
+    "output format": [
+      "bed",
+      "vcf",
+      "gff"
+    ]
+  },
+  "tools#40": {
+    "name": "Bedtools_annotate",
+    "discipline": "Genetic_variant",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "genome analysis",

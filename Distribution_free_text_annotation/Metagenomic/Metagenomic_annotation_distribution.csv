@@ -1,0 +1,80 @@
+io_type,annotation,tools,tool_count
+Input,contigs,"Anvi’o, CONCOCT, MetaBAT2, checkM2",4
+Input,coverage profiles,"CONCOCT, MetaBAT2",2
+Input,functional annotations,Anvi’o,1
+Input,genome,GTDB-Tk,1
+Input,metagenome,GTDB-Tk,1
+Input,raw sequence,Anvi’o,1
+Input,sequence abundance profile,Anvi’o,1
+Input,sequencing reads,"Kraken2, MEGAHIT, mOTUs",3
+Input,taxonomic profiles,Anvi’o,1
+Input,tetranucleotide frequencies,MetaBAT2,1
+Input_format,bam,"Anvi’o, MetaBAT2",2
+Input_format,fasta,"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2, checkM2",6
+Input_format,fastq,"Anvi’o, Kraken2, MEGAHIT, mOTUs",4
+Input_format,json,Anvi’o,1
+Input_format,tsv,"Anvi’o, CONCOCT, MetaBAT2",3
+Operation,abundance and composition integration,MetaBAT2,1
+Operation,abundance profiling,"Kraken2, mOTUs",2
+Operation,activity profiling,mOTUs,1
+Operation,annotation edition,Anvi’o,1
+Operation,assembly,Anvi’o,1
+Operation,binning,"CONCOCT, MetaBAT2",2
+Operation,binning refinement,Anvi’o,1
+Operation,bruijn graph,MEGAHIT,1
+Operation,functional annotation,Anvi’o,1
+Operation,genome annotation,checkM2,1
+Operation,genome assemby,MEGAHIT,1
+Operation,genome completness,checkM2,1
+Operation,genome contamination,checkM2,1
+Operation,genome quality,checkM2,1
+Operation,genomic refining,Anvi’o,1
+Operation,interactive edition,Anvi’o,1
+Operation,interactive visualization,Anvi’o,1
+Operation,metagenomic assembly,MEGAHIT,1
+Operation,phylogenetic inference,GTDB-Tk,1
+Operation,sequence classification,Kraken2,1
+Operation,taxonomic annotation,"Kraken2, checkM2, mOTUs",3
+Operation,taxonomic classification,GTDB-Tk,1
+Operation,taxonomic profiling,Anvi’o,1
+Operation,visualization,mOTUs,1
+Operation,workflow,"Anvi’o, mOTUs",2
+Output,abundance profiling,MetaBAT2,1
+Output,abundance table,"Kraken2, mOTUs",2
+Output,annotated contigs,Anvi’o,1
+Output,bins,"Anvi’o, CONCOCT, MetaBAT2",3
+Output,co-abundance,MetaBAT2,1
+Output,contigs,MEGAHIT,1
+Output,image,Anvi’o,1
+Output,metabolic profiles,Anvi’o,1
+Output,metagenome assembled genomes mags,"CONCOCT, MetaBAT2",2
+Output,phylogenetic tree,"Anvi’o, GTDB-Tk",2
+Output,quality annotation,checkM2,1
+Output,taxonomic annotation,"Kraken2, checkM2, mOTUs",3
+Output,taxonomic labels,GTDB-Tk,1
+Output,tree,Anvi’o,1
+Output,visualizations,Anvi’o,1
+Output_format,bam,mOTUs,1
+Output_format,fasta,"Anvi’o, CONCOCT, GTDB-Tk, MEGAHIT, MetaBAT2",5
+Output_format,html,"Anvi’o, Kraken2",2
+Output_format,jpeg,Anvi’o,1
+Output_format,json,"Anvi’o, GTDB-Tk",2
+Output_format,newick,"Anvi’o, GTDB-Tk",2
+Output_format,png,Anvi’o,1
+Output_format,svg,Anvi’o,1
+Output_format,tsv,"Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MetaBAT2, checkM2, mOTUs",7
+Topic,binning,CONCOCT,1
+Topic,comparative genomics,"Anvi’o, GTDB-Tk",2
+Topic,de novo assembly,MEGAHIT,1
+Topic,functional genomics,Anvi’o,1
+Topic,genome reconstruction,"CONCOCT, MetaBAT2",2
+Topic,metagenomics,"Anvi’o, CONCOCT, GTDB-Tk, Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs",8
+Topic,phylogenomics,GTDB-Tk,1
+Topic,phylogeny,mOTUs,1
+Topic,sequence analysis,"Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs",5
+Topic,sequence assembly,MEGAHIT,1
+Topic,sequencing,"Kraken2, MEGAHIT, MetaBAT2, checkM2, mOTUs",5
+Topic,short reads,MEGAHIT,1
+Topic,taxonomic annotation,checkM2,1
+Topic,taxonomic profiling,"Kraken2, mOTUs",2
+Topic,taxonomy,GTDB-Tk,1

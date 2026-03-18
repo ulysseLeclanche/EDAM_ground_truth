@@ -1,7 +1,7 @@
 {
   "tools#1": {
     "name": "Anvi’o",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -55,7 +55,7 @@
   },
   "tools#2": {
     "name": "Anvi’o",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -99,7 +99,7 @@
   },
   "tools#3": {
     "name": "Anvi’o",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "metagenomics",
@@ -143,7 +143,7 @@
   },
   "tools#4": {
     "name": "Anvi’o",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -186,7 +186,7 @@
   },
   "tools#5": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "sequence assembly",
@@ -217,7 +217,7 @@
   },
   "tools#6": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "sequence assembly",
@@ -246,7 +246,7 @@
   },
   "tools#7": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "sequence assembly",
@@ -280,8 +280,8 @@
   },
   "tools#8": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
-    "source": "proposition expert  1",
+    "discipline": "Metagenomic",
+    "source": "proposition expert 1",
     "topic": [
       "sequence assembly",
       "metagenomics"
@@ -304,7 +304,7 @@
   },
   "tools#9": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert 2",
     "topic": [
       "dna-seq",
@@ -335,7 +335,7 @@
   },
   "tools#10": {
     "name": "MEGAHIT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -364,7 +364,7 @@
   },
   "tools#11": {
     "name": "CONCOCT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -393,7 +393,7 @@
   },
   "tools#12": {
     "name": "CONCOCT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -422,7 +422,7 @@
   },
   "tools#13": {
     "name": "CONCOCT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "metagenomics",
@@ -451,7 +451,7 @@
   },
   "tools#14": {
     "name": "CONCOCT",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -485,7 +485,7 @@
   },
   "tools#15": {
     "name": "GTDB-Tk",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "taxonomy",
@@ -517,7 +517,7 @@
   },
   "tools#16": {
     "name": "GTDB-Tk",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "taxonomy",
@@ -548,7 +548,7 @@
   },
   "tools#17": {
     "name": "GTDB-Tk",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "taxonomy",
@@ -579,7 +579,7 @@
   },
   "tools#18": {
     "name": "GTDB-Tk",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "taxonomy",
@@ -612,7 +612,7 @@
   },
   "tools#19": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "metagenomics",
@@ -647,7 +647,7 @@
   },
   "tools#20": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "metagenomics",
@@ -679,7 +679,7 @@
   },
   "tools#21": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "metagenomics",
@@ -721,8 +721,8 @@
   },
   "tools#22": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
-    "source": "proposition expert   1",
+    "discipline": "Metagenomic",
+    "source": "proposition expert 1",
     "topic": [
       "metagenomics",
       "genome reconstruction",
@@ -752,7 +752,7 @@
   },
   "tools#23": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert 2",
     "topic": [
       "dna-seq",
@@ -786,7 +786,7 @@
   },
   "tools#24": {
     "name": "MetaBAT2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -818,7 +818,7 @@
   },
   "tools#25": {
     "name": "Kraken2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -848,7 +848,7 @@
   },
   "tools#26": {
     "name": "Kraken2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -883,7 +883,7 @@
   },
   "tools#27": {
     "name": "Kraken2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "dna-seq",
@@ -918,7 +918,7 @@
   },
   "tools#28": {
     "name": "Kraken2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -956,7 +956,7 @@
   },
   "tools#29": {
     "name": "mOTUs",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -989,7 +989,7 @@
   },
   "tools#30": {
     "name": "mOTUs",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -1025,7 +1025,7 @@
   },
   "tools#31": {
     "name": "mOTUs",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "dna-seq",
@@ -1060,7 +1060,7 @@
   },
   "tools#32": {
     "name": "mOTUs",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",
@@ -1095,7 +1095,7 @@
   },
   "tools#33": {
     "name": "checkM2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert LLM",
     "topic": [
       "sequencing",
@@ -1126,7 +1126,7 @@
   },
   "tools#34": {
     "name": "checkM2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "Consensus expert",
     "topic": [
       "dna-seq",
@@ -1160,7 +1160,7 @@
   },
   "tools#35": {
     "name": "checkM2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition expert",
     "topic": [
       "dna-seq",
@@ -1194,7 +1194,7 @@
   },
   "tools#36": {
     "name": "checkM2",
-    "discipline": "Microscopy",
+    "discipline": "Metagenomic",
     "source": "proposition DeepSeek-V3.1",
     "topic": [
       "metagenomics",

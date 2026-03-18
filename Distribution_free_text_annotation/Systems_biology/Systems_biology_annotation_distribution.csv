@@ -1,0 +1,251 @@
+io_type,annotation,tools,tool_count
+Input,biological networks,RWR,1
+Input,clinical data,SNF,1
+Input,constraints,COBRApy,1
+Input,edge attribute,Cytoscape,1
+Input,edge weights,"MULTIXRANK, RWR",2
+Input,gene expression matrix,GSEA,1
+Input,gene name,String.db,1
+Input,gene sequences,"CarveMe, eggNOG-mapper",2
+Input,gene sets,GSEA,1
+Input,genome annotations,CarveMe,1
+Input,heterogeneous networks,MULTIXRANK,1
+Input,list of nodes and edges,Cytoscape,1
+Input,metabolic model,"COBRApy, Fluxer",2
+Input,metabolic network/model or nothing if created from scratch,COBRApy,1
+Input,metagenomic contigs,eggNOG-mapper,1
+Input,multi-layer network graphs,MULTIXRANK,1
+Input,multi-omics profiles,SNF,1
+Input,network,"Cytoscape, RWR",2
+Input,network and seed,MULTIXRANK,1
+Input,node attribute,Cytoscape,1
+Input,nucleotide sequences,eggNOG-mapper,1
+Input,objective functions,COBRApy,1
+Input,omics,SNF,1
+Input,omics matrices,MOFA2,1
+Input,organism-specific queries,String.db,1
+Input,paired omics data,MOFA2,1
+Input,protein identifiers,String.db,1
+Input,protein name,String.db,1
+Input,protein sequences,"CarveMe, String.db, eggNOG-mapper",3
+Input,ranked list genes/proteins (with weights) and annotations data (cellular functions/biological processes),GSEA,1
+Input,restart probability,RWR,1
+Input,seed,RWR,1
+Input,seed nodes,"MULTIXRANK, RWR",2
+Input,sequences,String.db,1
+Input,taxonomic information,CarveMe,1
+Input_format,adjacency matrix,RWR,1
+Input_format,api queries,String.db,1
+Input_format,biopax,Cytoscape,1
+Input_format,cls,GSEA,1
+Input_format,csv,"Cytoscape, MULTIXRANK, SNF, String.db",4
+Input_format,edge list,RWR,1
+Input_format,fasta,"CarveMe, String.db, eggNOG-mapper",3
+Input_format,gct,GSEA,1
+Input_format,gml,Cytoscape,1
+Input_format,gmt,"GSEA, MULTIXRANK",2
+Input_format,gmx,GSEA,1
+Input_format,graphml,"Cytoscape, RWR",2
+Input_format,gst,GSEA,1
+Input_format,gzip,eggNOG-mapper,1
+Input_format,json,"COBRApy, MULTIXRANK",2
+Input_format,matlab,COBRApy,1
+Input_format,matrices,MOFA2,1
+Input_format,matrix,SNF,1
+Input_format,r vectors,MOFA2,1
+Input_format,sbml,"COBRApy, CarveMe, Cytoscape, Fluxer",4
+Input_format,seed,RWR,1
+Input_format,sif,"Cytoscape, MULTIXRANK",2
+Input_format,tsv,"Cytoscape, MULTIXRANK, SNF",3
+Input_format,txt,"GSEA, MULTIXRANK, String.db",3
+Input_format,xgmml,Cytoscape,1
+Input_format,xls,Cytoscape,1
+Input_format,yaml,"COBRApy, MULTIXRANK",2
+Operation,annotation of genes and proteins using multiple functional databases,eggNOG-mapper,1
+Operation,app-based extensibility,Cytoscape,1
+Operation,automated model reconstruction,CarveMe,1
+Operation,automation via scripting,Cytoscape,1
+Operation,bayesian inference,MOFA2,1
+Operation,cluster detection,Cytoscape,1
+Operation,clustering,"SNF, String.db",2
+Operation,confidence scoring,String.db,1
+Operation,consensus network building,SNF,1
+Operation,constraint-based simulations such as fba,COBRApy,1
+Operation,construction of networks,Cytoscape,1
+Operation,construction or modification of metabolic models,COBRApy,1
+Operation,creation,String.db,1
+Operation,customizable layout creation,Fluxer,1
+Operation,data integration,Cytoscape,1
+Operation,data retrieval,String.db,1
+Operation,domain prediction,eggNOG-mapper,1
+Operation,draft model generation,CarveMe,1
+Operation,edition of networks,Cytoscape,1
+Operation,enrichment analysis,String.db,1
+Operation,exploration of interaction networks,String.db,1
+Operation,feature weights inspection,MOFA2,1
+Operation,flux balance analysis (fba),Fluxer,1
+Operation,flux diagram rendering,Fluxer,1
+Operation,flux variability analysis,COBRApy,1
+Operation,functional enrichment analysis,GSEA,1
+Operation,fused sample network creation,SNF,1
+Operation,gap-filling,CarveMe,1
+Operation,gap-filling of metabolic models,CarveMe,1
+Operation,gene deletion analysis,COBRApy,1
+Operation,gene set enrichment analysis,GSEA,1
+Operation,gene set scoring,GSEA,1
+Operation,graph metrics,Cytoscape,1
+Operation,graph topology,Cytoscape,1
+Operation,heterogeneous networks,MULTIXRANK,1
+Operation,hierarchical annotation,eggNOG-mapper,1
+Operation,interactive visualization,Fluxer,1
+Operation,joint matrix factorisation,MOFA2,1
+Operation,kernel-based integration,SNF,1
+Operation,large-scale sequence analysis,eggNOG-mapper,1
+Operation,matrix factorization,MOFA2,1
+Operation,metabolic model simulation,Fluxer,1
+Operation,metabolic model visualisation,Fluxer,1
+Operation,metabolic network simulation,COBRApy,1
+Operation,model parsing and manipulation,COBRApy,1
+Operation,multi-omics integration,GSEA,1
+Operation,network construction,String.db,1
+Operation,network exploration,Cytoscape,1
+Operation,network propagation,MULTIXRANK,1
+Operation,network visualization,Cytoscape,1
+Operation,networks fusion,SNF,1
+Operation,optimization,COBRApy,1
+Operation,orthology mapping,eggNOG-mapper,1
+Operation,pathway mapping,Fluxer,1
+Operation,prioritization algorithm,MULTIXRANK,1
+Operation,random walk with restart,"MULTIXRANK, RWR",2
+Operation,rank-based enrichment,GSEA,1
+Operation,reconstruction of metabolic networks,CarveMe,1
+Operation,reduction dimension,MOFA2,1
+Operation,similarity matrices creation,SNF,1
+Operation,similarity networks creation,SNF,1
+Operation,single-sample variant,GSEA,1
+Operation,statistical permutation,GSEA,1
+Operation,variance decomposition,MOFA2,1
+Operation,visualization,"GSEA, String.db",2
+Output,analysis report,Cytoscape,1
+Output,annotated flux maps,Fluxer,1
+Output,annotation p values,GSEA,1
+Output,biochemical pathway diagrams,Fluxer,1
+Output,confidence scores,String.db,1
+Output,convergence scores,RWR,1
+Output,enrichment results,String.db,1
+Output,enrichment scores,GSEA,1
+Output,factors and latent spaces,MOFA2,1
+Output,false discovery rates (fdr),GSEA,1
+Output,feature loadings,MOFA2,1
+Output,flux distributions,COBRApy,1
+Output,functional annotations,"String.db, eggNOG-mapper",2
+Output,fused networks,SNF,1
+Output,fused similarity matrix,SNF,1
+Output,genome-scale metabolic models,CarveMe,1
+Output,graph,GSEA,1
+Output,images,Cytoscape,1
+Output,interaction networks,String.db,1
+Output,metabolic model,"COBRApy, CarveMe, Fluxer",3
+Output,metabolic network,COBRApy,1
+Output,metabolic networks,CarveMe,1
+Output,metrics,Cytoscape,1
+Output,network,Cytoscape,1
+Output,network and seed,RWR,1
+Output,network ranking,MULTIXRANK,1
+Output,network result,MULTIXRANK,1
+Output,networks,"Fluxer, String.db",2
+Output,node lists,RWR,1
+Output,normalized enrichment plots,GSEA,1
+Output,optimization results,COBRApy,1
+Output,orthologous groups,eggNOG-mapper,1
+Output,patient clusters,SNF,1
+Output,pictures,"Fluxer, GSEA",2
+Output,propagation profiles,RWR,1
+Output,ranked gene lists,GSEA,1
+Output,ranked node lists,"MULTIXRANK, RWR",2
+Output,results of simulations,COBRApy,1
+Output,scores,MULTIXRANK,1
+Output,similarity matrices,SNF,1
+Output,subnetwork modules,RWR,1
+Output,table containing multiple annotations for each gene or protein,eggNOG-mapper,1
+Output,taxonomic assignments,eggNOG-mapper,1
+Output,visualizations,Fluxer,1
+Output_format,csv,"GSEA, MULTIXRANK, RWR, SNF",4
+Output_format,cys,"Cytoscape, String.db",2
+Output_format,cytoscape-compatible formats,String.db,1
+Output_format,edge lists,RWR,1
+Output_format,excel files,GSEA,1
+Output_format,fi,GSEA,1
+Output_format,gml,RWR,1
+Output_format,graph files,SNF,1
+Output_format,graphml,Fluxer,1
+Output_format,hdf5,MOFA2,1
+Output_format,html,Cytoscape,1
+Output_format,html reports,GSEA,1
+Output_format,jpeg,Cytoscape,1
+Output_format,json,"COBRApy, CarveMe, String.db, eggNOG-mapper",4
+Output_format,matlab,"COBRApy, CarveMe",2
+Output_format,matrices,MOFA2,1
+Output_format,matrix,SNF,1
+Output_format,mofa object,MOFA2,1
+Output_format,pdf,"Cytoscape, Fluxer, GSEA",3
+Output_format,png,"Cytoscape, Fluxer, String.db",3
+Output_format,png jpeg,GSEA,1
+Output_format,sbml,"COBRApy, CarveMe, Fluxer",3
+Output_format,seed,RWR,1
+Output_format,sif,"Cytoscape, MULTIXRANK, RWR",3
+Output_format,svg,"Cytoscape, Fluxer, GSEA, String.db",4
+Output_format,tsv,"GSEA, MULTIXRANK, RWR, SNF, String.db, eggNOG-mapper",6
+Output_format,txt,GSEA,1
+Output_format,visualization files,RWR,1
+Output_format,xml,String.db,1
+Output_format,yaml,"COBRApy, CarveMe",2
+Topic,biochemistry education,Fluxer,1
+Topic,clustering,SNF,1
+Topic,co-occurrence networks,Cytoscape,1
+Topic,community modeling,CarveMe,1
+Topic,constraint-based modeling,COBRApy,1
+Topic,data integration,Cytoscape,1
+Topic,dimensionality reduction,MOFA2,1
+Topic,disease gene prediction,RWR,1
+Topic,disease subtyping,SNF,1
+Topic,enrichment analysis,GSEA,1
+Topic,factor analysis,MOFA2,1
+Topic,flux balance analysis,COBRApy,1
+Topic,functional annotation,GSEA,1
+Topic,functional annotation of proteins,eggNOG-mapper,1
+Topic,functional enrichment,String.db,1
+Topic,functional genomics,"GSEA, eggNOG-mapper",2
+Topic,functional module detection,RWR,1
+Topic,genome-scale metabolic modeling,CarveMe,1
+Topic,graph theory,Cytoscape,1
+Topic,joint dimension reduction,MOFA2,1
+Topic,metabolic flux analysis,Fluxer,1
+Topic,metabolic modelling,"COBRApy, Fluxer",2
+Topic,metabolic networks,"COBRApy, CarveMe",2
+Topic,metabolic pathways,Cytoscape,1
+Topic,metabolic reconstruction,"COBRApy, CarveMe",2
+Topic,metagenomic annotation,eggNOG-mapper,1
+Topic,microbiology,CarveMe,1
+Topic,molecular interaction networks,Cytoscape,1
+Topic,molecular signatures,GSEA,1
+Topic,multi-layer networks,MULTIXRANK,1
+Topic,multi-omics data integration,"MOFA2, SNF",2
+Topic,network analysis,"MULTIXRANK, RWR, SNF",3
+Topic,network biology,"Cytoscape, MULTIXRANK",2
+Topic,network exploration,"Cytoscape, MULTIXRANK, RWR",3
+Topic,network handling,Cytoscape,1
+Topic,network integration,SNF,1
+Topic,network propagation,RWR,1
+Topic,network visualisation,Cytoscape,1
+Topic,node prioritization,MULTIXRANK,1
+Topic,orthology assignment,eggNOG-mapper,1
+Topic,pathway analysis,GSEA,1
+Topic,pathway visualization,Fluxer,1
+Topic,patient stratification,SNF,1
+Topic,prioritization analysis,RWR,1
+Topic,protein function prediction,eggNOG-mapper,1
+Topic,protein-protein interaction networks,String.db,1
+Topic,protein-protein interactions,Cytoscape,1
+Topic,systems biology,"COBRApy, CarveMe, Cytoscape, Fluxer, GSEA, String.db",6
+Topic,visualization,Cytoscape,1

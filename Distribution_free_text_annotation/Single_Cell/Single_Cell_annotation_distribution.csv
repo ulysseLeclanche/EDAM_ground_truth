@@ -1,0 +1,54 @@
+io_type,annotation,tools,tool_count
+Input,atacseq data,"Scanpy, Seurat",2
+Input,cell metadata,"Monocle3, Scanpy, Seurat",3
+Input,cite-seq,"Scanpy, Seurat",2
+Input,expression matrices,Monocle3,1
+Input,feature metadata,"Scanpy, Seurat",2
+Input,images,"Scanpy, Seurat",2
+Input,raw count matrix,"Scanpy, Seurat",2
+Input,scrna-seq data,"Scanpy, Seurat",2
+Input,spatial transcriptomic,"Scanpy, Seurat",2
+Input_format,bundle format (mtx),"Monocle3, Scanpy, Seurat",3
+Input_format,csv,"Monocle3, Scanpy, Seurat",3
+Input_format,h5ad,Scanpy,1
+Input_format,hdf5,"Scanpy, Seurat",2
+Input_format,tiff,"Scanpy, Seurat",2
+Input_format,tsv,"Monocle3, Scanpy, Seurat",3
+Operation,cell trajectories inference,Monocle3,1
+Operation,cell trajectory inference,Scanpy,1
+Operation,clustering,"Monocle3, Scanpy, Seurat",3
+Operation,data integration,"Scanpy, Seurat",2
+Operation,differential expression over cell trajectory,Monocle3,1
+Operation,differential expression testing,"Scanpy, Seurat",2
+Operation,dimensionality reduction,"Scanpy, Seurat",2
+Operation,normalization,"Monocle3, Scanpy, Seurat",3
+Operation,pseudotime analysis,Scanpy,1
+Operation,quality control,Monocle3,1
+Operation,quality controls,"Scanpy, Seurat",2
+Operation,reduction dimensions,Monocle3,1
+Operation,visualisations,Monocle3,1
+Operation,visualization,"Scanpy, Seurat",2
+Output,branch labels,Monocle3,1
+Output,cell embeddings,Seurat,1
+Output,cluster labels,"Scanpy, Seurat",2
+Output,differential expression results,"Monocle3, Scanpy",2
+Output,expression matrix,Seurat,1
+Output,plots,"Monocle3, Scanpy, Seurat",3
+Output,processed expression matrix,Scanpy,1
+Output,pseudotime values,"Monocle3, Scanpy",2
+Output,table results,"Scanpy, Seurat",2
+Output,trajectory graph,"Monocle3, Scanpy",2
+Output,trajectory tree,"Monocle3, Scanpy",2
+Output_format,csv,"Monocle3, Scanpy, Seurat",3
+Output_format,h5ad,Scanpy,1
+Output_format,hdf5,Scanpy,1
+Output_format,jpeg,"Monocle3, Scanpy, Seurat",3
+Output_format,pdf,"Monocle3, Scanpy, Seurat",3
+Output_format,png,"Monocle3, Scanpy, Seurat",3
+Output_format,rds,"Monocle3, Seurat",2
+Output_format,svg,"Monocle3, Scanpy, Seurat",3
+Output_format,tsv,"Monocle3, Scanpy, Seurat",3
+Topic,cell trajectories inference,Monocle3,1
+Topic,single-cell genomic,"Monocle3, Scanpy, Seurat",3
+Topic,spatial transcriptomics,Seurat,1
+Topic,trajectory inference,Scanpy,1
