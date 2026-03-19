@@ -1,0 +1,45 @@
+Tools_name,URL_bio.tools,Domains
+CANU,https://bio.tools/canu,Genetic_Variant
+STAR,https://bio.tools/star,Genetic_Variant
+Minimap2,https://bio.tools/minimap2,Genetic_Variant
+BWA,https://bio.tools/bwa,Genetic_Variant
+DESeq2,https://bio.tools/deseq2,Genetic_Variant
+Bedtools_annotate,,Genetic_Variant
+Sniffles,https://bio.tools/sniffles,Genetic_Variant
+clusterProfiler,https://bio.tools/clusterprofiler,Genetic_Variant
+SAMtools,https://bio.tools/samtools,Genetic_Variant
+Htseq-count,,Genetic_Variant
+Anvio,https://bio.tools/anvio,Metagenomic
+GTDB-Tk,https://bio.tools/GTDB-Tk,Metagenomic
+mOTUs database,https://bio.tools/motus-db,Metagenomic
+MEGAHIT,https://bio.tools/megahit,Metagenomic
+MetaBAT 2,https://bio.tools/MetaBAT_2,Metagenomic
+kraken2,https://bio.tools/kraken2,Metagenomic
+CheckM2,https://bio.tools/checkm2,Metagenomic
+CONCOCT,https://bio.tools/concoct,Metagenomic
+eC-CLEM,https://bio.tools/ec-clem,Microscopy
+Cellpose,https://bio.tools/cellpose,Microscopy
+DeconvolutionLab2,,Microscopy
+Big-FISH,,Microscopy
+SPM,https://bio.tools/SPM,Neuroimaging
+fMRIPrep,https://bio.tools/fmriprep,Neuroimaging
+FreeSurfer,https://bio.tools/freesurfer_suite,Neuroimaging
+FSL-MRS,https://bio.tools/fsl-mrs,Neuroimaging
+AFNI,,Neuroimaging
+MAFFT,https://bio.tools/MAFFT,Phylogeny
+FastME,https://bio.tools/fastme,Phylogeny
+PhyML,https://bio.tools/phyml,Phylogeny
+SCANPY,https://bio.tools/scanpy,Single_Cell
+Monocle 3,https://bio.tools/monocle3,Single_Cell
+Seurat,https://bio.tools/seurat,Single_Cell
+Cytoscape,https://bio.tools/cytoscape,Systems_biology
+RWRF,https://bio.tools/rwrf,Systems_biology
+COBRApy,https://bio.tools/cobrapy,Systems_biology
+EggNOG-mapper v2,https://bio.tools/eggnog-mapper-v2,Systems_biology
+GSEA,https://bio.tools/gsea,Systems_biology
+Fluxer,https://bio.tools/fluxer,Systems_biology
+CarveMe,https://bio.tools/carveme,Systems_biology
+STRINGdb,https://bio.tools/stringdb,Systems_biology
+SNF,https://bio.tools/snf-nn,Systems_biology
+MOFA,https://bio.tools/mofa,Systems_biology
+MULTIXRANK,,Systems_biology
