@@ -62,12 +62,6 @@ Specifically, it includes:
 
 ## Usage
 
-Here’s a concise and effective **Usage** section for your README:
-
----
-
-## Usage
-
 1. **View tools and examples**
 
    * Check `Tools_lists.csv` for the list of tools and their [bio.tools](https://bio.tools/) entries.
