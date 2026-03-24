@@ -44,49 +44,51 @@ conda activate EDAM_GT
 
 This repository contains resources related to the EDAM ground truth dataset of life sciences software. 
 
-1. **Ground-Truth Dataset**
+### 1. **Ground-Truth Dataset**
    
-1.1. **Prompting Strategy**
+#### 1.1. **Prompting Strategy**
 
-  - [`Prompt_examples_two_annotated_tools.txt`](Prompt_examples_two_annotated_tools.txt)
+  - [`Prompt_examples_two_annotated_tools.txt`](Prompt_examples_two_annotated_tools.txt)  
+
   Example prompts used with the LLM (DeepSeek V3.1) to replicate expert annotation procedures.
 
-1.2. **List of software tools**
-  - [`Tools_lists.csv`](Tools_lists.csv) 
+#### 1.2. **List of software tools**
+  - [`Tools_lists.csv`](Tools_lists.csv)  
+
   List of software tools included in the dataset, with links to their corresponding entries in [bio.tools](https://bio.tools/).
 
-1.3. **Raw free-text annotations from experts and DeepSeek**
+#### 1.3. **Raw free-text annotations from experts and DeepSeek**
 - [`Raw_free_text_annotation/`](Raw_free_text_annotation/) (text and JSON formats)
   JSON files are generated using: [`Confusion_matrix_json.ipynb`](Confusion_matrix_json.ipynb).
 
-1.4 **Distribution of free-text annotations by type**
+#### 1.4 **Distribution of free-text annotations by type**
 - [`Distribution_free_text_annotation/`](Distribution_free_text_annotation/)
   Free-text annotations by type : topic, operation, input/output data type, and input/output format generated with [`Distribution_free_text_annotation.ipynb`](Distribution_free_text_annotation.ipynb).
 
-1.5. **Ground-truth EDAM terms validated by expert**
-- [`EDAM_terms_URI_ground_truth_validated.tsv`](EDAM_terms_URI_ground_truth_validated.tsv)
+#### 1.5. **Ground-truth EDAM terms validated by expert**
+- [`EDAM_terms_URI_ground_truth_validated.tsv`](EDAM_terms_URI_ground_truth_validated.tsv)  
   Contains the URIs of validated EDAM terms, their labels, and the associated free-text annotation proposals from experts. Each annotation is linked to one or more tools, within a domain and a category (topics, operations, format, or data).
 
-2. **LLM vs Expert Annotation Analysis**
+### 2. **LLM vs Expert Annotation Analysis**
 
-2.1. **Metrics : Recall, Precision and F1 score**
+#### 2.1. **Metrics : Recall, Precision and F1 score**
   All metrics are calculated by comparing DeepSeek's proposals and the expert consensus against the LLM-Expert consensus.
 
-  Metrics are computed using : [`Confusion_matrix_json.ipynb`](Confusion_matrix_json.ipynb) and figures with  [`Contribution_LLM_expert_Precision_recall_F1_figures.ipynb`](Contribution_LLM_expert_Precision_recall_F1_figures.ipynb).
+  Metrics are computed using : [`Confusion_matrix_json.ipynb`](Confusion_matrix_json.ipynb) and figures with  [`Contribution_LLM_expert_Precision_recall_F1_figures.ipynb`](Contribution_LLM_expert_Precision_recall_F1_figures.ipynb).  
   Recall, Precision, and F1 score were calculated for all tools across each domain, as well as by annotation type.
 
-2.2. **Resources and plots**
-  - All confusion matrix are inside :[`Confusion_matrix_free_text_annotation/`](Confusion_matrix_free_text_annotation/) 
+#### 2.2. **Resources and plots**
+  - All confusion matrix are inside :[`Confusion_matrix_free_text_annotation/`](Confusion_matrix_free_text_annotation/)   
   Confusion matrices contain : TP, FN, FP, recall, precision, F1 score, annotations retained or rejected and mixed annotations. 
-  - [`plots/`](plots/) – Figures for recall, precision, F1 score by domains and annotation types.
+  - [`plots/`](plots/) Figures for recall, precision, F1 score by domains and annotation types.
 
-3. **Added Value of LLM and Expert Annotations**
+### 3. **Added Value of LLM and Expert Annotations**
 
-3.1 **Missing annotations in EDAM**
-  Identification of free-text annotation found by experts/LLM but absent from EDAM ontology.
+#### 3.1 **Missing annotations in EDAM**
+  Identification of free-text annotation found by experts/LLM but absent from EDAM ontology.  
   The notebook [`Contingency_table_annotation_consensus_mapped.ipynb`](Contingency_table_annotation_consensus_mapped.ipynb) calculates the contingency table for free-text annotations, regardless of whether they have been validated as EDAM annotations.
 
-3.2 **Contribution to bio.tools**
+#### 3.2 **Contribution to bio.tools**
   Comparison between: Ground-truth validated annotations (expert + LLM consensus) and existing annotations in bio.tools using the notebook [`Contingency_table_Biotools_vs_ground_truth.ipynb`](Contingency_table_Biotools_vs_ground_truth.ipynb).
   Annotations inherited from the EDAM ontology based on direct annotations are calculated using [`edam_neighbors.py`](Contingency_table/edam_neighbors.py)
 
