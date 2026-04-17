@@ -1,6 +1,6 @@
 # EDAM_ground_truth
 
-Ground truth dataset of life sciences software, including 45 analyzed tools by experts. 
+Ground truth dataset of life sciences software, including 44 analyzed tools by experts. 
 In total, 16 experts took part in the ground truth: 2 for Genetic Variant, 2 in Metagenomics, 3 in Phylogeny, 2 in
 Single Cell, 3 in Systems Biology and 4 experts in Bio-imaging, which includes the fields of Microscopy
 and Neuroimaging .
@@ -12,7 +12,7 @@ This ground truth are supported by the [ShareFAIR](https://projet.liris.cnrs.fr/
 
 ## Table of Contents
 - [Installation](#installation)
-- [Content and Usage](#content_usage)
+- [Content and Usage](#content-and-usage)
 - [License](#license)
 - [Authors and Affiliations](#authors-and-affiliations)
 
@@ -47,7 +47,9 @@ This repository contains resources related to the EDAM ground truth dataset of l
 ### 1. **Ground-Truth Dataset**
    
 #### 1.1. **Prompting Strategy**
-
+  - [`Supplementary_material.pdf`](Supplementary_material.pdf)
+    
+Description of the prompt design and the example provided to experts for annotation. 
   - [`Prompt_examples_two_annotated_tools.txt`](Prompt_examples_two_annotated_tools.txt)  
 
   Example prompts used with the LLM (DeepSeek V3.1) to replicate expert annotation procedures.
