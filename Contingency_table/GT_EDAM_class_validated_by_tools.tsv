@@ -1,0 +1,627 @@
+tools	EDAM term URI	candidate EDAM term label	annotation	domain	edam_category
+AFNI	http://edamontology.org/data_3442	MRI image	anatomical mri	Neuroimaging	data
+AFNI	http://edamontology.org/topic_3384	Medical imaging	brain imaging	Neuroimaging	topics
+AFNI	http://edamontology.org/data_3442	MRI image	fmri	Neuroimaging	data
+AFNI	http://edamontology.org/topic_3444	MRI	functional & anatomical MRI preprocesing	Neuroimaging	topics
+AFNI	http://edamontology.org/operation_2238	Statistical calculation	group statistical analysis	Neuroimaging	operations
+AFNI	http://edamontology.org/topic_3384	Medical imaging	neuroimaging	Neuroimaging	topics
+AFNI	http://edamontology.org/format_3549	Image format	nifti	Neuroimaging	formats
+AFNI	http://edamontology.org/operation_2238	Statistical calculation	subject statistical analysis	Neuroimaging	operations
+AFNI	http://edamontology.org/operation_0337	Visualisation	visualization	Neuroimaging	operations
+Anvio	http://edamontology.org/operation_0362	Genome annotation	annotation edition	Metagenomic	operations
+Anvio	http://edamontology.org/operation_0310	Sequence assembly	assembly	Metagenomic	operations
+Anvio	http://edamontology.org/format_2572	BAM	bam	Metagenomic	formats
+Anvio	http://edamontology.org/topic_0797	Comparative genomics	comparative genomics	Metagenomic	topics
+Anvio	http://edamontology.org/data_0925	Sequence Assembly	contigs	Metagenomic	data
+Anvio	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+Anvio	http://edamontology.org/format_1930	FASTQ	fastq	Metagenomic	formats
+Anvio	http://edamontology.org/operation_3672	Gene functional annotation	functional annotation	Metagenomic	operations
+Anvio	http://edamontology.org/operation_3672	Gene functional annotation	functional annotations	Metagenomic	data
+Anvio	http://edamontology.org/topic_0085	Functional genomics	functional genomics	Metagenomic	topics
+Anvio	http://edamontology.org/format_2331	HTML	html	Metagenomic	formats
+Anvio	http://edamontology.org/data_2968	Image	image	Metagenomic	data
+Anvio	http://edamontology.org/operation_3096	Editing	interactive edition	Metagenomic	operations
+Anvio	http://edamontology.org/operation_0337	Visualisation	interactive visualization	Metagenomic	operations
+Anvio	http://edamontology.org/format_3579	JPEG	jpeg	Metagenomic	formats
+Anvio	http://edamontology.org/format_3464	JSON	json	Metagenomic	formats
+Anvio	http://edamontology.org/data_2536	Mass spectrometry data	metabolic profiles	Metagenomic	data
+Anvio	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+Anvio	http://edamontology.org/format_1910	newick	newick	Metagenomic	formats
+Anvio	http://edamontology.org/data_0872	Phylogenetic tree	phylogenetic tree	Metagenomic	data
+Anvio	http://edamontology.org/format_3603	PNG	png	Metagenomic	formats
+Anvio	http://edamontology.org/format_3604	SVG	svg	Metagenomic	formats
+Anvio	http://edamontology.org/data_1872	Taxonomic classification	taxonomic profiles	Metagenomic	data
+Anvio	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic profiling	Metagenomic	operations
+Anvio	http://edamontology.org/data_0872	Phylogenetic tree	tree	Metagenomic	data
+Anvio	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+Anvio	http://edamontology.org/operation_0337	Visualisation	visualizations	Metagenomic	data
+Anvio	http://edamontology.org/topic_0769	Workflows	workflow	Metagenomic	operations
+Bedtools_annotate	http://edamontology.org/format_3003	BED	bed	Genetic_variant	formats
+Bedtools_annotate	http://edamontology.org/format_3016	VCF	vcf	Genetic_variant	formats
+Big-FISH	http://edamontology.org/format_3547	Image format	image format	Microscopy	formats
+Big-FISH	http://edamontology.org/format_3603	PNG	png	Microscopy	formats
+Big-FISH	http://edamontology.org/format_3591	TIFF	tiff	Microscopy	formats
+COBRApy	http://edamontology.org/operation_2426	Modelling and simulation	constraint-based modeling	Systems_biology	topics
+COBRApy	http://edamontology.org/operation_2426	Modelling and simulation	constraint-based simulations such as fba	Systems_biology	operations
+COBRApy	http://edamontology.org/operation_3660	Metabolic network modelling	construction or modification of metabolic models	Systems_biology	operations
+COBRApy	http://edamontology.org/format_3464	JSON	json	Systems_biology	formats
+COBRApy	http://edamontology.org/format_4007	MATLAB	matlab	Systems_biology	formats
+COBRApy	http://edamontology.org/data_0950	Mathematical model	metabolic model	Systems_biology	data
+COBRApy	http://edamontology.org/operation_3660	Metabolic network modelling	metabolic modelling	Systems_biology	topics
+COBRApy	http://edamontology.org/data_2600	Pathway or network	metabolic network	Systems_biology	data
+COBRApy	http://edamontology.org/operation_3660	Metabolic network simulation	metabolic network simulation	Systems_biology	operations
+COBRApy	http://edamontology.org/data_2600	Pathway or network	metabolic network/model or nothing if created from scratch	Systems_biology	data
+COBRApy	http://edamontology.org/topic_0602	Biological networks	metabolic networks	Systems_biology	topics
+COBRApy	http://edamontology.org/operation_3660	Metabolic network reconstruction	metabolic reconstruction	Systems_biology	topics
+COBRApy	http://edamontology.org/data_2978	Reaction data	metabolites	Systems_biology	data
+COBRApy	http://edamontology.org/operation_2425	Optimisation and refinement	optimization	Systems_biology	operations
+COBRApy	http://edamontology.org/operation_2425	Optimisation and refinement	optimization results	Systems_biology	data
+COBRApy	http://edamontology.org/data_3869	Simulation	results of simulations	Systems_biology	data
+COBRApy	http://edamontology.org/format_2585	SBML	sbml	Systems_biology	formats
+COBRApy	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+COBRApy	http://edamontology.org/format_3750	YAML	yaml	Systems_biology	formats
+CONCOCT	http://edamontology.org/data_0925	Sequence Assembly	contigs	Metagenomic	data
+CONCOCT	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+CONCOCT	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+CONCOCT	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+Canu	http://edamontology.org/data_0925	Sequence assembly	assembled contigs	Genetic_variant	data
+Canu	http://edamontology.org/data_0925	Sequence assembly	assembled scaffolds	Genetic_variant	data
+Canu	http://edamontology.org/operation_0310	Sequence assembly	contig assembly	Genetic_variant	operations
+Canu	http://edamontology.org/operation_0524	De-novo assembly	de novo assembly	Genetic_variant	topics
+Canu	http://edamontology.org/format_1929	FASTA	fasta	Genetic_variant	formats
+Canu	http://edamontology.org/format_1930	FASTQ	fastq	Genetic_variant	formats
+Canu	http://edamontology.org/format_3976	GFA 2	gfa	Genetic_variant	formats
+Canu	http://edamontology.org/operation_3219	Read pre-processing	long read data processing	Genetic_variant	topics
+Canu	http://edamontology.org/data_0924	Sequence trace	raw long sequencing reads	Genetic_variant	data
+Canu	http://edamontology.org/operation_0232	Sequence merging	read correction	Genetic_variant	operations
+Canu	http://edamontology.org/operation_3192	Sequence trimming	read trimming	Genetic_variant	operations
+Canu	http://edamontology.org/data_1234	Sequence set (nucleic acid)	unassembled corrected reads	Genetic_variant	data
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	automated model reconstruction	Systems_biology	operations
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	community modeling	Systems_biology	topics
+CarveMe	http://edamontology.org/operation_2426	Modelling and simulation	draft model generation	Systems_biology	operations
+CarveMe	http://edamontology.org/format_1929	FASTA	fasta	Systems_biology	formats
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	gap-filling	Systems_biology	operations
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	gap-filling of metabolic models	Systems_biology	operations
+CarveMe	http://edamontology.org/data_2044	Sequence	gene sequences	Systems_biology	data
+CarveMe	http://edamontology.org/operation_0362	Genome annotation	genome annotations	Systems_biology	data
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	genome-scale metabolic modeling	Systems_biology	topics
+CarveMe	http://edamontology.org/data_0950	Mathematical model	genome-scale metabolic models	Systems_biology	data
+CarveMe	http://edamontology.org/format_4007	MATLAB	matlab	Systems_biology	formats
+CarveMe	http://edamontology.org/data_0950	Mathematical model	metabolic model	Systems_biology	data
+CarveMe	http://edamontology.org/data_2600	Pathway or network	metabolic networks	Systems_biology	data
+CarveMe	http://edamontology.org/topic_0602	Biological networks	metabolic networks	Systems_biology	topics
+CarveMe	http://edamontology.org/operation_3660	Metabolic network reconstruction	metabolic reconstruction	Systems_biology	topics
+CarveMe	http://edamontology.org/topic_3301	Microbiology	microbiology	Systems_biology	topics
+CarveMe	http://edamontology.org/data_2976	Protein sequence	protein sequences	Systems_biology	data
+CarveMe	http://edamontology.org/operation_3660	Metabolic network modelling	reconstruction of metabolic networks	Systems_biology	operations
+CarveMe	http://edamontology.org/format_2585	SBML	sbml	Systems_biology	formats
+CarveMe	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+CellPose	http://edamontology.org/operation_0226	Annotation	annotation	Microscopy	operations
+CellPose	http://edamontology.org/topic_2229	Cell biology	cell segmentation	Microscopy	topics
+CellPose	http://edamontology.org/format_2330	Textual format	imagej rois	Microscopy	formats
+CellPose	http://edamontology.org/format_3579	JPEG	jpegs	Microscopy	formats
+CellPose	http://edamontology.org/data_2968	Image	microscopy images 2d	Microscopy	data
+CellPose	http://edamontology.org/data_2968	Image	microscopy images 3d	Microscopy	data
+CellPose	http://edamontology.org/format_2333	Binary format	model cellpose	Microscopy	formats
+CellPose	http://edamontology.org/format_2333	Binary format	npy	Microscopy	formats
+CellPose	http://edamontology.org/topic_3382	Imaging	optical microscopy	Microscopy	topics
+CellPose	http://edamontology.org/format_3603	PNG	png	Microscopy	formats
+CellPose	http://edamontology.org/operation_3443	Image analysis	segmentation 2d	Microscopy	operations
+CellPose	http://edamontology.org/operation_3443	Image analysis	segmentation 3d	Microscopy	operations
+CellPose	http://edamontology.org/data_0006	Data set	structured dataset	Microscopy	data
+CellPose	http://edamontology.org/format_3591	TIFF	tiff	Microscopy	formats
+ClusterProfiler	http://edamontology.org/operation_3432	Clustering	clustering	Genetic_variant	topics
+ClusterProfiler	http://edamontology.org/topic_0092	Data visualisation	data visualization	Genetic_variant	operations
+ClusterProfiler	http://edamontology.org/format_3751	DSV	dsv	Genetic_variant	formats
+ClusterProfiler	http://edamontology.org/operation_3501	Enrichment analysis	enrichment analysis for omics data	Genetic_variant	topics
+ClusterProfiler	http://edamontology.org/data_3753	Enrichment report	enrichment results	Genetic_variant	data
+ClusterProfiler	http://edamontology.org/operation_2436	Gene-set enrichment analysis	gene set enrichment analysis	Genetic_variant	operations
+ClusterProfiler	http://edamontology.org/operation_3282	ID mapping	id conversion	Genetic_variant	operations
+ClusterProfiler	http://edamontology.org/format_3547	Image format	image format	Genetic_variant	formats
+ClusterProfiler	http://edamontology.org/data_2353	Ontology data	ontology datasets	Genetic_variant	data
+ClusterProfiler	http://edamontology.org/operation_2436	Gene-set enrichment analysis	over-representation analysis	Genetic_variant	operations
+ClusterProfiler	http://edamontology.org/operation_3672	Sequence functional annotation	semantic similarity analysis	Genetic_variant	operations
+ClusterProfiler	http://edamontology.org/operation_2945	Analysis	visualization of enrichment data	Genetic_variant	topics
+ClusterProfiler	http://edamontology.org/operation_0337	Visualisation	visualizations	Genetic_variant	data
+Cytoscape	http://edamontology.org/format_3156	BioPAX	biopax	Systems_biology	formats
+Cytoscape	http://edamontology.org/operation_3432	Clustering	cluster detection	Systems_biology	operations
+Cytoscape	http://edamontology.org/topic_0602	Molecular interactions, pathways and networks	co-occurrence networks	Systems_biology	topics
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	construction of networks	Systems_biology	operations
+Cytoscape	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	edition of networks	Systems_biology	operations
+Cytoscape	http://edamontology.org/format_3822	GML	gml	Systems_biology	formats
+Cytoscape	http://edamontology.org/topic_0602	Molecular interactions, pathways and networks	graph theory	Systems_biology	topics
+Cytoscape	http://edamontology.org/format_2331	HTML	html	Systems_biology	formats
+Cytoscape	http://edamontology.org/data_2968	Image	images	Systems_biology	data
+Cytoscape	http://edamontology.org/format_3579	JPEG	jpeg	Systems_biology	formats
+Cytoscape	http://edamontology.org/data_2600	Pathway or network	list of nodes and edges	Systems_biology	data
+Cytoscape	http://edamontology.org/topic_0602	Molecular interactions, pathways and networks	molecular interaction networks	Systems_biology	topics
+Cytoscape	http://edamontology.org/data_2600	Pathway or network	network	Systems_biology	data
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	network biology	Systems_biology	topics
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	network exploration	Systems_biology	operations
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	network exploration	Systems_biology	topics
+Cytoscape	http://edamontology.org/operation_3927	Network analysis	network handling	Systems_biology	topics
+Cytoscape	http://edamontology.org/operation_3925	Network visualisation	network visualisation	Systems_biology	topics
+Cytoscape	http://edamontology.org/operation_3925	Network visualisation	network visualization	Systems_biology	operations
+Cytoscape	http://edamontology.org/format_3508	PDF	pdf	Systems_biology	formats
+Cytoscape	http://edamontology.org/format_3603	PNG	png	Systems_biology	formats
+Cytoscape	http://edamontology.org/topic_0128	Protein interactions	protein-protein interactions	Systems_biology	topics
+Cytoscape	http://edamontology.org/format_2585	SBML	sbml	Systems_biology	formats
+Cytoscape	http://edamontology.org/format_3619	sif	sif	Systems_biology	formats
+Cytoscape	http://edamontology.org/format_3604	SVG	svg	Systems_biology	formats
+Cytoscape	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+Cytoscape	http://edamontology.org/format_3475	TSV	tsv	Systems_biology	formats
+Cytoscape	http://edamontology.org/operation_0337	Visualisation	visualization	Systems_biology	topics
+Cytoscape	http://edamontology.org/format_3618	xgmml	xgmml	Systems_biology	formats
+Cytoscape	http://edamontology.org/format_3468	xls	xls	Systems_biology	formats
+EcClem	http://edamontology.org/topic_3382	Imaging	correlative microscopy	Microscopy	topics
+EcClem	http://edamontology.org/format_3752	CSV	csv	Microscopy	formats
+EcClem	http://edamontology.org/operation_2426	Modelling and simulation	error estimation	Microscopy	operations
+EcClem	http://edamontology.org/operation_0295	Structure alignment	fiducial list based registration	Microscopy	operations
+EcClem	http://edamontology.org/format_3547	Image format	image format	Microscopy	formats
+EcClem	http://edamontology.org/data_2082	Matrix	list of paired points	Microscopy	data
+EcClem	http://edamontology.org/format_3547	Image format	microscopy image format	Microscopy	formats
+EcClem	http://edamontology.org/data_2968	Image	microscopy images 2d	Microscopy	data
+EcClem	http://edamontology.org/data_2968	Image	microscopy images 3d	Microscopy	data
+EcClem	http://edamontology.org/data_2968	Image	overlay image	Microscopy	data
+EcClem	http://edamontology.org/data_2082	Matrix	transformation matrix	Microscopy	data
+EcClem	http://edamontology.org/data_2968	Image	transformed source image	Microscopy	data
+EcClem	http://edamontology.org/format_2332	XML	xml	Microscopy	formats
+FMRIprep	http://edamontology.org/topic_3384	Medical imaging	bids apps	Neuroimaging	topics
+FMRIprep	http://edamontology.org/topic_3384	Medical imaging	brain imaging	Neuroimaging	topics
+FMRIprep	http://edamontology.org/data_3442	MRI image	fmri	Neuroimaging	data
+FMRIprep	http://edamontology.org/format_2331	HTML	html	Neuroimaging	formats
+FMRIprep	http://edamontology.org/topic_3384	Medical imaging	neuroimaging	Neuroimaging	topics
+FMRIprep	http://edamontology.org/format_3549	Image format	nifti	Neuroimaging	formats
+FMRIprep	http://edamontology.org/data_0006	Data	preprocessed fmri	Neuroimaging	data
+FMRIprep	http://edamontology.org/data_2048	Report	reports	Neuroimaging	data
+FMRIprep	http://edamontology.org/format_3475	TSV	tsv	Neuroimaging	formats
+FMRIprep	http://edamontology.org/operation_0337	Visualisation	visualization	Neuroimaging	operations
+FSL	http://edamontology.org/data_3442	MRI image	anatomical mri	Neuroimaging	data
+FSL	http://edamontology.org/topic_3384	Medical imaging	brain imaging	Neuroimaging	topics
+FSL	http://edamontology.org/data_3442	MRI image	fmri	Neuroimaging	data
+FSL	http://edamontology.org/topic_3444	MRI	functional & anatomical MRI preprocesing	Neuroimaging	topics
+FSL	http://edamontology.org/operation_3927	Network analysis	functional connectivity analysis	Neuroimaging	operations
+FSL	http://edamontology.org/operation_2238	Statistical calculation	group statistical analysis	Neuroimaging	operations
+FSL	http://edamontology.org/format_2331	HTML	html	Neuroimaging	formats
+FSL	http://edamontology.org/topic_3384	Medical imaging	neuroimaging	Neuroimaging	topics
+FSL	http://edamontology.org/format_3549	Image format	nifti	Neuroimaging	formats
+FSL	http://edamontology.org/format_3550	Image format	nifti.gz	Neuroimaging	formats
+FSL	http://edamontology.org/data_0006	Data	preprocessed data	Neuroimaging	data
+FSL	http://edamontology.org/data_2048	Report	reports	Neuroimaging	data
+FSL	http://edamontology.org/data_0951	Statistical estimate score	statistical maps	Neuroimaging	data
+FSL	http://edamontology.org/operation_2238	Statistical calculation	subject statistical analysis	Neuroimaging	operations
+FSL	http://edamontology.org/topic_3384	Medical imaging	tractography	Neuroimaging	operations
+FSL	http://edamontology.org/operation_0337	Visualisation	visualization	Neuroimaging	operations
+FastME	http://edamontology.org/data_2855	Distance matrix	distance matrix	Phylogeny	data
+FastME	http://edamontology.org/operation_0289	Sequence distance matrix construction	distance matrix computation	Phylogeny	operations
+FastME	http://edamontology.org/topic_3293	Phylogenetics	distanced-based phylogenetics	Phylogeny	topics
+FastME	http://edamontology.org/topic_3299	Evolutionary biology	minimum evolution (me)	Phylogeny	operations
+FastME	http://edamontology.org/data_0863	Sequence alignment	multiple sequences alignment msa	Phylogeny	data
+FastME	http://edamontology.org/format_1910	newick	newick	Phylogeny	formats
+FastME	http://edamontology.org/format_1435	phylip	phylip	Phylogeny	formats
+FastME	http://edamontology.org/data_0872	Phylogenetic tree	phylogenetic trees with support values	Phylogeny	data
+FastME	http://edamontology.org/topic_3293	Phylogenetics	phylogenetics	Phylogeny	topics
+FastME	http://edamontology.org/data_1439	Substitution model	substitution model	Phylogeny	data
+FastME	http://edamontology.org/operation_0551	Phylogenetic tree topology analysis	topological optimization	Phylogeny	operations
+FastME	http://edamontology.org/operation_0323	Phlyogenetic tree construction	tree inference	Phylogeny	operations
+Fluxer	http://edamontology.org/data_2600	Pathway or network	biochemical pathway diagrams	Systems_biology	data
+Fluxer	http://edamontology.org/topic_3292	Biochemistry	biochemistry education	Systems_biology	topics
+Fluxer	http://edamontology.org/operation_2486	Topology diagram drawing	customizable layout creation	Systems_biology	operations
+Fluxer	http://edamontology.org/operation_2486	Topology diagram drawing	flux diagram rendering	Systems_biology	operations
+Fluxer	http://edamontology.org/operation_0337	Visualisation	interactive visualization	Systems_biology	operations
+Fluxer	http://edamontology.org/data_0950	Mathematical model	metabolic model	Systems_biology	data
+Fluxer	http://edamontology.org/operation_3660	Metabolic network simulation	metabolic model simulation	Systems_biology	operations
+Fluxer	http://edamontology.org/operation_3925	Network visualisation	metabolic model visualisation	Systems_biology	operations
+Fluxer	http://edamontology.org/operation_3660	Metabolic network modelling	metabolic modelling	Systems_biology	topics
+Fluxer	http://edamontology.org/data_2600	Pathway or network	networks	Systems_biology	data
+Fluxer	http://edamontology.org/operation_3928	Pathway analysis	pathway mapping	Systems_biology	operations
+Fluxer	http://edamontology.org/operation_3926	Pathway visualisation	pathway visualization	Systems_biology	topics
+Fluxer	http://edamontology.org/format_3508	PDF	pdf	Systems_biology	formats
+Fluxer	http://edamontology.org/data_2968	Image	pictures	Systems_biology	data
+Fluxer	http://edamontology.org/format_3603	PNG	png	Systems_biology	formats
+Fluxer	http://edamontology.org/format_2585	SBML	sbml	Systems_biology	formats
+Fluxer	http://edamontology.org/format_3604	SVG	svg	Systems_biology	formats
+Fluxer	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+Fluxer	http://edamontology.org/operation_0337	Visualisation	visualizations	Systems_biology	data
+Freesurfer	http://edamontology.org/data_3442	MRI image	anatomical mri	Neuroimaging	data
+Freesurfer	http://edamontology.org/format_3547	Image format	annot	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_2333	Binary format	bfloat	Neuroimaging	formats
+Freesurfer	http://edamontology.org/topic_3384	Medical imaging	brain imaging	Neuroimaging	topics
+Freesurfer	http://edamontology.org/format_3547	Image format	bshort	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3548	Image format	cor	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3549	Image format	curv	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_1637	dat	dat	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3548	DICOM format	dicom	Neuroimaging	formats
+Freesurfer	http://edamontology.org/data_3442	MRI image	fmri	Neuroimaging	data
+Freesurfer	http://edamontology.org/topic_3444	MRI	fmri surface analysis	Neuroimaging	topics
+Freesurfer	http://edamontology.org/format_3547	Image format	gca	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3548	Image format	gcs	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3547	Image format	m3d	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3547	Image format	mgh	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3548	Image format	mgz	Neuroimaging	formats
+Freesurfer	http://edamontology.org/operation_3443	Image analysis	morphometry analysis	Neuroimaging	operations
+Freesurfer	http://edamontology.org/topic_3384	Medical imaging	neuroimaging	Neuroimaging	topics
+Freesurfer	http://edamontology.org/format_3549	Image format	nifti	Neuroimaging	formats
+Freesurfer	http://edamontology.org/format_3551	Image format	patch	Neuroimaging	formats
+Freesurfer	http://edamontology.org/data_0951	Statistical estimate score	surface maps	Neuroimaging	data
+Freesurfer	http://edamontology.org/topic_3384	Medical imaging	tractography	Neuroimaging	operations
+Freesurfer	http://edamontology.org/data_0940	Volume map	volumetric segmentation	Neuroimaging	data
+Freesurfer	http://edamontology.org/topic_3304	Neurobiology	whole-brain analysis	Neuroimaging	operations
+Freesurfer	http://edamontology.org/format_3598	xbm	xfm	Neuroimaging	formats
+GSEA	http://edamontology.org/data_1669	P-value	annotation p values	Systems_biology	data
+GSEA	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+GSEA	http://edamontology.org/operation_3501	Enrichment analysis	enrichment analysis	Systems_biology	topics
+GSEA	http://edamontology.org/format_3468	Microsoft Excel format	excel files	Systems_biology	formats
+GSEA	http://edamontology.org/operation_3672	Gene functional annotation	functional annotation	Systems_biology	topics
+GSEA	http://edamontology.org/operation_3501	Enrichment analysis	functional enrichment analysis	Systems_biology	operations
+GSEA	http://edamontology.org/topic_0085	Functional genomics	functional genomics	Systems_biology	topics
+GSEA	http://edamontology.org/format_3709	GCT format	gct	Systems_biology	formats
+GSEA	http://edamontology.org/data_3112	Gene expression matrix	gene expression matrix	Systems_biology	data
+GSEA	http://edamontology.org/operation_2436	Gene-set enrichment analysis	gene set enrichment analysis	Systems_biology	operations
+GSEA	http://edamontology.org/operation_3501	Enrichment analysis	gene set scoring	Systems_biology	operations
+GSEA	http://edamontology.org/data_2884	Graph data	graph	Systems_biology	data
+GSEA	http://edamontology.org/format_2331	HTML	html reports	Systems_biology	formats
+GSEA	http://edamontology.org/operation_3928	Pathway analysis	pathway analysis	Systems_biology	topics
+GSEA	http://edamontology.org/format_3508	PDF	pdf	Systems_biology	formats
+GSEA	http://edamontology.org/data_2968	Image	pictures	Systems_biology	data
+GSEA	http://edamontology.org/format_3603	PNG	png	Systems_biology	formats
+GSEA	http://edamontology.org/operation_3501	Enrichment analysis	rank-based enrichment	Systems_biology	operations
+GSEA	http://edamontology.org/operation_2238	Statistical calculation	statistical permutation	Systems_biology	operations
+GSEA	http://edamontology.org/format_3604	SVG	svg	Systems_biology	formats
+GSEA	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+GSEA	http://edamontology.org/format_2330	Textual format	txt	Systems_biology	formats
+GSEA	http://edamontology.org/operation_0337	Visualisation	visualization	Systems_biology	operations
+GSEA 	http://edamontology.org/format_3579	JPEG	jpeg	Systems_biology	formats
+GTDB-Tk	http://edamontology.org/topic_0797	Comparative genomics	comparative genomics	Metagenomic	topics
+GTDB-Tk	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+GTDB-Tk	http://edamontology.org/format_3464	JSON	json	Metagenomic	formats
+GTDB-Tk	http://edamontology.org/topic_3837	Metagenomic sequencing	metagenome	Metagenomic	data
+GTDB-Tk	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+GTDB-Tk	http://edamontology.org/format_1910	newick	newick	Metagenomic	formats
+GTDB-Tk	http://edamontology.org/operation_0323	Phylogenetic inference	phylogenetic inference	Metagenomic	operations
+GTDB-Tk	http://edamontology.org/data_0872	Phylogenetic tree	phylogenetic tree	Metagenomic	data
+GTDB-Tk	http://edamontology.org/topic_0194	Phylogenomics	phylogenomics	Metagenomic	topics
+GTDB-Tk	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic classification	Metagenomic	operations
+GTDB-Tk	http://edamontology.org/data_1872	Taxonomic name	taxonomic labels	Metagenomic	data
+GTDB-Tk	http://edamontology.org/operation_3460	Taxonomic classification	taxonomy	Metagenomic	topics
+GTDB-Tk	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+Kraken2	http://edamontology.org/data_3707	Biodiversity data	abundance table	Metagenomic	data
+Kraken2	http://edamontology.org/format_1930	FASTQ	fastq	Metagenomic	formats
+Kraken2	http://edamontology.org/format_2331	HTML	html	Metagenomic	formats
+Kraken2	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+Kraken2	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Metagenomic	topics
+Kraken2	http://edamontology.org/operation_2403	Sequence analysis	sequence classification	Metagenomic	operations
+Kraken2	http://edamontology.org/topic_3168	Sequencing	sequencing	Metagenomic	topics
+Kraken2	http://edamontology.org/data_1872	Taxonomic name	taxonomic annotation	Metagenomic	data
+Kraken2	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic annotation	Metagenomic	operations
+Kraken2	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic profiling	Metagenomic	topics
+Kraken2	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+MAFFT	http://edamontology.org/format_2006	Phylogenetic tree format	.tree	Phylogeny	formats
+MAFFT	http://edamontology.org/format_1424	clustal	clustal	Phylogeny	formats
+MAFFT	http://edamontology.org/topic_0797	Comparative genomics	comparative genomics	Phylogeny	topics
+MAFFT	http://edamontology.org/format_1929	fasta	fasta	Phylogeny	formats
+MAFFT	http://edamontology.org/operation_0492	Multiple sequence alignment	global multiple sequence alignment	Phylogeny	operations
+MAFFT	http://edamontology.org/topic_3945	Molecular evolution	molecular evolution	Phylogeny	topics
+MAFFT	http://edamontology.org/topic_0080	Sequence Analysis	multiple-sequence alignment (msa)	Phylogeny	topics
+MAFFT	http://edamontology.org/data_0863	Sequence alignment	multiple-sequence alignment file	Phylogeny	data
+MAFFT	http://edamontology.org/data_1383	Nucleic acid sequence alignment	multiple-sequence file	Phylogeny	data
+MAFFT	http://edamontology.org/data_1384	Protein sequence alignment	multiple-sequence file	Phylogeny	data
+MAFFT	http://edamontology.org/operation_0258	Sequence alignment analysis	progressive alignment	Phylogeny	operations
+MAFFT	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Phylogeny	topics
+MEGAHIT	http://edamontology.org/operation_0524	De Bruijn graph 	bruijn graph	Metagenomic	operations
+MEGAHIT	http://edamontology.org/data_0925	Sequence Assembly	contigs	Metagenomic	data
+MEGAHIT	http://edamontology.org/operation_0524	De-novo assembly	de novo assembly	Metagenomic	topics
+MEGAHIT	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+MEGAHIT	http://edamontology.org/format_1930	FASTQ	fastq	Metagenomic	formats
+MEGAHIT	http://edamontology.org/operation_0525	Genome assembly	genome assemby	Metagenomic	operations
+MEGAHIT	http://edamontology.org/operation_0310	Sequence assembly	metagenomic assembly	Metagenomic	operations
+MEGAHIT	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+MEGAHIT	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Metagenomic	topics
+MEGAHIT	http://edamontology.org/topic_0196	Sequence assembly	sequence assembly	Metagenomic	topics
+MEGAHIT	http://edamontology.org/topic_3168	Sequencing	sequencing	Metagenomic	topics
+MEGAHIT	http://edamontology.org/topic_3168	DNA-Seq	short reads	Metagenomic	topics
+MOFA2	http://edamontology.org/operation_3658	Statistical inference	bayesian inference	Systems_biology	operations
+MOFA2	http://edamontology.org/operation_3935	Dimensionality reduction	dimensionality reduction	Systems_biology	topics
+MOFA2	http://edamontology.org/operation_3935	Dimensionality reduction	factor analysis	Systems_biology	topics
+MOFA2	http://edamontology.org/format_3590	HDF5	hdf5	Systems_biology	formats
+MOFA2	http://edamontology.org/operation_3935	Dimension reduction	joint dimension reduction	Systems_biology	topics
+MOFA2	http://edamontology.org/operation_3935	Dimensionality reduction	joint matrix factorisation	Systems_biology	operations
+MOFA2	http://edamontology.org/format_3033	Matrix format	matrices	Systems_biology	formats
+MOFA2	http://edamontology.org/operation_3935	Dimensionality reduction	matrix factorization	Systems_biology	operations
+MOFA2	http://edamontology.org/topic_4021	Multiomics 	multi-omics data integration	Systems_biology	topics
+MOFA2	http://edamontology.org/data_2082	Matrix	omics matrices	Systems_biology	data
+MOFA2	http://edamontology.org/operation_3935	Dimensionality reduction	reduction dimension	Systems_biology	operations
+MOFA2	http://edamontology.org/operation_2238	Statistical calculation	variance decomposition	Systems_biology	operations
+MULTIXRANK	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+MULTIXRANK	http://edamontology.org/format_3464	JSON	json	Systems_biology	formats
+MULTIXRANK	http://edamontology.org/operation_3927	Network analysis	network analysis	Systems_biology	topics
+MULTIXRANK	http://edamontology.org/operation_3927	Network analysis	network biology	Systems_biology	topics
+MULTIXRANK	http://edamontology.org/operation_3927	Network analysis	network exploration	Systems_biology	topics
+MULTIXRANK	http://edamontology.org/operation_3927	Network analysis	random walk with restart	Systems_biology	operations
+MULTIXRANK	http://edamontology.org/format_3619	sif	sif	Systems_biology	formats
+MULTIXRANK	http://edamontology.org/format_3475	TSV	tsv	Systems_biology	formats
+MULTIXRANK	http://edamontology.org/format_2330	Textual format	txt	Systems_biology	formats
+MULTIXRANK	http://edamontology.org/format_3750	YAML	yaml	Systems_biology	formats
+MetaBAT2	http://edamontology.org/data_3707	Biodiversity data	abundance profiling	Metagenomic	data
+MetaBAT2	http://edamontology.org/format_2572	BAM	bam	Metagenomic	formats
+MetaBAT2	http://edamontology.org/data_0925	Sequence Assembly	contigs	Metagenomic	data
+MetaBAT2	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+MetaBAT2	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+MetaBAT2	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Metagenomic	topics
+MetaBAT2	http://edamontology.org/topic_3168	Sequencing	sequencing	Metagenomic	topics
+MetaBAT2	http://edamontology.org/data_1265	Base frequencies table	tetranucleotide frequencies	Metagenomic	data
+MetaBAT2	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+Minimap2	http://edamontology.org/operation_0292	Sequence alignment	alignment of long reads to reference sequence (or genome)	Genetic_variant	operations
+Minimap2	http://edamontology.org/topic_0080	Sequence analysis	dna sequence aligner to reference sequences	Genetic_variant	topics
+Minimap2	http://edamontology.org/format_1929	FASTA	fasta	Genetic_variant	formats
+Minimap2	http://edamontology.org/format_1930	FASTQ	fastq	Genetic_variant	formats
+Minimap2	http://edamontology.org/operation_0227	Indexing	indexing	Genetic_variant	operations
+Minimap2	http://edamontology.org/format_3326	Data index format	mmi	Genetic_variant	formats
+Minimap2	http://edamontology.org/data_0924	Sequence trace	raw reads	Genetic_variant	data
+Minimap2	http://edamontology.org/data_0926	RH scores	reference genome	Genetic_variant	data
+Minimap2	http://edamontology.org/data_1234	Sequence set (nucleic acid)	reference reads	Genetic_variant	data
+Minimap2	http://edamontology.org/operation_0292	Sequence alignment	rna sequence aligner to reference sequences	Genetic_variant	topics
+Minimap2	http://edamontology.org/format_2573	SAM	sam	Genetic_variant	formats
+Minimap2	http://edamontology.org/data_0863	Sequence alignment	sequence alignment formats	Genetic_variant	data
+Monocle3	http://edamontology.org/data_2099	Name	branch labels	Single_Cell	data
+Monocle3	http://edamontology.org/format_3916	MTX	bundle format (mtx)	Single_Cell	formats
+Monocle3	http://edamontology.org/operation_0315	Expression profile comparison	cell trajectories inference	Single_Cell	operations
+Monocle3	http://edamontology.org/topic_4028	Single-cell sequencing	cell trajectories inference	Single_Cell	topics
+Monocle3	http://edamontology.org/operation_3432	Clustering	clustering	Single_Cell	operations
+Monocle3	http://edamontology.org/format_3752	CSV	csv	Single_Cell	formats
+Monocle3	http://edamontology.org/operation_3223	Differential expression analysis	differential expression over cell trajectory	Single_Cell	operations
+Monocle3	http://edamontology.org/data_2082	Matrix	differential expression results	Single_Cell	data
+Monocle3	http://edamontology.org/data_3112	Gene expression matrix	expression matrices	Single_Cell	data
+Monocle3	http://edamontology.org/format_3579	JPEG	jpeg	Single_Cell	formats
+Monocle3	http://edamontology.org/operation_3435	Normalization	normalization	Single_Cell	operations
+Monocle3	http://edamontology.org/format_3508	PDF	pdf	Single_Cell	formats
+Monocle3	http://edamontology.org/data_2884	Plot	plots	Single_Cell	data
+Monocle3	http://edamontology.org/format_3603	PNG	png	Single_Cell	formats
+Monocle3	http://edamontology.org/data_2082	Matrix	pseudotime values	Single_Cell	data
+Monocle3	http://edamontology.org/format_2333	Binary format	rds	Single_Cell	formats
+Monocle3	http://edamontology.org/operation_3935	Dimensionality reduction	reduction dimensions	Single_Cell	operations
+Monocle3	http://edamontology.org/topic_4028	Single-cell sequencing	single-cell genomic	Single_Cell	topics
+Monocle3	http://edamontology.org/format_3603	SVG	svg	Single_Cell	formats
+Monocle3	http://edamontology.org/data_3870	Trajectory data	trajectory graph	Single_Cell	data
+Monocle3	http://edamontology.org/data_3870	Trajectory data	trajectory tree	Single_Cell	data
+Monocle3	http://edamontology.org/format_3475	TSV	tsv	Single_Cell	formats
+Monocle3	http://edamontology.org/operation_0337	Visualisation	visualisations	Single_Cell	operations
+PhyML	http://edamontology.org/topic_0084	Phylogenetics	likelihood-based phylogenetics	Phylogeny	topics
+PhyML	http://edamontology.org/operation_0547	Phylogenetic inference (maximum likelihood and Bayesian methods)	maximum-likelihood tree inference	Phylogeny	operations
+PhyML	http://edamontology.org/topic_3945	Molecular evolution	molecular evolution	Phylogeny	topics
+PhyML	http://edamontology.org/data_0863	Sequence alignment	multiple sequence alignment	Phylogeny	data
+PhyML	http://edamontology.org/format_1910	newick	newick	Phylogeny	formats
+PhyML	http://edamontology.org/format_1435	phylip	phylip	Phylogeny	formats
+PhyML	http://edamontology.org/topic_3293	Phylogenetics	phylogenetics	Phylogeny	topics
+PhyML	http://edamontology.org/data_0872	Phylogenetic tree	phylogeny trees with support values	Phylogeny	data
+PhyML	http://edamontology.org/data_1439	DNA substitution model	sequence evolution model	Phylogeny	data
+PhyML	http://edamontology.org/operation_0323	Phlyogenetic tree construction	tree inference	Phylogeny	operations
+RWR	http://edamontology.org/format_3033	Matrix format	adjacency matrix	Systems_biology	formats
+RWR	http://edamontology.org/data_2600	Network	biological networks	Systems_biology	data
+RWR	http://edamontology.org/data_1772	Score	convergence scores	Systems_biology	data
+RWR	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+RWR	http://edamontology.org/operation_2454	Gene prediction	disease gene prediction	Systems_biology	topics
+RWR	http://edamontology.org/format_3822	GML	gml	Systems_biology	formats
+RWR	http://edamontology.org/data_2600	Pathway or network	network	Systems_biology	data
+RWR	http://edamontology.org/operation_3927	Network analysis	network analysis	Systems_biology	topics
+RWR	http://edamontology.org/operation_3927	Network analysis	network exploration	Systems_biology	topics
+RWR	http://edamontology.org/operation_3927	Network analysis	network propagation	Systems_biology	topics
+RWR	http://edamontology.org/operation_3927	Network analysis	random walk with restart	Systems_biology	operations
+RWR	http://edamontology.org/format_3619	sif	sif	Systems_biology	formats
+RWR	http://edamontology.org/format_3475	TSV	tsv	Systems_biology	formats
+SNF	http://edamontology.org/operation_3432	Clustering	clustering	Systems_biology	operations
+SNF	http://edamontology.org/operation_3432	Clustering	clustering	Systems_biology	topics
+SNF	http://edamontology.org/operation_3927	Network analysis	consensus network building	Systems_biology	operations
+SNF	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+SNF	http://edamontology.org/data_2600	Pathway or network	fused networks	Systems_biology	data
+SNF	http://edamontology.org/data_2855	Distance matrix	fused similarity matrix	Systems_biology	data
+SNF	http://edamontology.org/format_3033	Matrix format	matrix	Systems_biology	formats
+SNF	http://edamontology.org/topic_3391	Omics	multi-omics profiles	Systems_biology	data
+SNF	http://edamontology.org/operation_3927	Network analysis	network analysis	Systems_biology	topics
+SNF	http://edamontology.org/operation_3927	Network analysis	network integration	Systems_biology	topics
+SNF	http://edamontology.org/operation_3927	Network analysis	networks fusion	Systems_biology	operations
+SNF	http://edamontology.org/topic_3391	Omics	omics	Systems_biology	data
+SNF	http://edamontology.org/topic_3577	Personalised medicine	patient stratification	Systems_biology	topics
+SNF	http://edamontology.org/data_2082	Matrix	similarity matrices	Systems_biology	data
+SNF	http://edamontology.org/format_3475	TSV	tsv	Systems_biology	formats
+SNF 	http://edamontology.org/topic_4021	Multiomics 	multi-omics data integration	Systems_biology	topics
+SPM	http://edamontology.org/data_3442	MRI image	anatomical mri	Neuroimaging	data
+SPM	http://edamontology.org/topic_3384	Medical imaging	brain imaging	Neuroimaging	topics
+SPM	http://edamontology.org/format_3548	DICOM format	dicom	Neuroimaging	formats
+SPM	http://edamontology.org/topic_3384	Medical Imaging	eeg analysis	Neuroimaging	topics
+SPM	http://edamontology.org/data_3442	MRI image	fmri	Neuroimaging	data
+SPM	http://edamontology.org/topic_3444	MRI	functional & anatomical MRI preprocesing	Neuroimaging	topics
+SPM	http://edamontology.org/operation_2238	Statistical calculation	group statistical analysis	Neuroimaging	operations
+SPM	http://edamontology.org/format_3579	jpeg	jpeg	Neuroimaging	formats
+SPM	http://edamontology.org/format_3626	MAT	mat	Neuroimaging	formats
+SPM	http://edamontology.org/topic_3384	Medical imaging	neuroimaging	Neuroimaging	topics
+SPM	http://edamontology.org/format_3549	Image format	nifti	Neuroimaging	formats
+SPM	http://edamontology.org/format_3508	PDF	pdf	Neuroimaging	formats
+SPM	http://edamontology.org/data_0006	Data	preprocessed data	Neuroimaging	data
+SPM	http://edamontology.org/format_3696	PS	ps	Neuroimaging	formats
+SPM	http://edamontology.org/data_2048	Report	results reports	Neuroimaging	data
+SPM	http://edamontology.org/data_0951	Statistical estimate score	statistical parametric maps	Neuroimaging	data
+SPM	http://edamontology.org/operation_2238	Statistical calculation	subject statistical analysis	Neuroimaging	operations
+SPM	http://edamontology.org/operation_0337	Visualisation	visualization	Neuroimaging	operations
+STAR	http://edamontology.org/data_0863	Sequence alignment	alignment file	Genetic_variant	data
+STAR	http://edamontology.org/operation_0292	Sequence alignment	alignment of rna sequencing to reference sequence (or genome)	Genetic_variant	operations
+STAR	http://edamontology.org/format_2572	BAM	bam	Genetic_variant	formats
+STAR	http://edamontology.org/format_1929	FASTA	fasta	Genetic_variant	formats
+STAR	http://edamontology.org/format_1930	FASTQ	fastq	Genetic_variant	formats
+STAR	http://edamontology.org/data_0916	Gene annotation	gene annotation	Genetic_variant	data
+STAR	http://edamontology.org/format_2306	GTF	gtf	Genetic_variant	formats
+STAR	http://edamontology.org/operation_0227	Indexing	indexing	Genetic_variant	operations
+STAR	http://edamontology.org/data_0924	Sequence trace	raw sequencing reads	Genetic_variant	data
+STAR	http://edamontology.org/operation_3198	Read mapping	read mapping	Genetic_variant	operations
+STAR	http://edamontology.org/data_0926	RH scores	reference genome	Genetic_variant	data
+STAR	http://edamontology.org/topic_3170	RNA sequencing	rna sequencing	Genetic_variant	topics
+STAR	http://edamontology.org/format_2573	SAM	sam	Genetic_variant	formats
+STAR	http://edamontology.org/operation_0292	Sequence alignment	sequence alignment	Genetic_variant	topics
+Samtools_index	http://edamontology.org/data_0863	Sequence alignment	alignment file	Genetic_variant	data
+Samtools_index	http://edamontology.org/format_3327	BAI	bai	Genetic_variant	formats
+Samtools_index	http://edamontology.org/format_2572	BAM	bam	Genetic_variant	formats
+Samtools_index	http://edamontology.org/format_3326	Data index format	crai	Genetic_variant	formats
+Samtools_index	http://edamontology.org/format_3462	CRAM	cram	Genetic_variant	formats
+Samtools_index	http://edamontology.org/format_3326	Data index format	csi	Genetic_variant	formats
+Samtools_index	http://edamontology.org/topic_3168	DNA-Seq	dna sequencing	Genetic_variant	topics
+Samtools_index	http://edamontology.org/data_3210	Genome index	index alignment file	Genetic_variant	data
+Samtools_index	http://edamontology.org/operation_0227	Indexing	indexing alignment file	Genetic_variant	operations
+Samtools_index	http://edamontology.org/format_2573	SAM	sam	Genetic_variant	formats
+Samtools_index	http://edamontology.org/operation_0292	Sequence alignment	sequence alignment	Genetic_variant	topics
+Scanpy	http://edamontology.org/format_3916	MTX	bundle format (mtx)	Single_Cell	formats
+Scanpy	http://edamontology.org/operation_0315	Expression profile comparison	cell trajectory inference	Single_Cell	operations
+Scanpy	http://edamontology.org/data_0842	Identifier	cluster labels	Single_Cell	data
+Scanpy	http://edamontology.org/operation_3432	Clustering	clustering	Single_Cell	operations
+Scanpy	http://edamontology.org/format_3752	CSV	csv	Single_Cell	formats
+Scanpy	http://edamontology.org/data_2082	Matrix	differential expression results	Single_Cell	data
+Scanpy	http://edamontology.org/operation_3223	Differential expression analysis	differential expression testing	Single_Cell	operations
+Scanpy	http://edamontology.org/operation_3935	Dimensionality reduction	dimensionality reduction	Single_Cell	operations
+Scanpy	http://edamontology.org/data_2914	Sequence features metadata	feature metadata	Single_Cell	data
+Scanpy	http://edamontology.org/format_3590	HDF5	h5ad	Single_Cell	formats
+Scanpy	http://edamontology.org/format_3590	HDF5	hdf5	Single_Cell	formats
+Scanpy	http://edamontology.org/data_2968	Image	images	Single_Cell	data
+Scanpy	http://edamontology.org/format_3579	JPEG	jpeg	Single_Cell	formats
+Scanpy	http://edamontology.org/operation_3435	Normalization	normalization	Single_Cell	operations
+Scanpy	http://edamontology.org/format_3508	PDF	pdf	Single_Cell	formats
+Scanpy	http://edamontology.org/data_2884	Plot	plots	Single_Cell	data
+Scanpy	http://edamontology.org/format_3603	PNG	png	Single_Cell	formats
+Scanpy	http://edamontology.org/data_3112	Gene expression matrix	processed expression matrix	Single_Cell	data
+Scanpy	http://edamontology.org/data_2082	Matrix	pseudotime values	Single_Cell	data
+Scanpy	http://edamontology.org/data_3917	Count matrix	raw count matrix	Single_Cell	data
+Scanpy	http://edamontology.org/topic_4028	Single-cell sequencing	single-cell genomic	Single_Cell	topics
+Scanpy	http://edamontology.org/format_3603	SVG	svg	Single_Cell	formats
+Scanpy	http://edamontology.org/data_3768	Clustered expression profiles	table results	Single_Cell	data
+Scanpy	http://edamontology.org/format_3591	TIFF	tiff	Single_Cell	formats
+Scanpy	http://edamontology.org/data_3870	Trajectory data	trajectory graph	Single_Cell	data
+Scanpy	http://edamontology.org/topic_4028	Single-cell sequencing	trajectory inference	Single_Cell	topics
+Scanpy	http://edamontology.org/data_3870	Trajectory data	trajectory tree	Single_Cell	data
+Scanpy	http://edamontology.org/format_3475	TSV	tsv	Single_Cell	formats
+Scanpy	http://edamontology.org/operation_0337	Visualisation	visualization	Single_Cell	operations
+Seurat	http://edamontology.org/format_3916	MTX	bundle format (mtx)	Single_Cell	formats
+Seurat	http://edamontology.org/data_2082	Matrix	cell embeddings	Single_Cell	data
+Seurat	http://edamontology.org/data_0842	Identifier	cluster labels	Single_Cell	data
+Seurat	http://edamontology.org/operation_3432	Clustering	clustering	Single_Cell	operations
+Seurat	http://edamontology.org/format_3752	CSV	csv	Single_Cell	formats
+Seurat	http://edamontology.org/operation_3223	Differential expression analysis	differential expression testing	Single_Cell	operations
+Seurat	http://edamontology.org/operation_3935	Dimensionality reduction	dimensionality reduction	Single_Cell	operations
+Seurat	http://edamontology.org/data_3112	Gene expression matrix	expression matrix	Single_Cell	data
+Seurat	http://edamontology.org/data_2914	Sequence features metadata	feature metadata	Single_Cell	data
+Seurat	http://edamontology.org/format_3590	HDF5	hdf5	Single_Cell	formats
+Seurat	http://edamontology.org/data_2968	Image	images	Single_Cell	data
+Seurat	http://edamontology.org/format_3579	JPEG	jpeg	Single_Cell	formats
+Seurat	http://edamontology.org/operation_3435	Normalization	normalization	Single_Cell	operations
+Seurat	http://edamontology.org/format_3508	PDF	pdf	Single_Cell	formats
+Seurat	http://edamontology.org/data_2884	Plot	plots	Single_Cell	data
+Seurat	http://edamontology.org/format_3603	PNG	png	Single_Cell	formats
+Seurat	http://edamontology.org/data_3917	Count matrix	raw count matrix	Single_Cell	data
+Seurat	http://edamontology.org/format_2333	Binary format	rds	Single_Cell	formats
+Seurat	http://edamontology.org/topic_4028	Single-cell sequencing	single-cell genomic	Single_Cell	topics
+Seurat	http://edamontology.org/data_0928	DATA Gene expression profile	spatial transcriptomics	Single_Cell	topics
+Seurat	http://edamontology.org/format_3603	SVG	svg	Single_Cell	formats
+Seurat	http://edamontology.org/data_3768	Clustered expression profiles	table results	Single_Cell	data
+Seurat	http://edamontology.org/format_3591	TIFF	tiff	Single_Cell	formats
+Seurat	http://edamontology.org/format_3475	TSV	tsv	Single_Cell	formats
+Seurat	http://edamontology.org/operation_0337	Visualisation	visualization	Single_Cell	operations
+Sniffles2	http://edamontology.org/data_0863	Sequence alignment	alignment file	Genetic_variant	data
+Sniffles2	http://edamontology.org/format_2572	BAM	bam	Genetic_variant	formats
+Sniffles2	http://edamontology.org/format_3003	BED	bed	Genetic_variant	formats
+Sniffles2	http://edamontology.org/operation_3228	Structural variation detection	detection of structural variants	Genetic_variant	topics
+Sniffles2	http://edamontology.org/operation_3228	Structural variation detection	detection of structural variants from long reads	Genetic_variant	operations
+Sniffles2	http://edamontology.org/format_1929	FASTA	fasta	Genetic_variant	formats
+Sniffles2	http://edamontology.org/data_0926	RH scores	reference genome	Genetic_variant	data
+Sniffles2	http://edamontology.org/data_3498	Sequence variations	structural sequence variants	Genetic_variant	data
+Sniffles2	http://edamontology.org/format_3016	VCF	vcf	Genetic_variant	formats
+String.db	http://edamontology.org/operation_3432	Clustering	clustering	Systems_biology	operations
+String.db	http://edamontology.org/data_1772	Score	confidence scores	Systems_biology	data
+String.db	http://edamontology.org/format_3752	CSV	csv	Systems_biology	formats
+String.db	http://edamontology.org/operation_2422	Data retrieval	data retrieval	Systems_biology	operations
+String.db	http://edamontology.org/operation_3501	Enrichment analysis	enrichment analysis	Systems_biology	operations
+String.db	http://edamontology.org/operation_3927	Biological network analysis	exploration of interaction networks	Systems_biology	operations
+String.db	http://edamontology.org/format_1929	FASTA	fasta	Systems_biology	formats
+String.db	http://edamontology.org/topic_1775	Function analysis	functional enrichment	Systems_biology	topics
+String.db	http://edamontology.org/data_2299	Gene name	gene name	Systems_biology	data
+String.db	http://edamontology.org/data_2600	Pathway or network	interaction networks	Systems_biology	data
+String.db	http://edamontology.org/format_3464	JSON	json	Systems_biology	formats
+String.db	http://edamontology.org/operation_3927	Network analysis	network construction	Systems_biology	operations
+String.db	http://edamontology.org/data_2600	Pathway or network	networks	Systems_biology	data
+String.db	http://edamontology.org/format_3603	PNG	png	Systems_biology	formats
+String.db	http://edamontology.org/data_1009	Protein name	protein name	Systems_biology	data
+String.db	http://edamontology.org/data_2976	Protein sequence	protein sequences	Systems_biology	data
+String.db	http://edamontology.org/operation_0276	Protein interaction network analysis	protein-protein interaction networks	Systems_biology	topics
+String.db	http://edamontology.org/data_2044	Sequence	sequences	Systems_biology	data
+String.db	http://edamontology.org/format_3604	SVG	svg	Systems_biology	formats
+String.db	http://edamontology.org/topic_2259	Systems biology	systems biology	Systems_biology	topics
+String.db	http://edamontology.org/format_3475	TSV	tsv	Systems_biology	formats
+String.db	http://edamontology.org/format_2330	Textual format	txt	Systems_biology	formats
+String.db	http://edamontology.org/operation_0337	Visualisation	visualization	Systems_biology	operations
+String.db	http://edamontology.org/format_2332	XML	xml	Systems_biology	formats
+bwa	http://edamontology.org/data_0863	Sequence alignment	alignment file	Genetic_variant	data
+bwa	http://edamontology.org/operation_0292	Sequence alignment	alignment of dna sequencing to reference sequence (or genome)	Genetic_variant	operations
+bwa	http://edamontology.org/topic_3168	DNA-Seq	dna sequencing	Genetic_variant	topics
+bwa	http://edamontology.org/format_1929	FASTA	fasta	Genetic_variant	formats
+bwa	http://edamontology.org/format_1930	FASTQ	fastq	Genetic_variant	formats
+bwa	http://edamontology.org/operation_0227	Indexing	indexing	Genetic_variant	operations
+bwa	http://edamontology.org/data_0926	RH scores	reference genome	Genetic_variant	data
+bwa	http://edamontology.org/format_2573	SAM	sam	Genetic_variant	formats
+bwa	http://edamontology.org/operation_0292	Sequence alignment	sequence alignment	Genetic_variant	topics
+bwa	http://edamontology.org/data_0924	Sequence trace	short sequencing reads	Genetic_variant	data
+checkM2	http://edamontology.org/data_0925	Sequence Assembly	contigs	Metagenomic	data
+checkM2	http://edamontology.org/format_1929	FASTA	fasta	Metagenomic	formats
+checkM2	http://edamontology.org/operation_0362	Genome annotation	genome annotation	Metagenomic	operations
+checkM2	http://edamontology.org/operation_3218	Sequencing quality control	genome quality	Metagenomic	operations
+checkM2	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+checkM2	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Metagenomic	topics
+checkM2	http://edamontology.org/topic_3168	Sequencing	sequencing	Metagenomic	topics
+checkM2	http://edamontology.org/data_1872	Taxonomic name	taxonomic annotation	Metagenomic	data
+checkM2	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic annotation	Metagenomic	operations
+checkM2	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic annotation	Metagenomic	topics
+checkM2	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+deconvolutionLab2	http://edamontology.org/format_3547	Image format	image format	Microscopy	formats
+deconvolutionLab2	http://edamontology.org/format_3547	Image format	microscopy image format	Microscopy	formats
+deconvolutionLab2	http://edamontology.org/data_2968	Image	microscopy images 3d	Microscopy	data
+deseq2	http://edamontology.org/operation_0315	Expression profile comparison	condition comparisons	Genetic_variant	topics
+deseq2	http://edamontology.org/topic_0203	Gene expression	differential gene expression	Genetic_variant	topics
+deseq2	http://edamontology.org/format_3751	DSV	dsv	Genetic_variant	formats
+deseq2	http://edamontology.org/data_3113	Sample annotation	experimental design metadata	Genetic_variant	data
+deseq2	http://edamontology.org/data_3112	Gene expression matrix	expression matrix	Genetic_variant	data
+deseq2	http://edamontology.org/operation_3435	Standardisation and normalisation	normalization of expression matrix	Genetic_variant	operations
+deseq2	http://edamontology.org/data_3112	Gene expression matrix	normalize expression matrix	Genetic_variant	data
+deseq2	http://edamontology.org/topic_3170	RNA sequencing	rna sequencing	Genetic_variant	topics
+deseq2	http://edamontology.org/topic_3170	RNA-Seq	rna-seq	Genetic_variant	topics
+deseq2	http://edamontology.org/operation_3223	Differential gene expression profiling	statistical differential gene expression detection	Genetic_variant	operations
+eggNOG-mapper	http://edamontology.org/operation_0226	Annotation	annotation of genes and proteins using multiple functional databases	Systems_biology	operations
+eggNOG-mapper	http://edamontology.org/format_1929	FASTA	fasta	Systems_biology	formats
+eggNOG-mapper	http://edamontology.org/operation_0361	Sequence annotation	functional annotation of proteins	Systems_biology	topics
+eggNOG-mapper	http://edamontology.org/topic_0085	Functional genomics	functional genomics	Systems_biology	topics
+eggNOG-mapper	http://edamontology.org/data_2044	Sequence	gene sequences	Systems_biology	data
+eggNOG-mapper	http://edamontology.org/format_3989	GZIP format	gzip	Systems_biology	formats
+eggNOG-mapper	http://edamontology.org/operation_0226	Annotation	hierarchical annotation	Systems_biology	operations
+eggNOG-mapper	http://edamontology.org/format_3464	JSON	json	Systems_biology	formats
+eggNOG-mapper	http://edamontology.org/operation_2403	Sequence analysis	large-scale sequence analysis	Systems_biology	operations
+eggNOG-mapper	http://edamontology.org/topic_3174	Metagenomics	metagenomic annotation	Systems_biology	topics
+eggNOG-mapper	http://edamontology.org/data_2977	Nucleic acid sequence	nucleotide sequences	Systems_biology	data
+eggNOG-mapper	http://edamontology.org/topic_0623	Gene and protein families	orthology assignment	Systems_biology	topics
+eggNOG-mapper	http://edamontology.org/operation_1777	Protein function prediction	protein function prediction	Systems_biology	topics
+eggNOG-mapper	http://edamontology.org/data_2976	Protein sequence	protein sequences	Systems_biology	data
+eggNOG-mapper	http://edamontology.org/data_1872	Taxonomic classification	taxonomic assignments	Systems_biology	data
+htseq-count	http://edamontology.org/format_2572	BAM	bam	Genetic_variant	formats
+htseq-count	http://edamontology.org/data_3112	Gene expression matrix	expression matrix	Genetic_variant	data
+htseq-count	http://edamontology.org/data_0916	Gene annotation	gene annotation	Genetic_variant	data
+htseq-count	http://edamontology.org/format_2306	GTF	gtf	Genetic_variant	formats
+htseq-count	http://edamontology.org/topic_3170	RNA sequencing	rna sequencing	Genetic_variant	topics
+htseq-count	http://edamontology.org/format_2573	SAM	sam	Genetic_variant	formats
+mOTUs	http://edamontology.org/data_3707	Biodiversity data	abundance table	Metagenomic	data
+mOTUs	http://edamontology.org/operation_0314	Gene expression profiling	activity profiling	Metagenomic	operations
+mOTUs	http://edamontology.org/format_2572	BAM	bam	Metagenomic	formats
+mOTUs	http://edamontology.org/format_1930	FASTQ	fastq	Metagenomic	formats
+mOTUs	http://edamontology.org/topic_3174	Metagenomics	metagenomics	Metagenomic	topics
+mOTUs	http://edamontology.org/topic_0084	Phylogeny	phylogeny	Metagenomic	topics
+mOTUs	http://edamontology.org/topic_0080	Sequence analysis	sequence analysis	Metagenomic	topics
+mOTUs	http://edamontology.org/topic_3168	Sequencing	sequencing	Metagenomic	topics
+mOTUs	http://edamontology.org/data_1872	Taxonomic name	taxonomic annotation	Metagenomic	data
+mOTUs	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic annotation	Metagenomic	operations
+mOTUs	http://edamontology.org/operation_3460	Taxonomic classification	taxonomic profiling	Metagenomic	topics
+mOTUs	http://edamontology.org/format_3475	TSV	tsv	Metagenomic	formats
+mOTUs	http://edamontology.org/operation_0337	Visualisation	visualization	Metagenomic	operations
+mOTUs	http://edamontology.org/topic_0769	Workflows	workflow	Metagenomic	operations
